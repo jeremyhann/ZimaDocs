@@ -7,7 +7,7 @@ The website for Zima Docs. Bulit with Hexo.
 
 You will need [Node.js](https://nodejs.org/en/)(LTS version recommended),and [yarn](https://classic.yarnpkg.com/en/docs/install)
 
-Install Hexo
+Install Hexo 
 
 ``` bash
 $ npm install -g hexo-cli
