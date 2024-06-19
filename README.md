@@ -16,7 +16,7 @@ $ yarn global add open-cli
 
 Install dependencies:
 
-``` bash
+``` bash 
 $ git clone https://github.com/IceWhaleTech/ZimaDocs.git
 $ cd ZimaDocs
 $ yarn install
