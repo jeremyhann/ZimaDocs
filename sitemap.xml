@@ -182,6 +182,15 @@
   </url>
   
   <url>
+    <loc>https://docs.zimaboard.com/docs/test-doc</loc>
+    
+    <lastmod>2024-06-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs.zimaboard.com/docs/small-body-big-applications-omv-install</loc>
     
     <lastmod>2024-06-21</lastmod>
@@ -192,15 +201,6 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs/test_doc_9999</loc>
-    
-    <lastmod>2024-06-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/docs/test-doc</loc>
     
     <lastmod>2024-06-21</lastmod>
     
