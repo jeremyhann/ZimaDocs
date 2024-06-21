@@ -1,7 +1,7 @@
 ---
 title: Get Started with ZimaBoard
 type: “Docs”
-<!-- 顶部固定格式请勿删除 -->
+tip: 顶部栏固定格式请勿删除
 ---
 # First Look at the Home Server + aaa
 
