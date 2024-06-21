@@ -2,7 +2,7 @@
 title: Get Started with ZimaBoard
 type: “Docs”
 ---
-# First Look at the Home Server
+# First Look at the Home Server + aaa
 
 ![Zimaboard Homeserve](/images/Get-Started-with-ZimaBoard/quick-get-start-zimaboard-homeserve.jpg)
 
