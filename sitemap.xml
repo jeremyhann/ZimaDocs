@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/icon/manifest.json</loc>
-    
-    <lastmod>2024-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.zimaboard.com/docs/All-in-one-routing-system-OpenWRT</loc>
     
     <lastmod>2024-06-26</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/DownloadLLMmodels</loc>
+    <loc>https://docs.zimaboard.com/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
+    <loc>https://docs.zimaboard.com/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-install</loc>
+    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-First-Experience</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-First-Experience</loc>
+    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-install</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -191,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/small-body-big-applications-omv-install</loc>
-    
-    <lastmod>2024-06-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.zimaboard.com/docs/test-doc-banana.md</loc>
     
     <lastmod>2024-06-26</lastmod>
@@ -209,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/test_doc_9999</loc>
+    <loc>https://docs.zimaboard.com/docs/small-body-big-applications-omv-install</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -219,6 +201,15 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs/test-doc</loc>
+    
+    <lastmod>2024-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/docs/test_doc_9999</loc>
     
     <lastmod>2024-06-26</lastmod>
     
@@ -255,6 +246,15 @@
   
   <url>
     <loc>https://docs.zimaboard.com/faq/</loc>
+    
+    <lastmod>2024-06-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/icon/manifest.json</loc>
     
     <lastmod>2024-06-26</lastmod>
     
