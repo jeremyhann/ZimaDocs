@@ -1,6 +1,6 @@
 docs:
   getting_started:
-    start_zimaboard_aaa: index.html
+    start_zimaboard: index.html
     hardware_interface_introduction: Hardware-Interface-Introduction.html
   operating_systems:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
@@ -9,7 +9,7 @@ docs:
     all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
     openwrt_emmc_boot: Openwrt-eMMc-boot.html
     universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
-    self_deploying_applications_bbb: Self-Deploying-Applications.html
+    self_deploying_applications: Self-Deploying-Applications.html
   entertainment_hub:
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
