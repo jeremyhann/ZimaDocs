@@ -1,6 +1,6 @@
 docs:
   getting_started:
-    start_zimaboard: index.html
+    start_zimaboard_aaa: index.html
     hardware_interface_introduction: Hardware-Interface-Introduction.html
   operating_systems:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
