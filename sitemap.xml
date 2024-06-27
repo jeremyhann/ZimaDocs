@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/DownloadLLMmodels</loc>
+    <loc>https://docs.zimaboard.com/docs/ForgotPassword</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/ForgotPassword</loc>
+    <loc>https://docs.zimaboard.com/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/test-doc-banana.md</loc>
+    <loc>https://docs.zimaboard.com/docs/test-bbbbb</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -219,6 +219,15 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs/test-doc</loc>
+    
+    <lastmod>2024-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/docs/test-doc-banana.md</loc>
     
     <lastmod>2024-06-27</lastmod>
     
