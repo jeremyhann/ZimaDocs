@@ -11,25 +11,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Self-Deploying-Applications</loc>
-    
-    <lastmod>2024-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-First-Experience</loc>
-    
-    <lastmod>2024-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-install</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -47,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Universal-third-party-system-installation-tutorial</loc>
+    <loc>https://docs.zimaboard.com/docs/Small-body-Big-applications-OMV-install</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -57,6 +39,15 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
+    
+    <lastmod>2024-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/docs/Universal-third-party-system-installation-tutorial</loc>
     
     <lastmod>2024-06-27</lastmod>
     
@@ -255,6 +246,15 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs/Openwrt-eMMc-boot</loc>
+    
+    <lastmod>2024-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/docs/Self-Deploying-Applications</loc>
     
     <lastmod>2024-06-27</lastmod>
     
