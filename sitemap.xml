@@ -11,42 +11,6 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/faq/Restore-factory-settings</loc>
-    
-    <lastmod>2024-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
-    
-    <lastmod>2024-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/</loc>
-    
-    <lastmod>2024-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/icon/manifest.json</loc>
-    
-    <lastmod>2024-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.zimaboard.com/docs/All-in-one-routing-system-OpenWRT</loc>
     
     <lastmod>2024-06-28</lastmod>
@@ -83,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/ForgotPassword</loc>
-    
-    <lastmod>2024-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.zimaboard.com/docs/GetNetworkID</loc>
     
     <lastmod>2024-06-28</lastmod>
@@ -101,7 +56,25 @@
   </url>
   
   <url>
+    <loc>https://docs.zimaboard.com/docs/ForgotPassword</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs.zimaboard.com/docs/Hardware-Interface-Introduction</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/docs/How-to-set-up-a-NAS-with-ZimaBlade</loc>
     
     <lastmod>2024-06-28</lastmod>
     
@@ -191,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/VR-Audio-And-Video-Experience-Oculus</loc>
+    <loc>https://docs.zimaboard.com/docs/Unraid-First-Experience-at-$129-Installation</loc>
     
     <lastmod>2024-06-28</lastmod>
     
@@ -200,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/Unraid-First-Experience-at-$129-Installation</loc>
+    <loc>https://docs.zimaboard.com/docs/VR-Audio-And-Video-Experience-Oculus</loc>
     
     <lastmod>2024-06-28</lastmod>
     
@@ -218,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/test-aaaaa</loc>
+    <loc>https://docs.zimaboard.com/docs/small-body-big-applications-omv-install</loc>
     
     <lastmod>2024-06-28</lastmod>
     
@@ -227,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://docs.zimaboard.com/docs/small-body-big-applications-omv-install</loc>
+    <loc>https://docs.zimaboard.com/docs/test-aaaaa</loc>
     
     <lastmod>2024-06-28</lastmod>
     
@@ -300,6 +273,42 @@
   
   <url>
     <loc>https://docs.zimaboard.com/faq/How-to-check-IP-address</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/Restore-factory-settings</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/</loc>
+    
+    <lastmod>2024-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/icon/manifest.json</loc>
     
     <lastmod>2024-06-28</lastmod>
     
