@@ -14,6 +14,7 @@ docs:
     self_deploying_applications: Self-Deploying-Applications.html
     start_zimaboard: index.html
     test-aaaaa: test-aaaaa.html
+    experience-immich-on-zimaos: Experience-immich-on-ZimaOS.html
   entertainment_hub:
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
