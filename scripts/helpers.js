@@ -49,16 +49,54 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
     return '';
   }
 
+  result += '<ul class="category-list">'
+
+
+  `
+  <ul class="category-list">
+    {% for category in site.categories %}
+      <li class="{{ category.length ? 'show-children' : '' }}">
+        <a class="category-list-link" href="{{ url_for(category.path) }}">{{ category.name }}</a>
+        {% if category.length %}
+          <ul class="category-list-children">
+            {% for post in category.posts.sort('date', -1) %}
+              <li><a class="category-list-link" href="{{ url_for(post.path) }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  `
+
   for (const [title, menu] of Object.entries(sidebar)) {
-    result += '<strong class="' + className + '-title">' + self.__(prefix + title) + '</strong>';
+    result += `
+      <li>
+        <h4 class="category-list-link"> ${self.__(prefix + title)}</h4>
+        <ul class="category-list-children">
+    `;
 
     for (const [text, link] of Object.entries(menu)) {
-      let itemClass = className + '-link';
+      let itemClass = 'category-list-link';
       if (link === path) itemClass += ' current';
 
-      result += '<a href="' + link + '" class="' + itemClass + '">' + self.__(prefix + text) + '</a>';
+      // result += '<a href="' + link + '" class="' + itemClass + '">' + self.__(prefix + text) + '</a>';
+      result += `<li><a class="${itemClass}" href="${link}">${self.__(prefix + text)}</a></li>`;
     }
+    result += '</ul></li>';
   }
+  result += '</ul>';
+
+  // for (const [title, menu] of Object.entries(sidebar)) {
+  //   result += '<strong class="' + className + '-title">' + self.__(prefix + title) + '</strong>';
+
+  //   for (const [text, link] of Object.entries(menu)) {
+  //     let itemClass = className + '-link';
+  //     if (link === path) itemClass += ' current';
+
+  //     result += '<a href="' + link + '" class="' + itemClass + '">' + self.__(prefix + text) + '</a>';
+  //   }
+  // }
 
   return result;
 });

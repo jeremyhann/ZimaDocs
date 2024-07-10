@@ -1,7 +1,7 @@
 ---
 title: Small Size, Big Applications (OMV+ZimaBoard)
 ---
-# OMV Introduction + aaa
+# OMV Introduction
 
 ![introduce openmediavault](/images/Small-body-Big-applications-(OMV+Zima)/introduce-openmediavault.png)
 

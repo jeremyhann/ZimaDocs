@@ -34,3 +34,24 @@
     color: color-link
   &:hover
     color: color-link-hover
+
+.category-list
+  li
+    position relative
+    line-height 1.8
+    .category-list-link
+      display block
+      color $grey
+      &:hover
+        color $grey-darker
+    .category-list-children
+      display none
+      li
+        line-height 1.8
+        .category-list-link
+          color $grey-light
+          &:hover
+            color $grey
+    &.show-children
+      .category-list-children
+        display block
