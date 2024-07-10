@@ -51,24 +51,6 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
 
   result += '<ul class="category-list">'
 
-
-  `
-  <ul class="category-list">
-    {% for category in site.categories %}
-      <li class="{{ category.length ? 'show-children' : '' }}">
-        <a class="category-list-link" href="{{ url_for(category.path) }}">{{ category.name }}</a>
-        {% if category.length %}
-          <ul class="category-list-children">
-            {% for post in category.posts.sort('date', -1) %}
-              <li><a class="category-list-link" href="{{ url_for(post.path) }}">{{ post.title }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-  `
-
   for (const [title, menu] of Object.entries(sidebar)) {
     result += `
       <li>
@@ -86,7 +68,7 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
     result += '</ul></li>';
   }
   result += '</ul>';
-
+  console.log(result);
   // for (const [title, menu] of Object.entries(sidebar)) {
   //   result += '<strong class="' + className + '-title">' + self.__(prefix + title) + '</strong>';
 
