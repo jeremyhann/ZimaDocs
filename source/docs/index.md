@@ -1,9 +1,8 @@
 ---
 title: Get Started with ZimaBoard
 type: “Docs”
-tip: 顶部栏固定格式请勿删除
 ---
-# First Look at the Home Server + aaa
+# First Look at the Home Server
 
 ![Zimaboard Homeserve](/images/Get-Started-with-ZimaBoard/quick-get-start-zimaboard-homeserve.jpg)
 

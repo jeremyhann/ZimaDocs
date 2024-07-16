@@ -52,23 +52,25 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
   result += '<ul class="category-list">'
 
   for (const [title, menu] of Object.entries(sidebar)) {
-    result += `
-      <li>
-        <h4 class="category-list-link"> ${self.__(prefix + title)}</h4>
-        <ul class="category-list-children">
-    `;
-
+    let showChildren = '';
+    let childrenContent = ''
     for (const [text, link] of Object.entries(menu)) {
       let itemClass = 'category-list-link';
-      if (link === path) itemClass += ' current';
-
-      // result += '<a href="' + link + '" class="' + itemClass + '">' + self.__(prefix + text) + '</a>';
-      result += `<li><a class="${itemClass}" href="${link}">${self.__(prefix + text)}</a></li>`;
+      if (link === path){
+        itemClass += ' current';
+        showChildren = 'show-children';
+      } 
+      childrenContent += `<li><a class="${itemClass}" href="${link}">${self.__(prefix + text)}</a></li>`;
     }
-    result += '</ul></li>';
+    result += `
+    <li class="${showChildren}">
+      <h4 class="category-list-link"> ${self.__(prefix + title)}</h4>
+      <ul class="category-list-children">
+      ${childrenContent}
+      </ul>
+    </li>`;
   }
   result += '</ul>';
-  console.log(result);
   // for (const [title, menu] of Object.entries(sidebar)) {
   //   result += '<strong class="' + className + '-title">' + self.__(prefix + title) + '</strong>';
 

@@ -1,5 +1,5 @@
 ---
-title: Self-Deploying-Applications 1111
+title: Self-Deploying-Applications
 typora-root-url: ..
 ---
 # Reason

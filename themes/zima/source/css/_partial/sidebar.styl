@@ -1,7 +1,7 @@
 #sidebar
   width: sidebar-width
   float: left
-  padding-bottom: 50px
+  padding-bottom: 40px
   opacity: 0.8
   margin-left: sidebar-width * -1
   display: none
@@ -34,26 +34,3 @@
     color: color-link
   &:hover
     color: color-link-hover
-
-.category-list
-  background: #999
-  li
-    position: relative
-    line-height: 1.8
-    .category-list-link
-      display: block
-      color: color-link
-      &:hover
-        color: color-link-hover
-    .category-list-children
-      display: none
-      li
-        line-height: 1.8
-        .category-list-link
-          color: #333
-          &.current: #f1b335
-          &:hover
-            color: color-link-hover
-    &.show-children
-      .category-list-children
-        display: block
