@@ -4,6 +4,10 @@ https://docs.zimaboard.com/knowledge/
 https://docs.zimaboard.com/zimaboard/
 https://docs.zimaboard.com/zimaos/
 https://docs.zimaboard.com/docs/
+https://docs.zimaboard.com/faq/How-to-check-IP-address
+https://docs.zimaboard.com/faq/Restore-factory-settings
+https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version
+https://docs.zimaboard.com/faq/
 https://docs.zimaboard.com/docs_old/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!
 https://docs.zimaboard.com/docs_old/All-in-one-routing-system-OpenWRT
 https://docs.zimaboard.com/docs_old/Basic-functions-of-dedicated-systems
@@ -26,9 +30,5 @@ https://docs.zimaboard.com/docs_old/Unraid-First-Experience-at-$129-Installation
 https://docs.zimaboard.com/docs_old/VR-Audio-And-Video-Experience-Oculus
 https://docs.zimaboard.com/docs_old/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications
 https://docs.zimaboard.com/docs_old/
-https://docs.zimaboard.com/faq/How-to-check-IP-address
-https://docs.zimaboard.com/faq/Restore-factory-settings
-https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version
-https://docs.zimaboard.com/faq/
 https://docs.zimaboard.com/icon/manifest.json
 https://docs.zimaboard.com/

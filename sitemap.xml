@@ -56,6 +56,42 @@
   </url>
   
   <url>
+    <loc>https://docs.zimaboard.com/faq/How-to-check-IP-address</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/Restore-factory-settings</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.zimaboard.com/faq/</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs.zimaboard.com/docs_old/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-07-17</lastmod>
@@ -246,42 +282,6 @@
   
   <url>
     <loc>https://docs.zimaboard.com/docs_old/</loc>
-    
-    <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/How-to-check-IP-address</loc>
-    
-    <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/Restore-factory-settings</loc>
-    
-    <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
-    
-    <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.zimaboard.com/faq/</loc>
     
     <lastmod>2024-07-17</lastmod>
     
