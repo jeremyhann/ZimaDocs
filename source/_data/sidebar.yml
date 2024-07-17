@@ -1,4 +1,32 @@
 docs:
+  start_zimacube:
+    placeholder: placeholder.html
+  remould:
+    placeholder: placeholder.html
+  more_about_os_and_thinkering:
+    placeholder: placeholder.html
+zimaos:
+  getting_started:
+    start_zimaos: index.html
+  tutorials:
+    placeholder: placeholder.html
+  openapi:
+    placeholder: placeholder.html
+zimaboard:
+  start_zimaboard:
+    power_on_zimaboard: index.html
+  start_zimablade:
+    placeholder: placeholder.html
+  diy_project_hub:
+    placeholder: placeholder.html
+knowledge:
+  3rd_party_os:
+    install_unraid_on_zima_device: index.html
+  self_hosting_applications:
+    placeholder: placeholder.html
+  more_pcie_accessories:
+    placeholder: placeholder.html
+docs_old:
   getting_started:
     start_zimaboard: index.html
     self_deploying_applications: Self-Deploying-Applications.html

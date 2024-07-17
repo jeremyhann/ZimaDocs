@@ -42,15 +42,23 @@ logo-size = 60px
   @media mq-normal
     display: flex
     
-
-
 .search-icon-container
   flex-shrink: 0
   width: 60px
   display: flex
   justify-content: center
+  a.shop
+    display: inline-block
+    background: color-link
+    padding: 10px 20px
+    margin-right: 20px
+    font-weight: 500
+    &:hover
+      opacity: 0.9
   @media mq-mobile
     justify-content: flex-end
+    a.shop
+      margin-right: -10px
 
 #logo-wrap
   flex: 0 logo-size

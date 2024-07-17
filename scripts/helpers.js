@@ -49,22 +49,33 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
     return '';
   }
 
+  if(type === 'docs') {
+    result += `
+    <h4 class="category-list-link sidebar-title ${path=='index.html'?'current':''}" style="border:none"> 
+      <a href="/docs">Portal</a>
+    </h4>
+    `
+  }
+
   result += '<ul class="category-list">'
 
   for (const [title, menu] of Object.entries(sidebar)) {
     let showChildren = '';
-    let childrenContent = ''
+    let childrenContent = '';
     for (const [text, link] of Object.entries(menu)) {
-      let itemClass = 'category-list-link';
+      let itemClass = '';
       if (link === path){
         itemClass += ' current';
         showChildren = 'show-children';
       } 
-      childrenContent += `<li><a class="${itemClass}" href="${link}">${self.__(prefix + text)}</a></li>`;
+      childrenContent += `<li class="sidebar-link ${itemClass}"><a href="${link}">${self.__(prefix + text)}</a></li>`;
     }
     result += `
     <li class="${showChildren}">
-      <h4 class="category-list-link"> ${self.__(prefix + title)}</h4>
+      <h4 class="category-list-link sidebar-title"> 
+        <span>${self.__(prefix + title)}</span>
+        <i class="fa fa-chevron-right"></i>
+      </h4>
       <ul class="category-list-children">
       ${childrenContent}
       </ul>

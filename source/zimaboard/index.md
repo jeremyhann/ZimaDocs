@@ -1,5 +1,5 @@
 ---
-title: ZimaDocs 落地页
+title: Power on ZimaBoard
 type: “Docs”
 ---
 # Section1
