@@ -18,7 +18,7 @@ page:
   next: Next
   last_updated: 'Last updated: %s'
 sidebar:
-  docs:
+  zimacube:
     placeholder: Placeholder
     start_zimacube: Get Started with ZimaCube
     remould: Remould
@@ -41,7 +41,7 @@ sidebar:
     install_unraid_on_zima_device: Install Unraid on Zima Device
     self_hosting_applications: Self Hosting Applications
     more_pcie_accessories: More PCIe Accessories
-  docs_old:
+  docs:
     getting_started: Getting Started
     start_zimaboard: Start ZimaBoard
     hardware_interface_introduction: Hardware Interface Introduction

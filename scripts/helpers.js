@@ -49,7 +49,7 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
     return '';
   }
 
-  if(type === 'docs') {
+  if(type === 'zimacube') {
     result += `
     <h4 class="category-list-link sidebar-title ${path=='index.html'?'current':''}" style="border:none"> 
       <a href="/docs">Portal</a>
