@@ -67,8 +67,10 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
       if (link === path){
         itemClass += ' current';
         showChildren = 'show-children';
-      } 
-      childrenContent += `<li class="sidebar-link ${itemClass}"><a href="${link}">${self.__(prefix + text)}</a></li>`;
+      }
+      if( !(type=='zimacube' && link == 'index.html')){ 
+        childrenContent += `<li class="sidebar-link ${itemClass}"><a href="${link}">${self.__(prefix + text)}</a></li>`;
+      }
     }
     result += `
     <li class="${showChildren}">

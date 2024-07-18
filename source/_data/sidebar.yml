@@ -1,5 +1,6 @@
 zimacube:
   start_zimacube:
+    portal: index.html
     placeholder: placeholder.html
   remould:
     placeholder: placeholder.html
