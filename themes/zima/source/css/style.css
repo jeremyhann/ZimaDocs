@@ -7935,7 +7935,11 @@ margin: 0px 5px;}
 
 .footer-light .widget_address_outer .social-icons li {	padding-right: 10px;}
 
-.footer-top {	padding: 60px 0px 0px 0px;}
+.footer-top {	
+  padding: 60px 0px 0px 0px;
+  display: flex;
+  justify-content: center;
+}
 
 .footer-h-left{padding:50px 40px 40px 0px;position:relative; z-index:1;}
 
