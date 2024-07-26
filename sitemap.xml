@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/zimaboard/How-to-set-up-a-NAS-with-ZimaBlade</loc>
     
     <lastmod>2024-07-26</lastmod>
@@ -38,7 +29,34 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/zimaboard/</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimacube/Create-NAS</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimacube/</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -57,51 +75,6 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/zimaos/</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/docs/All-in-one-routing-system-OpenWRT</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -182,15 +155,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/Openwrt-eMMc-boot</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/docs/Self-Deploying-Applications</loc>
     
     <lastmod>2024-07-26</lastmod>
@@ -209,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/Speedlimit</loc>
+    <loc>https://docs-test.zimaspace.com/docs/Openwrt-eMMc-boot</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -219,6 +183,15 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/docs/Small-body-Big-applications-OMV-install</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/docs/Speedlimit</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -308,6 +281,15 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/faq/</loc>
     
     <lastmod>2024-07-26</lastmod>
@@ -317,7 +299,34 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
+    
+    <lastmod>2024-07-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/docs/All-in-one-routing-system-OpenWRT</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -353,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -425,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-First-Experience</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Self-Deploying-Applications</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -434,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Self-Deploying-Applications</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-First-Experience</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -461,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
     
     <lastmod>2024-07-26</lastmod>
     
@@ -470,7 +479,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
     
     <lastmod>2024-07-26</lastmod>
     
