@@ -28,6 +28,10 @@ highlight:
   enable: true
   line_number: false
 
+search:
+  path: search.xml
+  field: all
+
 google_analytics: GTM-K5S64RV
 fb_admins: 298662541343433
 twitter: zimaboard
