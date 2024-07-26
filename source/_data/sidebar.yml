@@ -3,6 +3,7 @@ zimacube:
     portal: index.html
     placeholder: placeholder.html
     quick-start: Quick-Start.html
+    create-nas: Create-NAS.html
   remould:
     placeholder: placeholder.html
   more_about_os_and_thinkering:
