@@ -29,7 +29,8 @@ sidebar:
     create-nas: Create NAS
     about-zimaos: About ZimaOS
     release-note: Release Note
-    zimaos-application-content: ZimaOS application content
+    user-guide: User Guide
+    advanced-using: Advanced Using
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
