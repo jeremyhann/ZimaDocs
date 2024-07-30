@@ -6,6 +6,7 @@ zimacube:
     about-zimaos: About-ZimaOS.html
   explore_zimaos:
     placeholder: placeholder.html
+    release-note: Release-Note.html
   explore_zimacube:
     placeholder: placeholder.html
   toturial_faq:
