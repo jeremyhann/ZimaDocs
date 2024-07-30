@@ -3,6 +3,7 @@ zimacube:
     portal: index.html
     quick-start: Quick-Start.html
     create-nas: Create-NAS.html
+    about-zimaos: About-ZimaOS.html
   explore_zimaos:
     placeholder: placeholder.html
   explore_zimacube:
