@@ -1,5 +1,5 @@
-https://docs-test.zimaspace.com/
 https://docs-test.zimaspace.com/index_old
+https://docs-test.zimaspace.com/
 https://docs-test.zimaspace.com/knowledge/
 https://docs-test.zimaspace.com/zimaboard/How-to-set-up-a-NAS-with-ZimaBlade
 https://docs-test.zimaspace.com/zimaboard/
@@ -10,12 +10,12 @@ https://docs-test.zimaspace.com/zimacube/Release-Note
 https://docs-test.zimaspace.com/zimacube/User-Guide
 https://docs-test.zimaspace.com/zimacube/
 https://docs-test.zimaspace.com/zimaos/
-https://docs-test.zimaspace.com/faq/How-to-check-IP-address
-https://docs-test.zimaspace.com/faq/Restore-factory-settings
-https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version
 https://docs-test.zimaspace.com/icon/manifest.json
-https://docs-test.zimaspace.com/faq/
 https://docs-test.zimaspace.com/cn/
+https://docs-test.zimaspace.com/faq/Restore-factory-settings
+https://docs-test.zimaspace.com/faq/How-to-check-IP-address
+https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version
+https://docs-test.zimaspace.com/faq/
 https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!
 https://docs-test.zimaspace.com/docs/All-in-one-routing-system-OpenWRT
 https://docs-test.zimaspace.com/docs/Basic-functions-of-dedicated-systems
@@ -42,8 +42,8 @@ https://docs-test.zimaspace.com/cn/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FP
 https://docs-test.zimaspace.com/cn/docs/All-in-one-routing-system-OpenWRT
 https://docs-test.zimaspace.com/cn/docs/Basic-functions-of-dedicated-systems
 https://docs-test.zimaspace.com/cn/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera
-https://docs-test.zimaspace.com/cn/docs/ForgotPassword
 https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels
+https://docs-test.zimaspace.com/cn/docs/ForgotPassword
 https://docs-test.zimaspace.com/cn/docs/GetNetworkID
 https://docs-test.zimaspace.com/cn/docs/Hardware-Interface-Introduction
 https://docs-test.zimaspace.com/cn/docs/How-to-set-up-a-NAS-with-ZimaBlade
@@ -59,6 +59,6 @@ https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-At-$129-Five-dri
 https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-at-$129-Installation
 https://docs-test.zimaspace.com/cn/docs/VR-Audio-And-Video-Experience-Oculus
 https://docs-test.zimaspace.com/cn/docs/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications
-https://docs-test.zimaspace.com/cn/docs/
 https://docs-test.zimaspace.com/cn/zimacube/
+https://docs-test.zimaspace.com/cn/docs/
 https://docs-test.zimaspace.com/
