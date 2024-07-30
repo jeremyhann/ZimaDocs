@@ -21,9 +21,10 @@ sidebar:
   zimacube:
     placeholder: Placeholder
     portal: Portal
-    start_zimacube: Get Started with ZimaCube
-    remould: Remould
-    more_about_os_and_thinkering: More About OS and Thinkering
+    start_zimacube: Getting Started with ZimaCube
+    explore_zimaos: Exploring ZimaOS
+    explore_zimacube: Exploring ZimaCube
+    toturial_faq: Tutorial & FAQ
     quick-start: Quick Start
     create-nas: Create NAS
   zimaos:
