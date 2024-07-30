@@ -8,6 +8,7 @@ zimacube:
     placeholder: placeholder.html
     release-note: Release-Note.html
     user-guide: User-Guide.html
+    zimaos-application-content: ZimaOS-application-content.html
   explore_zimacube:
     placeholder: placeholder.html
   toturial_faq:
