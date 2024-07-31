@@ -34,7 +34,8 @@ sidebar:
     zimaos-application-content: ZimaOS application content
     hdd-interface-usage-guide: HDD Interface Instructions
     instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
-    usb-port-instructions: USB Port Instructions
+    thunderbolt-port-instructions: Thunderbolt Port Instructions
+    ram-interface-instructions: RAM Interface Instructions
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
