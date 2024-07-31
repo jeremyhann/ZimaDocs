@@ -18,6 +18,7 @@ zimacube:
     usb-port-instructions: USB-Port-Instructions.html
     ram-interface-instructions: RAM-Interface-Instructions.html
     pcie-interface-instructions: PCIe-Interface-Instructions.html
+    fan-interface-instructions: Fan-Interface-Instructions.html
   toturial_faq:
     placeholder: placeholder.html
 zimaos:
