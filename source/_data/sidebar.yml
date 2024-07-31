@@ -14,6 +14,7 @@ zimacube:
     placeholder: placeholder.html
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
+    thunderbolt-port-instructions: Thunderbolt-Port-Instructions.html
   toturial_faq:
     placeholder: placeholder.html
 zimaos:
