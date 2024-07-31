@@ -5,13 +5,11 @@ zimacube:
     create-nas: Create-NAS.html
     about-zimaos: About-ZimaOS.html
   explore_zimaos:
-    placeholder: placeholder.html
     release-note: Release-Note.html
     user-guide: User-Guide.html
     zimaos-application-content: ZimaOS-application-content.html
     advanced-using: Advanced-Using.html
   explore_zimacube:
-    placeholder: placeholder.html
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
     thunderbolt-port-instructions: Thunderbolt-Port-Instructions.html
@@ -19,10 +17,11 @@ zimacube:
     ram-interface-instructions: RAM-Interface-Instructions.html
     pcie-interface-instructions: PCIe-Interface-Instructions.html
     fan-interface-instructions: Fan-Interface-Instructions.html
-  toturial_faq:
-    placeholder: placeholder.html
+  toturials:
     tutorials: Tutorials.html
     troubleshooting: Troubleshooting.html
+  faq:
+    placeholder: placeholder.html
 zimaos:
   getting_started:
     start_zimaos: index.html
