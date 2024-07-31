@@ -19,9 +19,9 @@ zimacube:
     fan-interface-instructions: Fan-Interface-Instructions.html
   toturials:
     tutorials: Tutorials.html
-    troubleshooting: Troubleshooting.html
   faq:
     placeholder: placeholder.html
+    troubleshooting: Troubleshooting.html
 zimaos:
   getting_started:
     start_zimaos: index.html
