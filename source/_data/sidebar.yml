@@ -12,6 +12,7 @@ zimacube:
     advanced-using: Advanced-Using.html
   explore_zimacube:
     placeholder: placeholder.html
+    hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
   toturial_faq:
     placeholder: placeholder.html
 zimaos:
