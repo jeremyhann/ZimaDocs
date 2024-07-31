@@ -39,7 +39,7 @@ sidebar:
     fan-interface-instructions: Fan Interface Instructions
     usb-port-instructions: USB Port Instructions
     pcie-interface-instructions: PCIe Interface Instructions
-    tutorials: Tutorials
+    troubleshooting: Troubleshooting
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
