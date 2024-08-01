@@ -25,6 +25,7 @@ zimacube:
   faq:
     placeholder: placeholder.html
     troubleshooting: Troubleshooting.html
+    creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
 zimaos:
   getting_started:
     start_zimaos: index.html
