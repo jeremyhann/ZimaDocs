@@ -46,6 +46,7 @@ sidebar:
     from-synology-to-zimacube，migrate-all-files!: From Synology to ZimaCube，migrate all files!
     creating-raid-troubleshooting-guide: Creating RAID Troubleshooting Guide
     troubleshooting: ZimaCube Resets CMOS
+    how-to-open-ssh-in-zimaos: How to Open SSH in ZimaOS
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
