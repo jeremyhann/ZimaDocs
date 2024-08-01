@@ -48,6 +48,7 @@ sidebar:
     troubleshooting: ZimaCube Resets CMOS
     how-to-open-ssh-in-zimaos: How to Open SSH in ZimaOS
     detailed-plex-operation-guide: Detailed Plex Operation Guide
+    how-to-understand-docker-app's-paths-on-zimaos: How to understand Docker App's paths On ZimaOS
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
