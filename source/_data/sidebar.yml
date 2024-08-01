@@ -23,6 +23,7 @@ zimacube:
     how-to-install-zimaos: How-to-Install-ZimaOS.html
     from-synology-to-zimacube，migrate-all-files!: From-Synology-to-ZimaCube，migrate-all-files!.html
     how-to-open-ssh-in-zimaos: How-to-Open-SSH-in-ZimaOS.html
+    how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
   faq:
     placeholder: placeholder.html
     troubleshooting: Troubleshooting.html
