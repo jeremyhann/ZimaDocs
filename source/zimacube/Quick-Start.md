@@ -19,6 +19,9 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 如何安装2.5 硬盘
 ###  Install M.2 Disk
 如何安装M.2 硬盘
+
+---
+
 # Power-on
 接下来启动设备
 ## Connect power and network cables
@@ -26,6 +29,9 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ## Boot up your ZimaCube
 按下电源按键（说明电源指示灯语）
 展示开机界面，引入下文
+
+---
+
 # Log-in
 ## Find out your ZimaCube
 提供两个路径 推荐Findzima
