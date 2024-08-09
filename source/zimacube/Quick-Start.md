@@ -20,9 +20,9 @@ When you unbox your ZimaCube, you should find the following items included:
 8. Phillips Screwdriver x1
 ### Description of Accessories
 Each accessory serves a specific purpose to ensure proper setup and use of your ZimaCube:
-1. Power Adapter and Cord : Supplies power to the ZimaCube.
-2. Ethernet Cable: Used to connect the ZimaCube to your network.
-3. Screws of Various Types:
+1. **Power Adapter and Cord** : Supplies power to the ZimaCube.
+2. **Ethernet Cable**: Used to connect the ZimaCube to your network.
+3. **Screws of Various Types:**
 - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
 - Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
 - 6mm high/cross recessed countersunk (thin head) screws:3.5-inch hard disk fastening screws
