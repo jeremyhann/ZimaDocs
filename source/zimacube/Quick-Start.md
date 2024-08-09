@@ -32,7 +32,7 @@ ZimaCube is a high-performance shared storage solution designed to cater to the 
 Key Features:
 - Up to 164TB Storage Capacity: Ample space to store all your projects, files, and backups.
 - 1GB/s Read/Write Speed: Enjoy data transfer speeds 10 times faster than conventional cloud services, ensuring smooth and efficient workflows.
-- Advanced Networking: Equipped with 10GbE and 2.5GbE networking options to handle even the most demanding data-intensive tasks.
+- Advanced Networking: ZimaCube Pro comes with 10GbE and 2.5GbE networking options to handle the most demanding data-intensive tasks.
 
 The following is an introduction to the ZimaCube and ZimaCube Pro interfaces:
 ### ZimaCube/ZimaCube Pro
