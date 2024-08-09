@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://docs-test.zimaspace.com/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/index_old</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaboard/How-to-set-up-a-NAS-with-ZimaBlade</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaboard/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/About-ZimaOS</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/zimacube/Advanced-Using</loc>
     
     <lastmod>2024-08-09</lastmod>
@@ -83,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Detailed-Plex-Operation-Guide</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Fan-Interface-Instructions</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -92,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Fan-Interface-Instructions</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Detailed-Plex-Operation-Guide</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -155,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/zimacube/Instructions-for-use-of-the-7th-Bay</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/zimacube/PCIe-Interface-Instructions</loc>
     
     <lastmod>2024-08-09</lastmod>
@@ -165,15 +120,6 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/zimacube/Quick-Start</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Instructions-for-use-of-the-7th-Bay</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -209,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Tutorials</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Troubleshooting</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -218,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Troubleshooting</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Tutorials</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -272,6 +218,69 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/index_old</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaboard/How-to-set-up-a-NAS-with-ZimaBlade</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaboard/</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimacube/About-ZimaOS</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/cn/</loc>
     
     <lastmod>2024-08-09</lastmod>
@@ -317,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/DownloadLLMmodels</loc>
+    <loc>https://docs-test.zimaspace.com/docs/ForgotPassword</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -326,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/ForgotPassword</loc>
+    <loc>https://docs-test.zimaspace.com/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/Openwrt-eMMc-boot</loc>
+    <loc>https://docs-test.zimaspace.com/docs/MineCraft-Friendship-Service</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -371,7 +380,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/MineCraft-Friendship-Service</loc>
+    <loc>https://docs-test.zimaspace.com/docs/Openwrt-eMMc-boot</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -398,7 +407,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/Small-body-Big-applications-OMV-install</loc>
+    <loc>https://docs-test.zimaspace.com/docs/Speedlimit</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -407,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/Speedlimit</loc>
+    <loc>https://docs-test.zimaspace.com/docs/Small-body-Big-applications-OMV-install</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -506,124 +515,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/faq/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-First-Experience</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-install</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Speedlimit</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-at-$129-Installation</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/VR-Audio-And-Video-Experience-Oculus</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/zimacube/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Basic-functions-of-dedicated-systems</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -641,15 +533,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
-    
-    <lastmod>2024-08-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/All-in-one-routing-system-OpenWRT</loc>
     
     <lastmod>2024-08-09</lastmod>
@@ -659,7 +542,16 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/ForgotPassword</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Basic-functions-of-dedicated-systems</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -669,6 +561,15 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/ForgotPassword</loc>
     
     <lastmod>2024-08-09</lastmod>
     
@@ -723,6 +624,105 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/Self-Deploying-Applications</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-First-Experience</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Small-body-Big-applications-OMV-install</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Speedlimit</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-at-$129-Installation</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/VR-Audio-And-Video-Experience-Oculus</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/zimacube/</loc>
+    
+    <lastmod>2024-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/</loc>
     
     <lastmod>2024-08-09</lastmod>
     
