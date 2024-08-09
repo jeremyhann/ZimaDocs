@@ -50,7 +50,7 @@ The following is an introduction to the ZimaCube and ZimaCube Pro interfaces:
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
 2. **Press the Yellow Button on the Hard Drive Bay**
 Locate and press the yellow button situated on the hard drive bay. This will release the locking mechanism of the hard drive tray.
-3. **Gently Pull the Hard Drive Tray Handle **
+3. **Gently Pull the Hard Drive Tray Handle**
 Once the hard drive tray handle pops out, gently pull it to slowly slide the hard drive tray out of the bay.
 ###  Install SATA Disk
 #### Install 3.5 hard disk
@@ -63,7 +63,7 @@ Once the hard drive tray handle pops out, gently pull it to slowly slide the har
 - Ensure the screws are tightened so that the surface is flush and even.
 #### Install 2.5 hard disk
 1. **Prepare the Hard Drive Tray:**
-Remove the hard drive tray and prepare.
+- Remove the hard drive tray and prepare.
 2. **Insert the 3.5-inch hard drive:**
 - Place the 3.5-inch hard drive into the tray, aligning the screw holes on the sides of the hard drive with those on the tray.
 3. **Secure the Hard Drive:**
