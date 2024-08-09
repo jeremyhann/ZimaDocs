@@ -46,19 +46,19 @@ The following is an introduction to the ZimaCube and ZimaCube Pro interfaces:
 ![](https://manage.icewhale.io/api/static/docs/1723172415073_image.png)
 
 ## Install Your Disk
-1. Remove the Front Panel of the Chassis
+1. **Remove the Front Panel of the Chassis**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
-3. Press the Yellow Button on the Hard Drive Bay
+2. **Press the Yellow Button on the Hard Drive Bay**
 Locate and press the yellow button situated on the hard drive bay. This will release the locking mechanism of the hard drive tray.
-4. Gently Pull the Hard Drive Tray Handle 
+3. **Gently Pull the Hard Drive Tray Handle **
 Once the hard drive tray handle pops out, gently pull it to slowly slide the hard drive tray out of the bay.
 ###  Install SATA Disk
 #### Install 3.5 hard disk
-1. Prepare the Hard Drive Tray:
-Remove the hard drive tray and prepare.
-2. Insert the 3.5-inch Hard Drive:
+1. **Prepare the Hard Drive Tray:**
+- Remove the hard drive tray and prepare.
+2. **Insert the 3.5-inch Hard Drive:**
 - Place the 3.5-inch hard drive into the tray, aligning the screw holes on the sides of the hard drive with those on the tray.
-3. Secure the Hard Drive:
+3. **Secure the Hard Drive:**
 - Use the provided 6-32 screws to secure the hard drive in place. It is recommended to use the screws that come with your ZimaCube for a proper fit.
 - Ensure the screws are tightened so that the surface is flush and even.
 #### Install 2.5 hard disk
