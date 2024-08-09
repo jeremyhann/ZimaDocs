@@ -25,7 +25,7 @@ Each accessory serves a specific purpose to ensure proper setup and use of your 
 3. **Screws of Various Types:**
 - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
 - Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
-- 6mm high/cross recessed countersunk (thin head) screws:3.5-inch hard disk fastening screws
+- 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
 - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 ## Product Overview
 ZimaCube is a high-performance shared storage solution designed to cater to the needs of creative professionals and tech enthusiasts. With its expansive storage capacity and lightning-fast data transfer speeds, ZimaCube redefines what you can expect from personal cloud storage.
