@@ -62,21 +62,21 @@ Once the hard drive tray handle pops out, gently pull it to slowly slide the har
 - Use the provided 6-32 screws to secure the hard drive in place. It is recommended to use the screws that come with your ZimaCube for a proper fit.
 - Ensure the screws are tightened so that the surface is flush and even.
 #### Install 2.5 hard disk
-1. Prepare the Hard Drive Tray:
+1. **Prepare the Hard Drive Tray:**
 Remove the hard drive tray and prepare.
-2. Insert the 3.5-inch hard drive:
+2. **Insert the 3.5-inch hard drive:**
 - Place the 3.5-inch hard drive into the tray, aligning the screw holes on the sides of the hard drive with those on the tray.
-3. Secure the Hard Drive:
+3. **Secure the Hard Drive:**
 - Use the provided M3 screws to secure the hard drive in place. It is recommended to use the screws that come with your ZimaCube for a proper fit.
 - Ensure the screws are tightened so that the surface is flush and even.
 ###  Install M.2 Disk
 How to install an M.2 drive
-1. Prepare the 7th Bay:
+1. **Prepare the 7th Bay:**
 Remove the 7th Bay and prepare.
-2. Insert the M.2 SSD:
+2. **Insert the M.2 SSD:**
 - Align the M.2 interface and gently slide the M.2 SSD into the slot at a 30 to 45 degree angle, then push it down flat. 
 - （You’ll know it’s in correctly when it clicks into place. Don’t force it; if it doesn’t go in easily,  ensure to recheck and adjust the alignment accordingly.）
-3. Secure the M.2 SSD:
+3. **Secure the M.2 SSD:**
 - Use the appropriate screw to secure the SSD in place.  
 ---
 # Power-on
