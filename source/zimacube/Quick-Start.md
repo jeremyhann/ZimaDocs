@@ -4,11 +4,11 @@ description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
+**Welcome to Zima Space!** This guide is designed for anyone using ZimaCube for the first time, guiding you through three simple steps to access the system. Whether you're tech-savvy or not, we'll patiently help you get started with ease and enjoy the convenience of our storage solution.
 # Unbox-ing
-Preparation before startup
 ## Shipping list
 ### What is in the Box
-When you unbox your ZimaCube, you should find the following items included:
+In addition to the device itself, we have prepared all the necessary accessories for you to get started quickly, you should find the following items included:
 （内含物全家福）
 1. ZimaCube x1
 2. Power Adapter x1 
