@@ -28,7 +28,6 @@ sidebar:
     faq: FAQ
     quick-start: Quick Start
     create-nas: Create NAS
-    about-zimaos: About ZimaOS
     release-note: Release Note
     user-guide: User Guide
     advanced-using: Advanced Using
@@ -55,6 +54,7 @@ sidebar:
     start_zimaos: Start ZimaOS
     tutorials: Tutorials
     openapi: OpenAPI
+    about-zimaos: About ZimaOS
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
