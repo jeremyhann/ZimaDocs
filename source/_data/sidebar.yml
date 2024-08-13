@@ -3,7 +3,6 @@ zimacube:
     portal: index.html
     quick-start: Quick-Start.html
     create-nas: Create-NAS.html
-    about-zimaos: About-ZimaOS.html
   explore_zimaos:
     release-note: Release-Note.html
     user-guide: User-Guide.html
@@ -34,6 +33,7 @@ zimaos:
     start_zimaos: index.html
   tutorials:
     placeholder: placeholder.html
+    about-zimaos: About-ZimaOS.html
   openapi:
     placeholder: placeholder.html
 zimaboard:
