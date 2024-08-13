@@ -4,7 +4,7 @@ description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-**Welcome to Zima Space!**:rocket:This guide is designed for anyone using ZimaCube for the first time, guiding you through three simple steps to access the system. Whether you're tech-savvy or not, we'll patiently help you get started with ease and enjoy the convenience of our storage solution.
+**Welcome to Zima Space!** This guide is designed for anyone using ZimaCube for the first time, guiding you through three simple steps to access the system. Whether you're tech-savvy or not, we'll patiently help you get started with ease and enjoy the convenience of our storage solution.
 # Unbox-ing
 ## Shipping list
 ### What is in the Box
@@ -20,13 +20,13 @@ In addition to the device itself, we have prepared all the necessary accessories
 8. Phillips Screwdriver x1
 ### Description of Accessories
 Each accessory serves a specific purpose to ensure proper setup and use of your ZimaCube:
-1. **Power Adapter and Cord** : Supplies power to the ZimaCube.
-2. **Ethernet Cable**: Used to connect the ZimaCube to your network.
-3. **Screws of Various Types:**
-- Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
-- Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
-- 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
-- M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
+* **Power Adapter and Cord** : Supplies power to the ZimaCube.
+* **Ethernet Cable**: Used to connect the ZimaCube to your network.
+* **Screws of Various Types:**
+  - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
+  - Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
+  - 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
+  - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 ## Product Overview
 ZimaCube is a high-performance shared storage solution designed to cater to the needs of creative professionals and tech enthusiasts. With its expansive storage capacity and lightning-fast data transfer speeds, ZimaCube redefines what you can expect from personal cloud storage.
 Key Features:
