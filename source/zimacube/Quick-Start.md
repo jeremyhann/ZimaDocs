@@ -28,7 +28,7 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
   - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 ## Product Overview
-Before we get started, let’s take a moment to get to know ZimaCube. ZimaCube is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
+Before we start assembling, let’s take a moment to get to know ZimaCube. ZimaCube is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
 Let’s begin by briefly exploring the functions of these different interfaces.
 ### Front Interface Panel
 ![](https://manage.icewhale.io/api/static/docs/1723172359941_image.png)
@@ -40,6 +40,7 @@ Let’s begin by briefly exploring the functions of these different interfaces.
 ![](https://manage.icewhale.io/api/static/docs/1723172409308_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172415073_image.png)
 
+Before powering on, let’s install your accessories into the ZimaCube. The most crucial component for any NAS is the hard drive.
 ## Install Your Disk
 1. **Remove the Front Panel of the Chassis**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
