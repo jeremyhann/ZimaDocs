@@ -19,8 +19,8 @@ In addition to the device itself, we have prepared all the necessary accessories
 7. Hex Screwdriver x1
 8. Phillips Screwdriver x1
 ### Description of Accessories
-Each accessory serves a specific purpose to ensure proper setup and use of your ZimaCube:
-* **Power Adapter and Cord** : Supplies power to the ZimaCube.
+Each accessory is designed to serve a specific purpose, ensuring the smooth setup and optimal use of your ZimaCube.
+* **Power Adapter and Cord** : Ensure your ZimaCube, hard drives, and accessories receive adequate power for optimal performance.
 * **Ethernet Cable**: Used to connect the ZimaCube to your network.
 * **Screws of Various Types:**
   - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
