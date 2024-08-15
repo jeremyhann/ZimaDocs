@@ -18,17 +18,9 @@ In addition to the device itself, we have prepared all the necessary accessories
 6. User Manual x1
 7. Hex Screwdriver x1
 8. Phillips Screwdriver x1
-### Description of Accessories
-Each accessory is designed to serve a specific purpose, ensuring the smooth setup and optimal use of your ZimaCube.
-* **Power Adapter and Cord** : Ensure your ZimaCube, hard drives, and accessories receive adequate power for optimal performance.
-* **Ethernet Cable**: Used to connect the ZimaCube to your network.
-* **Screws of Various Types:**
-  - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
-  - Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
-  - 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
-  - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 ## Product Overview
-Before we start assembling, let’s take a moment to get to know ZimaCube. ZimaCube is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
+Before we get started, let’s take a moment to get to know ZimaCube. 
+ZimaCube is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
 Let’s begin by briefly exploring the functions of these different interfaces.
 ### Front Interface Panel
 ![](https://manage.icewhale.io/api/static/docs/1723172359941_image.png)
@@ -39,6 +31,15 @@ Let’s begin by briefly exploring the functions of these different interfaces.
 ### Rear Interface Panel for ZimaCube Pro
 ![](https://manage.icewhale.io/api/static/docs/1723172409308_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172415073_image.png)
+## Accessories Overview
+Each accessory is designed to serve a specific purpose, ensuring the smooth setup and optimal use of your ZimaCube.
+* **Power Adapter and Cord** : Ensure your ZimaCube, hard drives, and accessories receive adequate power for optimal performance.
+* **Ethernet Cable**: Used to connect the ZimaCube to your network.
+* **Screws of Various Types:**
+  - Stud\M3 external thread M2 internal thread\Stud height 4.65mm\Hexagonal rod：Lock the 7th SSD
+  - Screw\Cross recessed large flat head screw\M2X4：The 7th SSD fastening screw
+  - 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
+  - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 
 Before powering on, let’s install your accessories into the ZimaCube. The most crucial component for any NAS is the hard drive.
 ## Install Your Disk
