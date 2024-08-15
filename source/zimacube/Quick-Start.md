@@ -28,20 +28,15 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - 6mm high/cross recessed countersunk (thin head) screw:3.5-inch hard disk fastening screws
   - M3 X 4mm long\cross recessed countersunk (thin head) screw:2.5-inch hard disk fastening screws
 ## Product Overview
-ZimaCube is a high-performance shared storage solution designed to cater to the needs of creative professionals and tech enthusiasts. With its expansive storage capacity and lightning-fast data transfer speeds, ZimaCube redefines what you can expect from personal cloud storage.
-Key Features:
-- Up to 164TB Storage Capacity: Ample space to store all your projects, files, and backups.
-- 1GB/s Read/Write Speed: Enjoy data transfer speeds 10 times faster than conventional cloud services, ensuring smooth and efficient workflows.
-- Advanced Networking: ZimaCube Pro comes with 10GbE and 2.5GbE networking options to handle the most demanding data-intensive tasks.
-
-The following is an introduction to the ZimaCube and ZimaCube Pro interfaces:
-### ZimaCube/ZimaCube Pro
+Before we get started, let’s take a moment to get to know ZimaCube. ZimaCube is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
+Let’s begin by briefly exploring the functions of these different interfaces.
+### Front Interface Panel
 ![](https://manage.icewhale.io/api/static/docs/1723172359941_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172365931_image.png)
-### ZimaCube
+### Rear Interface Panel for ZimaCube
 ![](https://manage.icewhale.io/api/static/docs/1723172384399_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172389902_image.png)
-### ZimaCube Pro
+### Rear Interface Panel for ZimaCube Pro
 ![](https://manage.icewhale.io/api/static/docs/1723172409308_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172415073_image.png)
 
