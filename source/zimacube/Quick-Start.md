@@ -122,3 +122,4 @@ Note: Make sure the connected device is under the same network as ZimaCube.
 
 ## Welcome to ZimaOS
 进入并创建账户
+With these three simple steps, you’re now ready to start using your ZimaCube and exploring all the features it offers. We hope this guide has made the setup process smooth and straightforward, allowing you to fully enjoy the convenience and power of your ZimaCube. If you have any further questions or need additional support, our team is always here to help. 
