@@ -40,6 +40,7 @@ zimaboard:
     power_on_zimaboard: index.html
   go_deeper_with_Casaos:
     placeholder: placeholder.html
+    self_deploying_applications: Self-Deploying-Applications.html
   advanced_use_of_ZimaBorad:
     placeholder: placeholder.html
   multiple_recreational_use:
@@ -62,7 +63,6 @@ knowledge:
 docs:
   getting_started:
     start_zimaboard: index.html
-    self_deploying_applications: Self-Deploying-Applications.html
     hardware_interface_introduction: Hardware-Interface-Introduction.html
   operating_systems:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
