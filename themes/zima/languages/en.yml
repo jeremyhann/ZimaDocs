@@ -66,9 +66,8 @@ sidebar:
     advanced_use_of_ZimaBorad: Advanced Use of ZimaBoard
     multiple_recreational_use: Multiple Recreational Use
     faq: FAQ
-    restore_factory_settings: Restore factory settings
     self_deploying_applications: Self Deploying Applications
-    hardware_interface_introduction: Hardware Interface Introduction
+    small_body_big_applications_omv_install: Small body Big applications-OMV Install
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -78,9 +77,9 @@ sidebar:
   docs:
     getting_started: Getting Started
     start_zimaboard: Start ZimaBoard
+    hardware_interface_introduction: Hardware Interface Introduction
     operating_systems: Operating Systems
     ubuntu_server_is_best_suited_for_personal_server: Ubuntu Server Is Best Suited For Personal Server
-    small_body_big_applications_omv_install: Small body Big applications-OMV Install
     small_body_big_applications_omv_first_experience: Small body Big applications-OMV First Experience
     unraid_first_experience_at_$129_installation: Unraid First Experience at $129 Installation
     all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
@@ -113,4 +112,5 @@ sidebar:
     technical_support: Troubleshooting
     faq: FAQ
     upgrade_motherboard_bios_version: Upgrade motherboard BIOS version
+    restore_factory_settings: Restore factory settings
     how_to_check_ip_address: How to check IP address
