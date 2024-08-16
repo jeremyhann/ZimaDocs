@@ -25,7 +25,6 @@ zimacube:
     how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
     detailed-plex-operation-guide: Detailed-Plex-Operation-Guide.html
   faq:
-    placeholder: placeholder.html
     troubleshooting: Troubleshooting.html
     creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
 zimaos:
@@ -39,10 +38,18 @@ zimaos:
 zimaboard:
   start_zimaboard:
     power_on_zimaboard: index.html
+  go_deeper_with_Casaos:
+    placeholder: placeholder.html
+  advanced_use_of_ZimaBorad:
+    placeholder: placeholder.html
+  multiple_recreational_use:
+    placeholder: placeholder.html
   start_zimablade:
     placeholder: placeholder.html
     how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
   diy_project_hub:
+    placeholder: placeholder.html
+  faq:
     placeholder: placeholder.html
 knowledge:
   3rd_party_os:
