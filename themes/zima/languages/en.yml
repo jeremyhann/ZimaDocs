@@ -66,6 +66,7 @@ sidebar:
     advanced_use_of_ZimaBorad: Advanced Use of ZimaBoard
     multiple_recreational_use: Multiple Recreational Use
     faq: FAQ
+    restore_factory_settings: Restore factory settings
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -112,5 +113,4 @@ sidebar:
     technical_support: Troubleshooting
     faq: FAQ
     upgrade_motherboard_bios_version: Upgrade motherboard BIOS version
-    restore_factory_settings: Restore factory settings
     how_to_check_ip_address: How to check IP address
