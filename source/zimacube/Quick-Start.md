@@ -42,7 +42,11 @@ Before powering on, let's take another look at how to install your accessories. 
 ###
 1. **Remove the the front panel**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
+{% note warn Tips %}
+**Tips！**
 The front panel is attached with magnets. To remove it, simply press the corners to lift it up. 
+{% endnote %}
+
 3. **press the button to unlock the handle**
 Locate and press the yellow button situated on the hard drive bay. This will release the locking mechanism of the hard drive tray.
 4. **pull out the tray**
