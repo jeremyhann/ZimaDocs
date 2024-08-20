@@ -19,29 +19,26 @@ In addition to the device itself, we have prepared all the necessary accessories
 7. Hex Screwdriver x1
 8. Phillips Screwdriver x1
 ## Product Overview
-Before we get started, let’s take a moment to get to know ZimaCube. 
-**ZimaCube is a high-performance NAS device**, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
+Before we get started, let’s take a moment to get to know this unit. 
+**ZimaCube** is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
 Let’s begin by briefly exploring the functions of these different interfaces.
 ### Front Interface Panel
-![](https://manage.icewhale.io/api/static/docs/1723172359941_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172365931_image.png)
 ### Rear Interface Panel for ZimaCube
-![](https://manage.icewhale.io/api/static/docs/1723172384399_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172389902_image.png)
 ### Rear Interface Panel for ZimaCube Pro
-![](https://manage.icewhale.io/api/static/docs/1723172409308_image.png)
 ![](https://manage.icewhale.io/api/static/docs/1723172415073_image.png)
 ## Accessories Overview
 Each accessory is designed to serve a specific purpose, ensuring the smooth setup and optimal use of your ZimaCube.
 * **Power Adapter and Cord** : Ensure your ZimaCube, hard drives, and accessories receive adequate power for optimal performance.
 * **Ethernet Cable**: Used to connect the ZimaCube to your network.
 * **Screws of Various Types:**
-  - Stud with M2 internal thread: Used to secure the 7th SSD.
+  - Stud with M2 internal thread: Used to elevate and secure the 7th SSD.
   - M2X4mm Cross recessed flat head screw：Used to fasten the 7th SSD.
   - M3X6mm Cross recessed countersunk screw：Used to fasten 3.5-inch hard disk.
   - M3X4mm Cross recessed countersunk screw：Used to fasten 2.5-inch hard disk.
 
-Before powering on, let’s install your accessories into the ZimaCube. The most crucial component for any NAS is the hard drive.
+Before powering on, let's take another look at how to install your accessories. For instance, your hard drive, the most crucial component of a NAS.
 ## Install Your Disk
 1. **Remove the Front Panel of the Chassis**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
