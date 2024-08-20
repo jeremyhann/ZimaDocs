@@ -37,14 +37,15 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - M2X4mm Cross recessed flat head screw：Used to fasten the 7th SSD.
   - M3X6mm Cross recessed countersunk screw：Used to fasten 3.5-inch hard disk.
   - M3X4mm Cross recessed countersunk screw：Used to fasten 2.5-inch hard disk.
-
-Before powering on, let's take another look at how to install your accessories. For instance, your hard drive, the most crucial component of a NAS.
 ## Install Your Disk
-1. **Remove the Front Panel of the Chassis**
+Before powering on, let's take another look at how to install your accessories. For instance, your hard drive, the most crucial component of a NAS.
+###
+1. **Remove the the front panel**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
-2. **Press the Yellow Button on the Hard Drive Bay**
+The front panel is attached with magnets. To remove it, simply press the corners to lift it up. 
+3. **press the button to unlock the handle**
 Locate and press the yellow button situated on the hard drive bay. This will release the locking mechanism of the hard drive tray.
-3. **Gently Pull the Hard Drive Tray Handle**
+4. **pull out the tray**
 Once the hard drive tray handle pops out, gently pull it to slowly slide the hard drive tray out of the bay.
 ###  Install SATA Disk
 #### Install 3.5 hard disk
