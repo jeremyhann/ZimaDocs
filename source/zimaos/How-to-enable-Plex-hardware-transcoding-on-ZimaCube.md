@@ -27,9 +27,9 @@ ZimaCube uses Intel N100/1235U processors, both of which incorporate Intel's lat
   - Turn on Use hardware acceleration when available.
   - Choose Hardware transcoding device: Alder Lake....
 ![](https://manage.icewhale.io/api/static/docs/1724222151641_image.png)
-  - - Click Save Changes at the bottom.
-  - - After saving, select a movie to play and select Convert Automatically in Playback settings.
-  - - Normally when using the built-in GPU for transcoding, it will add 4-8W of power consumption. And very little CPU power. This is very exciting.
+  - Click Save Changes at the bottom.
+  - After saving, select a movie to play and select Convert Automatically in Playback settings.
+  - Normally when using the built-in GPU for transcoding, it will add 4-8W of power consumption. And very little CPU power. This is very exciting.
 ![](https://manage.icewhale.io/api/static/docs/1724222178316_image.png)
     - Before
 ![](https://manage.icewhale.io/api/static/docs/1724222240361_image.png)
@@ -37,20 +37,20 @@ ZimaCube uses Intel N100/1235U processors, both of which incorporate Intel's lat
 ![](https://manage.icewhale.io/api/static/docs/1724222261644_image.png)
 ## 2. Using the Nvidia GPU
 If you have a ZimaCube pro with a built-in Nviadia GPU, or you installed an Nvidia GPU yourself, you can follow the steps below to set it up:
-  - - A fresh installation is recommended.
-  - - For a list of Nvidia GPUs currently supported by ZimaOS, see the Current NVIDIA GPUs section at https://us.download.nvidia.com/XFree86/Linux-x86_64/555.58.02/README/supportedchips.html
-  - - Find the Plex app in the ZimaOS dashboard, click the three dots in the upper right corner, and click Settings in the next menu.
-  - - Add NVIDIA_VISIBLE_DEVICES all to Environment variables in Settings, and save.
+  - A fresh installation is recommended.
+  - For a list of Nvidia GPUs currently supported by ZimaOS, see the Current NVIDIA GPUs section at https://us.download.nvidia.com/XFree86/Linux-x86_64/555.58.02/README/supportedchips.html
+  - Find the Plex app in the ZimaOS dashboard, click the three dots in the upper right corner, and click Settings in the next menu.
+  - Add NVIDIA_VISIBLE_DEVICES all to Environment variables in Settings, and save.
 ![](https://manage.icewhale.io/api/static/docs/1724222307336_image.png)
   - Navigate to Settings > Server > Transcoder to access the server settings.
   - Turn on Show Advanced in the upper-right corner to expose advanced settings.
   - Turn on Use hardware acceleration when available.
   - Choose Hardware transcoding device: Unknown (NVIDIA)
 ![](https://manage.icewhale.io/api/static/docs/1724222329317_image.png)
-  - - Click Save Changes at the bottom.
-  - - After saving, select a movie to play and select Convert Automatically in Playback settings.
-  - - Normally when using Nvidia GPU for transcoding, it will increase power consumption by 10-25W. At the same time, it does not consume CPU computing power at all. This is very exciting.
-  - - Although the power consumption is higher than the built-in GPU, due to the excellent performance of Nvidia GPU, it can handle high-resolution transcoding faster and can handle multiple video streams at the same time.
+  - Click Save Changes at the bottom.
+  - After saving, select a movie to play and select Convert Automatically in Playback settings.
+  - Normally when using Nvidia GPU for transcoding, it will increase power consumption by 10-25W. At the same time, it does not consume CPU computing power at all. This is very exciting.
+  - Although the power consumption is higher than the built-in GPU, due to the excellent performance of Nvidia GPU, it can handle high-resolution transcoding faster and can handle multiple video streams at the same time.
 ![](https://manage.icewhale.io/api/static/docs/1724222353407_image.png)
     - Before
 ![](https://manage.icewhale.io/api/static/docs/1724222367888_image.png)
