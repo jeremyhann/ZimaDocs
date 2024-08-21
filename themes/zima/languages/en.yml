@@ -55,6 +55,7 @@ sidebar:
     tutorials: Tutorials
     openapi: OpenAPI
     about-zimaos: install offline
+    how-to-enable-plex-hardware-transcoding-on-zimacube?: How to enable Plex hardware transcoding on ZimaCube?
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
