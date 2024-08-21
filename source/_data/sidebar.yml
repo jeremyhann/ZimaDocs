@@ -33,7 +33,7 @@ zimaos:
   tutorials:
     placeholder: placeholder.html
     about-zimaos: About-ZimaOS.html
-    how-to-enable-plex-hardware-transcoding-on-zimacube?: How-to-enable-Plex-hardware-transcoding-on-ZimaCube?.html
+    how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
   openapi:
     placeholder: placeholder.html
 zimaboard:
