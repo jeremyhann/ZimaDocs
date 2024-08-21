@@ -38,12 +38,11 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - M3X6mm Cross recessed countersunk screw：Used to fasten 3.5-inch hard disk.
   - M3X4mm Cross recessed countersunk screw：Used to fasten 2.5-inch hard disk.
 ## Install Your Disk
-Before powering on, let's take another look at how to install your accessories. For instance, your hard drive, the most crucial component of a NAS.
-###
+Before powering on, let's take another look at how to install your accessories. For instance, your disk, the most crucial component of a NAS.
+### Unlock the device
 1. **Remove the the front panel**
 Begin by carefully detaching the front panel of the ZimaCube chassis to access the internal components.
 {% note warn Tips %}
-**Tips！**
 The front panel is attached with magnets. To remove it, simply press the corners to lift it up. 
 {% endnote %}
 
