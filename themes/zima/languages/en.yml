@@ -22,16 +22,11 @@ sidebar:
     placeholder: Placeholder
     portal: Portal
     start_zimacube: Getting Started with ZimaCube
-    explore_zimaos: Exploring ZimaOS
     explore_zimacube: Exploring ZimaCube
     toturials: Tutorials
     faq: FAQ
     quick-start: Quick Start
     create-nas: Create NAS
-    release-note: Release Note
-    user-guide: User Guide
-    advanced-using: Advanced Using
-    zimaos-application-content: ZimaOS application content
     hdd-interface-usage-guide: HDD Interface Instructions
     instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
     thunderbolt-port-instructions: Thunderbolt Port Instructions
@@ -52,6 +47,11 @@ sidebar:
     placeholder: Placeholder
     getting_started: Getting Started
     start_zimaos: Start ZimaOS
+    explore_zimaos: Exploring ZimaOS
+    release-note: Release Note
+    user-guide: User Guide
+    advanced-using: Advanced Using
+    zimaos-application-content: ZimaOS application content
     tutorials: Tutorials
     openapi: OpenAPI
     about-zimaos: install offline
