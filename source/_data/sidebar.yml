@@ -58,6 +58,7 @@ zimaboard:
     placeholder: placeholder.html
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
+    vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
   start_zimablade:
     placeholder: placeholder.html
     how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
@@ -77,8 +78,7 @@ docs:
   getting_started:
     start_zimaboard: index.html
   operating_systems: {}
-  entertainment_hub:
-    vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
+  entertainment_hub: {}
   hardware_expansion:
     unraid_first_experience_at_$129_five_drive_disks_nas: Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.html
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
