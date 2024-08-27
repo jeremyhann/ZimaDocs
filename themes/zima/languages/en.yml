@@ -78,6 +78,7 @@ sidebar:
     restore_factory_settings: ZimaBoard CasaOS Factory Recovery
     unraid_first_experience_at_$129_installation: Unraid’s First Experience
     small_body_big_applications_omv_install: OMV and ZimaBoard
+    all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -94,7 +95,6 @@ sidebar:
     small_body_big_applications_omv_install: Small body Big applications-OMV Install
     small_body_big_applications_omv_first_experience: Small body Big applications-OMV First Experience
     unraid_first_experience_at_$129_installation: Unraid First Experience at $129 Installation
-    all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
     openwrt_emmc_boot: Openwrt eMMc boot
     installing_pfsense_routing_system: Installing pfSense Routing System
     installing_routing_ikuai_system: Installing Routing ikuai System
