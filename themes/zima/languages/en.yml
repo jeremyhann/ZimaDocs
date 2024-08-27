@@ -74,8 +74,8 @@ sidebar:
     faq: FAQ
     hardware_interface_introduction: Hardware-Interface-Introduction
     self_deploying_applications: Self-Deploying-Applications
-    small_body_big_applications_omv_install: OMV+ZimaBoard
-    unraid_first_experience_at_$129_installation: Unraid’s First Experience at $129 - Installation
+    small_body_big_applications_omv_first_experience: Exploring OMV
+    restore_factory_settings: ZimaBoard CasaOS Factory Recovery
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
