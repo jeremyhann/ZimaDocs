@@ -43,6 +43,7 @@ In Files, the capacity of the storage space is added to the left column
 ## Remove
 The username of the ZimaOS account is no longer allowed to be modified
 
+
 {% note warn Tips %}
 If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members.- [IceWhale](https://discord.com/invite/f9nzbmpMtU)
 {% endnote %}Tips
