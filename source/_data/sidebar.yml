@@ -51,6 +51,7 @@ zimaboard:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
     small_body_big_applications_omv_first_experience: Small-body-Big-applications-OMV-First-Experience.html
     unraid_first_experience_at_$129_installation: Unraid-First-Experience-at-$129-Installation.html
+    all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
   multiple_recreational_use:
     placeholder: placeholder.html
   start_zimablade:
@@ -72,7 +73,6 @@ docs:
   getting_started:
     start_zimaboard: index.html
   operating_systems:
-    all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
     openwrt_emmc_boot: Openwrt-eMMc-boot.html
     universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
   entertainment_hub:
