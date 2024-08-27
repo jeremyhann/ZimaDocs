@@ -53,6 +53,7 @@ zimaboard:
     unraid_first_experience_at_$129_installation: Unraid-First-Experience-at-$129-Installation.html
     all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
     openwrt_emmc_boot: Openwrt-eMMc-boot.html
+    universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
   multiple_recreational_use:
     placeholder: placeholder.html
   start_zimablade:
@@ -73,8 +74,7 @@ knowledge:
 docs:
   getting_started:
     start_zimaboard: index.html
-  operating_systems:
-    universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
+  operating_systems: {}
   entertainment_hub:
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
