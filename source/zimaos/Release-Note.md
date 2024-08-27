@@ -6,7 +6,8 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ---
 ![](https://manage.icewhale.io/api/static/docs/1724749372699_image.png)
 ## Download
-For users who have installed ZimaOS V1.1: Click on the red dot in the top left corner of the dashboard to initiate the update.
+For users who have installed ZimaOS V1.1: 
+Click on the red dot in the top left corner of the dashboard to initiate the update.
 
 Installer: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3_installer.img
 
