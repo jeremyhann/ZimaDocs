@@ -32,6 +32,7 @@ zimaos:
     start_zimaos: index.html
   user_guide:
     placeholder: placeholder.html
+    how-to-install-zimaos: How-to-install-ZimaOS.html
   explore_zimaos:
     placeholder: placeholder.html
     install_offline: Install-offline.html
