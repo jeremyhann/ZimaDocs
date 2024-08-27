@@ -22,11 +22,16 @@ sidebar:
     placeholder: Placeholder
     portal: Portal
     start_zimacube: Getting Started with ZimaCube
+    explore_zimaos: Exploring ZimaOS
     explore_zimacube: Exploring ZimaCube
     toturials: Tutorials
     faq: FAQ
     quick-start: Quick Start
     create-nas: Create NAS
+    release-note: Release Note
+    user-guide: User Guide
+    advanced-using: Advanced Using
+    zimaos-application-content: ZimaOS application content
     hdd-interface-usage-guide: HDD Interface Instructions
     instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
     thunderbolt-port-instructions: Thunderbolt Port Instructions
@@ -45,17 +50,16 @@ sidebar:
     how-to-understand-docker-app's-paths-on-zimaos: How to understand Docker App's paths On ZimaOS
   zimaos:
     placeholder: Placeholder
-    getting_started: Getting Started
+    start_zimaos: Start ZimaOS
     explore_zimaos: Exploring ZimaOS
-    release-note: Release Note
-    advanced-using: Advanced Using
+    release_note: Release Note
+    user_guide: User Guide
+    advanced_using: Advanced Using
     zimaos-application-content: ZimaOS application content
     tutorials: Tutorials
     openapi: OpenAPI
-    about-zimaos: install offline
+    install_offline: Install offline
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
-    start_zimaos: Release Note
-    user-guide: User Guide
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
@@ -67,10 +71,6 @@ sidebar:
     advanced_use_of_ZimaBorad: Advanced Use of ZimaBoard
     multiple_recreational_use: Multiple Recreational Use
     faq: FAQ
-    restore_factory_settings: Restore factory settings
-    self_deploying_applications: Self Deploying Applications
-    hardware_interface_introduction: Hardware Interface Introduction
-    small_body_big_applications_omv_first_experience: Small body Big applications-OMV First Experience
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -80,9 +80,12 @@ sidebar:
   docs:
     getting_started: Getting Started
     start_zimaboard: Start ZimaBoard
+    hardware_interface_introduction: Hardware Interface Introduction
+    self_deploying_applications: Self Deploying Applications
     operating_systems: Operating Systems
     ubuntu_server_is_best_suited_for_personal_server: Ubuntu Server Is Best Suited For Personal Server
     small_body_big_applications_omv_install: Small body Big applications-OMV Install
+    small_body_big_applications_omv_first_experience: Small body Big applications-OMV First Experience
     unraid_first_experience_at_$129_installation: Unraid First Experience at $129 Installation
     all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
     openwrt_emmc_boot: Openwrt eMMc boot
@@ -114,4 +117,5 @@ sidebar:
     technical_support: Troubleshooting
     faq: FAQ
     upgrade_motherboard_bios_version: Upgrade motherboard BIOS version
+    restore_factory_settings: Restore factory settings
     how_to_check_ip_address: How to check IP address

@@ -3,6 +3,11 @@ zimacube:
     portal: index.html
     quick-start: Quick-Start.html
     create-nas: Create-NAS.html
+  explore_zimaos:
+    release-note: Release-Note.html
+    user-guide: User-Guide.html
+    zimaos-application-content: ZimaOS-application-content.html
+    advanced-using: Advanced-Using.html
   explore_zimacube:
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
@@ -23,19 +28,16 @@ zimacube:
     troubleshooting: Troubleshooting.html
     creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
 zimaos:
-  getting_started:
+  release_note:
     start_zimaos: index.html
-    user-guide: User-Guide.html
+  user_guide:
+    placeholder: placeholder.html
   explore_zimaos:
-    release-note: Release-Note.html
-    zimaos-application-content: ZimaOS-application-content.html
-    advanced-using: Advanced-Using.html
-  tutorials:
     placeholder: placeholder.html
-    about-zimaos: About-ZimaOS.html
+    install_offline: Install-offline.html
+  advanced_using:
+    placeholder: placeholder.html
     how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
-  openapi:
-    placeholder: placeholder.html
 zimaboard:
   start_zimaboard:
     power_on_zimaboard: index.html
