@@ -25,9 +25,9 @@ zimacube:
 zimaos:
   getting_started:
     start_zimaos: index.html
+    user-guide: User-Guide.html
   explore_zimaos:
     release-note: Release-Note.html
-    user-guide: User-Guide.html
     zimaos-application-content: ZimaOS-application-content.html
     advanced-using: Advanced-Using.html
   tutorials:
