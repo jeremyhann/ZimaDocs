@@ -74,6 +74,7 @@ sidebar:
     faq: FAQ
     hardware_interface_introduction: Hardware-Interface-Introduction
     self_deploying_applications: Self-Deploying-Applications
+    small_body_big_applications_omv_install: OMV+ZimaBoard
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
