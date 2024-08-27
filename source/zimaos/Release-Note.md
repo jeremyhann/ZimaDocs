@@ -1,17 +1,16 @@
 ---
-title: v1.2.3
+title: ZimaOS 1.2.3
 description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-
-We sincerely thank our community users for their active participation and valuable suggestions, which enable us to continuously improve and refine ZimaOS! We welcome you to share more ideas please!
-
-Tips
-
-If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members.-[IceWhale](https://discord.com/invite/f9nzbmpMtU)
-# ZimaOS v1.2.3
 ![](https://manage.icewhale.io/api/static/docs/1724749372699_image.png)
+## Download
+For users who have installed ZimaOS V1.1: Click on the red dot in the top left corner of the dashboard to initiate the update.
+
+Installer: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3_installer.img
+
+Manual upgrade: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3.raucb
 ## Fixed
 Fix RAID storage related experience issues @scottyman2k@orochikun
 
@@ -59,9 +58,3 @@ Allow ZFS storage to run on ZimaOS @Brucio
 
 ## Remove
 The username of the ZimaOS account is no longer allowed to be modified
-## Download
-:zap: For users who have installed ZimaOS V1.1: Click on the red dot in the top left corner of the dashboard to initiate the update.
-
-:zap: Installer: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3_installer.img
-
-:zap: Manual upgrade: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3.raucb
