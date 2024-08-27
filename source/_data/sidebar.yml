@@ -30,6 +30,7 @@ zimaos:
   release_note:
     start_zimaos: index.html
     release-note: Release-Note.html
+    v-1.2.2: v-1.2.2.html
   user_guide:
     placeholder: placeholder.html
     how-to-install-zimaos: How-to-install-ZimaOS.html
