@@ -80,14 +80,14 @@ Use the type-C cable included in ZimaBlade package.
 
 ## Step 3: Boot and get the IP
 
-Plug the power adapter to you AC socket and power on your display. And... Boom! You are in!
+Once you plug in the power, the device will automatically start. And then... boom! You're in!
 
-![](https://manage.icewhale.io/api/static/docs/1719988807110_9.png)
+![](https://manage.icewhale.io/api/static/docs/1724748313259_image.png)
+
 
 
 You'll be prompted to enter the default account `casaos` and password `casaos` to login in.
 
-After logging in, obtain the IP address.
 
   
 
@@ -95,14 +95,16 @@ After logging in, obtain the IP address.
 
 Type `ip addr` and press `Enter` to see the IP address. It will be somting like `192.x.x.x` or `10.0.x.x`. (depending on your LAN configuration.)
 
-![](https://manage.icewhale.io/api/static/docs/1719988868694_Arc_OQwvsTt5Jv.png)
+
+![](https://manage.icewhale.io/api/static/docs/1724748361255_image.png)
 
 
-Note down the IP address.
+The physical network interface `enp2s0` IP address (eg :`10.0.179.111`) has been noted, and it will be used for future login attempts if needed.
+> The IP addresses `127.x.x.x `(loopback) is for internal communication, `10.x.x.x `(physical interface) is for network connections, and `172.x.x.x` (Docker) is for container networking.
 
 ## Step 4: Your NAS is here!
 
-Visit your ZimaBlade at http://yourIpAddress on your phone or desktop computer.
+Open a browser on your phone or desktop computer and visit the IP address you just noted.
 
 Follow the instructions to create a Web UI account.
 ![](https://manage.icewhale.io/api/static/docs/1719988936857_Arc_MyleHxojSb.png)
