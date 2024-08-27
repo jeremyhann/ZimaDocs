@@ -4,7 +4,6 @@ zimacube:
     quick-start: Quick-Start.html
     create-nas: Create-NAS.html
   explore_zimaos:
-    release-note: Release-Note.html
     user-guide: User-Guide.html
     zimaos-application-content: ZimaOS-application-content.html
     advanced-using: Advanced-Using.html
@@ -30,6 +29,7 @@ zimacube:
 zimaos:
   release_note:
     start_zimaos: index.html
+    release-note: Release-Note.html
   user_guide:
     placeholder: placeholder.html
     how-to-install-zimaos: How-to-install-ZimaOS.html
