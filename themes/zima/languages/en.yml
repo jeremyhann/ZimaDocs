@@ -46,7 +46,6 @@ sidebar:
   zimaos:
     placeholder: Placeholder
     getting_started: Getting Started
-    start_zimaos: Start ZimaOS
     explore_zimaos: Exploring ZimaOS
     release-note: Release Note
     user-guide: User Guide
@@ -56,6 +55,7 @@ sidebar:
     openapi: OpenAPI
     about-zimaos: install offline
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
+    start_zimaos: Release Note
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
