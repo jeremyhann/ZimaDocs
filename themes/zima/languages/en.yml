@@ -60,7 +60,7 @@ sidebar:
     install_offline: Install offline
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
     how-to-install-zimaos: How to install ZimaOS
-    release-note: v1.2.3
+    release-note: v 1.2.3
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
@@ -83,6 +83,7 @@ sidebar:
     basic_functions_of_dedicated_systems: Basic Functions Of Dedicated Systems
     vr_audio_and_video_experience-oculus: VR Audio And Video Experience-Oculus
     universal_third-party_system_installation_tutorial: Universal Third-party System Installation
+    build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build a 75-inch 4K Arcade Machine with ZimaBoard and Batocera.linux
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
