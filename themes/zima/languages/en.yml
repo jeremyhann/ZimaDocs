@@ -79,8 +79,8 @@ sidebar:
     unraid_first_experience_at_$129_installation: Unraid’s First Experience
     small_body_big_applications_omv_install: OMV and ZimaBoard
     all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
-    openwrt_emmc_boot: Openwrt eMMc boot
-    basic_functions_of_dedicated_systems: Basic Functions Of Dedicated Systems
+    universal_third-party_system_installation_tutorial: Universal Third Party System Installation Tutorial
+    build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build a 75" 4K Arcade With ZimaBoard And Batocera
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -97,12 +97,12 @@ sidebar:
     small_body_big_applications_omv_install: Small body Big applications-OMV Install
     small_body_big_applications_omv_first_experience: Small body Big applications-OMV First Experience
     unraid_first_experience_at_$129_installation: Unraid First Experience at $129 Installation
+    openwrt_emmc_boot: Openwrt eMMc boot
     installing_pfsense_routing_system: Installing pfSense Routing System
     installing_routing_ikuai_system: Installing Routing ikuai System
-    universal_third-party_system_installation_tutorial: Universal Third Party System Installation Tutorial
     entertainment_hub: Entertainment Hub
     dedicated_system_base_functions: Dedicated system base functions
-    build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build a 75" 4K Arcade With ZimaBoard And Batocera
+    basic_functions_of_dedicated_systems: Basic Functions Of Dedicated Systems
     vr_audio_and_video_experience-oculus: VR Audio And Video Experience-Oculus
     hardware_expansion: Hardware Expansion
     2.5-inch_lightweight_data_server: 2.5 inch Lightweight Data Server
