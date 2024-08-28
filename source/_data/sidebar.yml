@@ -55,6 +55,7 @@ zimaboard:
     all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
     openwrt_emmc_boot: Openwrt-eMMc-boot.html
     universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
+    minecraft-friendship-service: MineCraft-Friendship-Service.html
   multiple_recreational_use:
     placeholder: placeholder.html
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
@@ -83,8 +84,7 @@ docs:
   hardware_expansion:
     unraid_first_experience_at_$129_five_drive_disks_nas: Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.html
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
-  server_playground:
-    minecraft-friendship-service: MineCraft-Friendship-Service.html
+  server_playground: {}
 faq:
   technical_support:
     faq: index.html
