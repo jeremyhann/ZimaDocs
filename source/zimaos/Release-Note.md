@@ -6,12 +6,12 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ---
 ![](https://manage.icewhale.io/api/static/docs/1724749372699_image.png)
 ## Download
-For users who have installed ZimaOS V1.1: 
+- For users who have installed ZimaOS V1.1: 
 Click on the red dot in the top left corner of the dashboard to initiate the update.
 
-Installer: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3_installer.img
+- Installer: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3_installer.img
 
-Manual upgrade: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3.raucb
+- Manual upgrade: https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.3/zimaos_zimacube-1.2.3.raucb
 
 ## New
 
@@ -44,7 +44,7 @@ In Files, the capacity of the storage space is added to the left column
 ## Remove
 The username of the ZimaOS account is no longer allowed to be modified
 
-
+  
 {% note warn Tips %}
 If you find any software problems, welcome to join the Discord and get support from 20,000 Zima community members.- [IceWhale](https://discord.com/invite/f9nzbmpMtU)
-{% endnote %}Tips
+{% endnote %}
