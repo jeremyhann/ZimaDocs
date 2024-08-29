@@ -87,6 +87,7 @@ sidebar:
     universal_third-party_system_installation_tutorial: Universal Third-party System Installation
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build a 75-inch 4K Arcade Machine with ZimaBoard and Batocera.linux
     minecraft-friendship-service: MineCraft Friendship Service
+    upgrade_motherboard_bios_version: Upgrade motherboard BIOS version
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
@@ -126,6 +127,5 @@ sidebar:
   faq:
     technical_support: Troubleshooting
     faq: FAQ
-    upgrade_motherboard_bios_version: Upgrade motherboard BIOS version
     restore_factory_settings: Restore factory settings
     how_to_check_ip_address: How to check IP address
