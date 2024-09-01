@@ -13,7 +13,10 @@ Explore our innovative product lineup designed to meet your needs, whether you'r
 
 ## Product Overview
 | ZimaCube | ZimaBoard | ZimaBlade |
-| - | - | - |
+|  ![](https://manage.icewhale.io/api/static/docs/1725207729123_image.png)
+  | ![](https://manage.icewhale.io/api/static/docs/1725207757005_image.png)
+ | ![](https://manage.icewhale.io/api/static/docs/1725207787493_image.png)
+ |
 |* Expansive storage capacity up to 164TB<br>* Lightning-fast data transfer up to 2GB/s<br>* Advanced networking with 10GbE and 2.5GbE ports |* Versatile applications for cloud servers and IoT<br> * Modular expansion with multiple PCIe slots<br>* Compact and efficient design | * Designed for intensive computational tasks<br>* Energy-efficient for continuous operation<br>* Flexible connectivity with multiple USB and network ports<br> |
 | content | content | content |
 | content | content | content |
