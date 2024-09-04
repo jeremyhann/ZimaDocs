@@ -9,15 +9,8 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ## Shipping list
 ### What is in the Box
 In addition to the device itself, we have prepared all the necessary accessories for you to get started quickly, you should find the following items included:
-（内含物全家福）
-1. ZimaCube x1
-2. Power Adapter x1 
-3. Power Cord x1
-4. Ethernet Cable x1
-5. Screw Packs of Various Types x4
-6. User Manual x1
-7. Hex Screwdriver x1
-8. Phillips Screwdriver x1
+![](https://manage.icewhale.io/api/static/docs/1725449574878_img_v3_02ec_d610e342-4c8f-4769-a5a2-45150c59176g.png)
+
 ## Product Overview
 Before we get started, let’s take a moment to get to know this unit. 
 **ZimaCube** is a high-performance NAS device, featuring not only standard interfaces but also a variety of high-speed connections designed to meet your diverse needs. 
