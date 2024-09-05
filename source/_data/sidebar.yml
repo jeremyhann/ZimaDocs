@@ -2,10 +2,6 @@ zimacube:
   start_zimacube:
     quick-start: index.html
     create-nas: Create-NAS.html
-  explore_zimaos:
-    user-guide: User-Guide.html
-    zimaos-application-content: ZimaOS-application-content.html
-    advanced-using: Advanced-Using.html
   explore_zimacube:
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
