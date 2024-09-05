@@ -55,8 +55,6 @@ zimaboard:
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
     vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
-  start_zimablade:
-    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
   diy_project_hub: {}
   faq:
     restore_factory_settings: Restore-factory-settings.html
@@ -65,13 +63,14 @@ zimaboard:
 zimablade:
   start_zimablade:
     power_on_zimablade: index.html
+    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
 knowledge:
   3rd_party_os:
     install_unraid_on_zima_device: index.html
-  self_hosting_applications:
-    placeholder: placeholder.html
-  more_pcie_accessories:
-    placeholder: placeholder.html
+  # self_hosting_applications:
+  #   placeholder: placeholder.html
+  # more_pcie_accessories:
+  #   placeholder: placeholder.html
 docs:
   getting_started:
     start_zimaboard: index.html

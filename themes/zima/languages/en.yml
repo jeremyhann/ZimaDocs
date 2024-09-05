@@ -71,7 +71,6 @@ sidebar:
     start_zimablade: Get Started with ZimaBlade
     diy_project_hub: DIY Project Hub
     power_on_zimaboard: Power on ZimaBoard
-    how-to-set-up-a-nas-with-zimablade: How to set up a NAS with ZimaBlade
     go_deeper_with_Casaos: Go Deeper with CasaOS
     advanced_use_of_ZimaBorad: Advanced Use of ZimaBoard
     multiple_recreational_use: Multiple Recreational Use
@@ -95,6 +94,7 @@ sidebar:
     placeholder: Placeholder
     start_zimablade: Get Started with ZimaBlade
     power_on_zimablade: Power on ZimaBlade
+    how-to-set-up-a-nas-with-zimablade: How to set up a NAS with ZimaBlade
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
