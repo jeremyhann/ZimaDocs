@@ -176,4 +176,4 @@ Service migration is just the beginning. With Ceph, you can automatically migrat
 
   
 
-If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://icewhale.community/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about PVE and ZimaBlade. We look forward to your feedback!
+If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://community.zimaspace.com/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about PVE and ZimaBlade. We look forward to your feedback!

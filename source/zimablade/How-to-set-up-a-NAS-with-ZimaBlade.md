@@ -126,4 +126,4 @@ Choose the appropriate option for your needs. Your drive is now ready to be used
 
   
 
-If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://icewhale.community/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about NAS and ZimaBlade. We look forward to your feedback!
+If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://community.zimaspace.com/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about NAS and ZimaBlade. We look forward to your feedback!
