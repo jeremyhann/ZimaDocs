@@ -49,10 +49,10 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
     return '';
   }
 
-  if(type === 'zimacube') {
+  if(type === 'zimaos') {
     result += `
     <h4 class="category-list-link sidebar-title ${path=='index.html'?'current':''}" style="border:none"> 
-      <a href="/zimacube">Portal</a>
+      <a href="/zimaos">Portal</a>
     </h4>
     `
   }
@@ -68,7 +68,7 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
         itemClass += ' current';
         showChildren = 'show-children';
       }
-      if( !(type=='zimacube' && link == 'index.html') ){ 
+      if( !(type=='zimaos' && link == 'index.html') ){ 
         childrenContent += `<li class="sidebar-link ${itemClass}"><a href="${link}">${self.__(prefix + text)}</a></li>`;
       }
     }
