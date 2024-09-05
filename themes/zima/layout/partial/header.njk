@@ -11,11 +11,13 @@
           <ul id="menu-main-menu" class="maxmenu-list">
 
             {{ header_menu('main-nav') }}
-            <li class="menu-item menu-item-has-children">
+            <li class="menu-item menu-item-has-children" style="display:none">
               <span class="maxmenu-click">
                 <i class="maxmenu-arrow"></i>
               </span>
-              <a href="#" style="display:none">Language</a>
+              <a href="#">
+                <img src="/img/lang.svg" />
+              </a>
               <ul class="sub-menu">
                 {% for lang, value in site.data.languages %}
                   <li class="menu-item">
@@ -33,7 +35,7 @@
         <div id="search-container-icon">
           <i class="fa fa-search" id="showSearch"></i>
         </div>
-        <a class="shop" href="https://shop.zimaboard.com/" target="_blank">Zima Store</a>
+        <a class="shop" href="https://shop.zimaboard.com/" target="_blank">Store</a>
       </div>
 
       <a id="mobile-nav-toggle">
