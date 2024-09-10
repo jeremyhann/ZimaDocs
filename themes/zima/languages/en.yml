@@ -27,7 +27,6 @@ sidebar:
     explore_zimacube: Exploring ZimaCube
     toturials: Tutorials
     faq: FAQ
-    create-nas: Create NAS
     user-guide: User Guide
     advanced-using: Advanced Using
     zimaos-application-content: ZimaOS application content
@@ -50,6 +49,7 @@ sidebar:
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube Motherboard DIY Fan Guide and Specifications
     quick-start: Unbox-ing
     power-on: Power-on
+    create-nas: Log-in
   zimaos:
     placeholder: Placeholder
     portal: Portal
