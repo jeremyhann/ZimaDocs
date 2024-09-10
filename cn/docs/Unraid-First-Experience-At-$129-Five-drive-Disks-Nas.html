@@ -67,8 +67,8 @@
 <meta property="og:image" content="https://docs-test.zimaspace.com/images/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas/Unraid-First-Experience-At-$129-Five-drive-use-unraid-virtual.png">
 <meta property="og:image" content="https://docs-test.zimaspace.com/images/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas/Unraid-First-Experience-At-$129-Five-drive-create-smb-nfs-mount.png">
 <meta property="og:image" content="https://discordapp.com/api/guilds/884667213326463016/widget.png?style=banner2">
-<meta property="article:published_time" content="2024-09-09T02:49:19.534Z">
-<meta property="article:modified_time" content="2024-09-09T02:49:19.534Z">
+<meta property="article:published_time" content="2024-09-10T02:15:32.505Z">
+<meta property="article:modified_time" content="2024-09-10T02:15:32.505Z">
 <meta property="article:author" content="ZimaBoard">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:image" content="https://docs-test.zimaspace.com/images/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas-3.5-inch-hard-drive-cage.jpeg">
@@ -172,7 +172,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="inner">
               <header class="article-header">
                 <h1 class="article-title" itemprop="name">Build A $129 Five-Bay NAS with Unraid</h1>
-                <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/IceWhaleTech/ZimaDocs/edit/main/source/cn/docs/Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.md" class="article-edit-link" title="改进本文"><i class="fa fa-pencil"></i></a>
+                
+
+                <a id="feedback-link" class="article-edit-link" target="_blank" href="" title="改进本文" class="sidebar-feed-link">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16">
+                    <path d="M12.698 4.9349C12.95 4.6829 13.0886 4.34823 13.0886 3.99223C13.0886 3.63623 12.95 3.30156 12.698 3.04956L11.6406 1.99223C11.3886 1.74023 11.054 1.60156 10.698 1.60156C10.342 1.60156 10.0073 1.74023 9.75597 1.99156L2.66797 9.05756V12.0009H5.60997L12.698 4.9349ZM10.698 2.9349L11.756 3.99156L10.696 5.04756L9.63864 3.9909L10.698 2.9349ZM4.0013 10.6676V9.6109L8.69464 4.93223L9.75197 5.98956L5.0593 10.6676H4.0013ZM2.66797 13.3342H13.3346V14.6676H2.66797V13.3342Z"/>
+                  </svg>
+                </a>
+                
               </header>
               <div class="article-content" itemprop="articleBody">
                 <p><strong>The previous document introduced two options for Unraid installation. This content will be combined with some of the accessories I currently have to build a five-bay NAS, and some Unraid OS features to talk about.</strong></p>
@@ -228,7 +235,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2024-09-09T02:49:19.534Z" itemprop="dateModified">上次更新：2024-09-09</time>
+                <time class="article-footer-updated" datetime="2024-09-10T02:15:32.505Z" itemprop="dateModified">上次更新：2024-09-10</time>
                 <a href="index.html" class="article-footer-prev" title="启动服务器"><i class="fa fa-chevron-left"></i><span>上一页</span></a>
               </footer>
 
@@ -239,6 +246,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <strong class="sidebar-title">目录</strong>
               <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#Introduction-of-the-Hardware-Currently-Available"><span class="toc-text">Introduction of the Hardware Currently Available</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#3-5-inch-5-Bay-HDD-Cage"><span class="toc-text">3.5-inch 5-Bay HDD Cage</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#ATX-Power-Supply"><span class="toc-text">ATX Power Supply</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-Port-PCIe-SATA-Adapter"><span class="toc-text">5-Port PCIe SATA Adapter</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Connection-Diagram"><span class="toc-text">Connection Diagram</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#HDD-amp-ATX-Power-Supply-Connection"><span class="toc-text">HDD &amp; ATX Power Supply Connection</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#ZimaBoard-amp-ATX-Power-Supply-Connection"><span class="toc-text">ZimaBoard &amp; ATX Power Supply Connection</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#ZimaBoard-amp-HDD-Rack-Connection"><span class="toc-text">ZimaBoard &amp; HDD Rack Connection</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Power-Cable-Shorted"><span class="toc-text">Power Cable Shorted</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Overall-Desktop-View"><span class="toc-text">Overall Desktop View</span></a></li></ol></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Start-To-Configure-UnraidOS"><span class="toc-text">Start To Configure UnraidOS</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Configuring-User-Information"><span class="toc-text">Configuring User Information</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Add-x2F-Manage-User-Permissions"><span class="toc-text">Add&#x2F;Manage User Permissions</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Configuring-Hard-Disk-Arrays"><span class="toc-text">Configuring Hard Disk Arrays</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Create-a-Shared-Folder"><span class="toc-text">Create a Shared Folder</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Unraid%E2%80%99s-Other-Features"><span class="toc-text">Unraid’s Other Features</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Docker"><span class="toc-text">Docker</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Virtual-Machine-Creation-and-Use"><span class="toc-text">Virtual Machine Creation and Use</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Create-SMB-x2F-NFS-Local-Side-Mount"><span class="toc-text">Create SMB&#x2F;NFS Local Side Mount</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#In-summary%EF%BC%9A"><span class="toc-text">In summary：</span></a></li></ol>
               <a href="#" id="article-toc-top">回到顶部</a>
+            </div>
+            <div class="article-feedback">
+              
             </div>
           </aside>
         </div>
