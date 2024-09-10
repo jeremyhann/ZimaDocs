@@ -60,11 +60,11 @@ sidebar:
     zimaos-application-content: ZimaOS application content
     tutorials: Tutorials
     openapi: OpenAPI
-    install_offline: Install offline
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
     how-to-install-zimaos: How to install ZimaOS
     release-note: v 1.2.3
     v-1.2.2: v 1.2.2
+    install_offline: Update offline
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: Get Started with ZimaBoard
