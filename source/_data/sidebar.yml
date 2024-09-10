@@ -2,6 +2,7 @@ zimacube:
   start_zimacube:
     quick-start: index.html
     create-nas: Create-NAS.html
+    power-on: Power-on.html
   explore_zimacube:
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
@@ -63,10 +64,6 @@ zimablade:
 knowledge:
   3rd_party_os:
     install_unraid_on_zima_device: index.html
-  # self_hosting_applications:
-  #   placeholder: placeholder.html
-  # more_pcie_accessories:
-  #   placeholder: placeholder.html
 docs:
   getting_started:
     start_zimaboard: index.html
