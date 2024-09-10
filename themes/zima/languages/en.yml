@@ -30,7 +30,6 @@ sidebar:
     user-guide: User Guide
     advanced-using: Advanced Using
     zimaos-application-content: ZimaOS application content
-    hdd-interface-usage-guide: HDD Interface Instructions
     instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
     thunderbolt-port-instructions: Thunderbolt Port Instructions
     ram-interface-instructions: RAM Interface Instructions
@@ -50,6 +49,7 @@ sidebar:
     quick-start: Unbox-ing
     power-on: Power-on
     create-nas: Log-in
+    hdd-interface-usage-guide: Install Your Disk
   zimaos:
     placeholder: Placeholder
     portal: Portal
