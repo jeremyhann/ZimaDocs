@@ -12,8 +12,7 @@ Explore our innovative product lineup designed to meet your needs, whether you'r
 ## Product Overview
 | ZimaCube | ZimaBoard | ZimaBlade |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-|<center>![](https://manage.icewhale.io/api/static/docs/1725448603619_cube.png)</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725948056366_board.png)
-</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725448814569_blade.png)</center>|
+|<center>![](https://manage.icewhale.io/api/static/docs/1725448603619_cube.png)</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725948056366_board.png)</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725448814569_blade.png)</center>|
 |* Expansive storage capacity up to 164TB<br>* Lightning-fast data transfer up to 1GB/s<br>* Advanced networking with 10GbE and 2.5GbE ports |* Designed for intensive computational tasks<br>* Energy-efficient for continuous operation<br>* Flexible connectivity with multiple USB and network ports<br> | * Versatile applications for cloud servers and IoT<br> * Modular expansion with multiple PCIe slots<br>* Compact and efficient design|
 | content | content | content |
 | content | content | content |
