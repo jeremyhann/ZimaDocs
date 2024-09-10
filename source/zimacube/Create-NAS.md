@@ -1,33 +1,22 @@
 ---
-title: Log-in
+title: Power-on
 description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-# Find out your ZimaCube
-## 1.Connect via Findzima
-1. Go to https://find.zimaspace.com/, download and install the ZimaClient software. You can choose MacOS or Windows according to your connection device.
-![](https://manage.icewhale.io/api/static/docs/1724850016993_image.png)
-2. After downloading and installing ZimaClient. It will automatically scan for available devices. Follow the instructions to complete the next steps.
-Note: Make sure the connected device is under the same network as ZimaCube.
-3. When you log in for the first time, you can find your device on the connection interface and connect.
-![](https://manage.icewhale.io/api/static/docs/1723173871352_image.png)
-## 2.Connect via IP
-1. Connect the hardware:
-- Display: Connect the monitor to the ZimaCube using the appropriate display cable.
-2. Power on and obtain an IP address:
-- After powering on the device, the IP address assigned to the ZimaCube by the system will be shown on the display.
-- ![](https://manage.icewhale.io/api/static/docs/1724850469456_image.png)
-3. Connect to ZimaCube via IP:
-- Using a web browser: Open a web browser on a computer connected to the same network. In the address bar, enter the IP address displayed on the ZimaCube screen and press Enter.
-- Using SSH: Open an SSH client and enter ssh root@ ZimaCube IP address, connect.
-4. Access the ZimaCube interface:
-- After entering the IP address in the web browser, you will be directed to the ZimaCube web interface.
-- If this is your first time connecting, follow the on-screen instructions to log in or set up ZimaCube.
+Next, Let's start this device.
  
-# Welcome to ZimaOS
-With these three simple steps, you’re now ready to start using your ZimaCube and exploring all the features it offers. We hope this guide has made the setup process smooth and straightforward, allowing you to fully enjoy the convenience and power of your ZimaCube.  
- 
-![](https://manage.icewhale.io/api/static/docs/1724850402183_image.png)
- 
-If you have any further questions or need additional support, our team is always here to help.
+# Connect power and network cables
+Power port and network cable
+1. Power connection, make sure you are using the correct power adapter that came with the ZimaCube.
+- Locate the power port: Power Port Model: DC 7.4 x 5.0 mm
+- Plug the power adapter plug into the power port on the ZimaCube.
+2. Network Connection
+ZimaCube is equipped with multiple network ports, including 10GbE (Gigabit Ethernet) port and 2.5GbE (Gigabit Ethernet) port. The 10GbE port is designed for high-speed network connection, while the 2.5GbE port provides standard network functions.
+- Network port model: ZimaCube: Intel i226 2.5GbE x2
+ZimaCube Pro: Intel i226 2.5GbE x2; AQC113 10GbE x1
+- Connect Ethernet cable: Select the appropriate Ethernet port according to your network setup and requirements.
+- Plug one end of the Ethernet cable into the selected network port on ZimaCube.
+- Connect the other end of the Ethernet cable to a router, switch, or network socket.
+# Boot up your ZimaCube
+Press the power button on the front panel, and you will see the power indicator light up. Additionally, the LED for the 7th Bay will start displaying a soft,breathing light effect.
