@@ -27,7 +27,6 @@ sidebar:
     explore_zimacube: Exploring ZimaCube
     toturials: Tutorials
     faq: FAQ
-    quick-start: Quick Start
     create-nas: Create NAS
     user-guide: User Guide
     advanced-using: Advanced Using
@@ -49,6 +48,7 @@ sidebar:
     detailed-plex-operation-guide: Detailed Plex Operation Guide
     how-to-understand-docker-app's-paths-on-zimaos: How to understand Docker App's paths On ZimaOS
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube Motherboard DIY Fan Guide and Specifications
+    quick-start: Unbox-ing
   zimaos:
     placeholder: Placeholder
     portal: Portal
