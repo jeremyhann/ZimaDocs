@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://docs-test.zimaspace.com/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/index_old</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimablade/How-to-set-up-a-NAS-with-ZimaBlade</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimablade/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaboard/All-in-one-routing-system-OpenWRT</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaboard/Basic-functions-of-dedicated-systems</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/zimaboard/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -326,6 +389,15 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/zimacube/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/zimacube/ZimaOS-application-content</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -344,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications</loc>
+    <loc>https://docs-test.zimaspace.com/zimaos/How-to-install-ZimaOS</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -354,15 +426,6 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/zimaos/How-to-enable-Plex-hardware-transcoding-on-ZimaCube</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaos/How-to-install-ZimaOS</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -416,69 +479,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/index_old</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/knowledge/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimablade/How-to-set-up-a-NAS-with-ZimaBlade</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimablade/</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaboard/All-in-one-routing-system-OpenWRT</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaboard/Basic-functions-of-dedicated-systems</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -497,34 +497,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/faq/How-to-check-IP-address</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/Restore-factory-settings</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/</loc>
+    <loc>https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -543,15 +516,6 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/docs/Basic-functions-of-dedicated-systems</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -731,7 +695,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
+    <loc>https://docs-test.zimaspace.com/faq/How-to-check-IP-address</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -740,7 +704,34 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Basic-functions-of-dedicated-systems</loc>
+    <loc>https://docs-test.zimaspace.com/faq/Restore-factory-settings</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/faq/</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -758,7 +749,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Basic-functions-of-dedicated-systems</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -768,6 +759,15 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-09-10</lastmod>
     
@@ -857,15 +857,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
-    
-    <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/Speedlimit</loc>
     
     <lastmod>2024-09-10</lastmod>
@@ -876,6 +867,15 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/Ubuntu-Server-is-best-suited-for-Personal-Server</loc>
+    
+    <lastmod>2024-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial</loc>
     
     <lastmod>2024-09-10</lastmod>
     
