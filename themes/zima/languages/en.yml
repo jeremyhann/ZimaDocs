@@ -78,7 +78,6 @@ sidebar:
     multiple_recreational_use: Multiple Recreational Use
     faq: FAQ
     self_deploying_applications: Self-Deploying-Applications
-    small_body_big_applications_omv_first_experience: Exploring OMV
     restore_factory_settings: ZimaBoard CasaOS Factory Recovery
     how_to_check_ip_address: How to check IP address
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version
@@ -95,6 +94,7 @@ sidebar:
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Install Retro Game
     all-in-one_routing_system-openwrt: Install OpenWRT
     universal_third-party_system_installation_tutorial: Install Universal OS
+    small_body_big_applications_omv_first_experience: OMV Configuration
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
