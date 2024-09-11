@@ -41,7 +41,7 @@ zimaboard:
   start_zimablade:
     power_on_zimablade: Power-on-Zimablade.html
     how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
-  hosting_app:
+  hosting_apps:
     minecraft-friendship-service: MineCraft-Friendship-Service.html
   explore:
     self_deploying_applications: Self-Deploying-Applications.html
