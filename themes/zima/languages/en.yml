@@ -88,13 +88,13 @@ sidebar:
     vr_audio_and_video_experience-oculus: VR Audio And Video Experience-Oculus
     universal_third-party_system_installation_tutorial: Universal Third-party System Installation
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build a 75-inch 4K Arcade Machine with ZimaBoard and Batocera.linux
-    minecraft-friendship-service: MineCraft Friendship Service
     how_to_check_ip_address: How to check IP address
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version
     power_on_zimaboard: Power On
     power_on_zimablade: Hardware Brief
     how-to-set-up-a-nas-with-zimablade: Power On
     hardware_interface_introduction: Hardware Brief
+    minecraft-friendship-service: MineCraft Server App
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
