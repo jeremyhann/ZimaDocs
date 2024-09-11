@@ -68,8 +68,10 @@ sidebar:
     install_offline: Update offline
   zimaboard:
     placeholder: Placeholder
-    start_zimaboard: Get Started with ZimaBoard
-    start_zimablade: Get Started with ZimaBlade
+    start_zimaboard: ZimaBoard
+    start_zimablade: ZimaBlade
+    hosting_app: Hosting App
+    explore: Explore
     diy_project_hub: DIY Project Hub
     power_on_zimaboard: Power on ZimaBoard
     go_deeper_with_Casaos: Go Deeper with CasaOS
@@ -91,9 +93,6 @@ sidebar:
     minecraft-friendship-service: MineCraft Friendship Service
     how_to_check_ip_address: How to check IP address
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version
-  zimablade:
-    placeholder: Placeholder
-    start_zimablade: Get Started with ZimaBlade
     power_on_zimablade: Power on ZimaBlade
     how-to-set-up-a-nas-with-zimablade: How to set up a NAS with ZimaBlade
   knowledge:

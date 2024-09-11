@@ -7643,6 +7643,7 @@ margin: 0px 5px;}
 .site-footer {
 	background-position: center;
 	background-size: cover;
+  width: 100%;
 }
 
 .site-footer p {

@@ -38,29 +38,26 @@ zimaboard:
   start_zimaboard:
     power_on_zimaboard: index.html
     hardware_interface_introduction: Hardware-Interface-Introduction.html
-  go_deeper_with_Casaos:
+  start_zimablade:
+    power_on_zimablade: Power-on-Zimablade.html
+    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
+  hosting_app:
+    minecraft-friendship-service: MineCraft-Friendship-Service.html
+  explore:
     self_deploying_applications: Self-Deploying-Applications.html
-  advanced_use_of_ZimaBorad:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
     small_body_big_applications_omv_first_experience: Small-body-Big-applications-OMV-First-Experience.html
     unraid_first_experience_at_$129_installation: Unraid-First-Experience-at-$129-Installation.html
     all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
     openwrt_emmc_boot: Openwrt-eMMc-boot.html
     universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
-    minecraft-friendship-service: MineCraft-Friendship-Service.html
-  multiple_recreational_use:
     basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
     vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
-  diy_project_hub: {}
   faq:
     restore_factory_settings: Restore-factory-settings.html
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version.html
     how_to_check_ip_address: How-to-check-IP-address.html
-zimablade:
-  start_zimablade:
-    power_on_zimablade: index.html
-    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
 knowledge:
   3rd_party_os:
     install_unraid_on_zima_device: index.html
