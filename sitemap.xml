@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://docs-test.zimaspace.com/zimaos/Release-Note</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaos/User-Guide</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaos/</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/zimaos/v-1.2.2</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/</loc>
     
     <lastmod>2024-09-11</lastmod>
@@ -371,7 +407,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Troubleshooting</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Tutorials</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -380,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimacube/Tutorials</loc>
+    <loc>https://docs-test.zimaspace.com/zimacube/Troubleshooting</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -452,42 +488,6 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/zimaos/Release-Note</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaos/User-Guide</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaos/v-1.2.2</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/zimaos/</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs-test.zimaspace.com/icon/manifest.json</loc>
     
     <lastmod>2024-09-11</lastmod>
@@ -506,7 +506,43 @@
   </url>
   
   <url>
+    <loc>https://docs-test.zimaspace.com/faq/How-to-check-IP-address</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/faq/Restore-factory-settings</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs-test.zimaspace.com/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
+    
+    <lastmod>2024-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs-test.zimaspace.com/faq/</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -578,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/MineCraft-Friendship-Service</loc>
+    <loc>https://docs-test.zimaspace.com/docs/How-to-set-up-a-NAS-with-ZimaBlade</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -587,7 +623,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/docs/How-to-set-up-a-NAS-with-ZimaBlade</loc>
+    <loc>https://docs-test.zimaspace.com/docs/MineCraft-Friendship-Service</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -704,34 +740,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/faq/How-to-check-IP-address</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/Upgrade-Motherboard-BIOS-Version</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/Restore-factory-settings</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/faq/</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -741,15 +750,6 @@
   
   <url>
     <loc>https://docs-test.zimaspace.com/cn/docs/All-in-one-routing-system-OpenWRT</loc>
-    
-    <lastmod>2024-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/2-ZimaBlades%EF%BC%8C1-Cluster%EF%BC%9FPVE-makes-your-service-Migratable!</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -776,7 +776,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/ForgotPassword</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -785,7 +785,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/DownloadLLMmodels</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/ForgotPassword</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -902,7 +902,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-at-$129-Installation</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/VR-Audio-And-Video-Experience-Oculus</loc>
     
     <lastmod>2024-09-11</lastmod>
     
@@ -911,7 +911,7 @@
   </url>
   
   <url>
-    <loc>https://docs-test.zimaspace.com/cn/docs/VR-Audio-And-Video-Experience-Oculus</loc>
+    <loc>https://docs-test.zimaspace.com/cn/docs/Unraid-First-Experience-at-$129-Installation</loc>
     
     <lastmod>2024-09-11</lastmod>
     
