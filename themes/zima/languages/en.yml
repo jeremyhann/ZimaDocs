@@ -46,10 +46,10 @@ sidebar:
     detailed-plex-operation-guide: Detailed Plex Operation Guide
     how-to-understand-docker-app's-paths-on-zimaos: How to understand Docker App's paths On ZimaOS
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube Motherboard DIY Fan Guide and Specifications
+    quick-start: Unbox-ing
     hdd-interface-usage-guide: Install Your Disk
-    create-nas: Power-on
     power-on: Log-in
-    quick-start: Power On
+    create-nas: PC Direct
   zimaos:
     placeholder: Placeholder
     portal: Portal
