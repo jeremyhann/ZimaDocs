@@ -1,10 +1,11 @@
 ---
-title: Power-on
+title: 
 description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
 # A Different Way to Setup
+## Connect via IP
 1. Connect the hardware:
 - Display: Connect the monitor to the ZimaCube using the appropriate display cable.
 2. Power on and obtain an IP address:
