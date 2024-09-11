@@ -77,6 +77,7 @@ sidebar:
     advanced_use_of_ZimaBorad: Advanced Use of ZimaBoard
     multiple_recreational_use: Multiple Recreational Use
     faq: FAQ
+    hardware_interface_introduction: Hardware-Interface-Introduction
     self_deploying_applications: Self-Deploying-Applications
     small_body_big_applications_omv_first_experience: Exploring OMV
     restore_factory_settings: ZimaBoard CasaOS Factory Recovery
@@ -91,10 +92,9 @@ sidebar:
     minecraft-friendship-service: MineCraft Friendship Service
     how_to_check_ip_address: How to check IP address
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version
-    power_on_zimablade: Power on ZimaBlade
     how-to-set-up-a-nas-with-zimablade: How to set up a NAS with ZimaBlade
     power_on_zimaboard: Power On
-    hardware_interface_introduction: Hardware Brief
+    power_on_zimablade: Power On
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
