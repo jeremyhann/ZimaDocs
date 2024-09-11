@@ -30,7 +30,7 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - M2X4mm Cross recessed flat head screw：Used to fasten the 7th SSD.
   - M3X6mm Cross recessed countersunk screw：Used to fasten 3.5-inch hard disk.
   - M3X4mm Cross recessed countersunk screw：Used to fasten 2.5-inch hard disk.
-
+---
 # Setup HDD
 Before powering on, let's take another look at how to install your accessories. For instance, your disk, the most crucial component of a NAS.
 ### Unlock the device
@@ -113,7 +113,7 @@ Note: Make sure the connected device is under the same network as ZimaCube.
 4. Access the ZimaCube interface:
 - After entering the IP address in the web browser, you will be directed to the ZimaCube web interface.
 - If this is your first time connecting, follow the on-screen instructions to log in or set up ZimaCube.
- 
+# Here We Go！
 ## Welcome to ZimaOS
 With these three simple steps, you’re now ready to start using your ZimaCube and exploring all the features it offers. We hope this guide has made the setup process smooth and straightforward, allowing you to fully enjoy the convenience and power of your ZimaCube.  
  
