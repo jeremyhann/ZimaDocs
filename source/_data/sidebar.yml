@@ -3,6 +3,7 @@ zimacube:
     quick-start: index.html
     create-nas: Create-NAS.html
     power-on: Power-on.html
+    hardware-details: Hardware-Details.html
   explore_zimacube:
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
