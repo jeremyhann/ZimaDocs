@@ -80,7 +80,7 @@ sidebar:
     self_deploying_applications: Self-Deploying-Applications
     small_body_big_applications_omv_first_experience: Exploring OMV
     restore_factory_settings: ZimaBoard CasaOS Factory Recovery
-    openwrt_emmc_boot: Openwrt eMMc boot
+    all-in-one_routing_system-openwrt: All-In-One Routing System-OpenWRT
     basic_functions_of_dedicated_systems: Basic Functions Of Dedicated Systems
     vr_audio_and_video_experience-oculus: VR Audio And Video Experience-Oculus
     universal_third-party_system_installation_tutorial: Universal Third-party System Installation
@@ -94,7 +94,7 @@ sidebar:
     minecraft-friendship-service: MineCraft Server App
     small_body_big_applications_omv_install: Install OMV
     unraid_first_experience_at_$129_installation: Install UnRAID
-    all-in-one_routing_system-openwrt: Install OpenWrt
+    openwrt_emmc_boot: Openwrt on eMMc
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
