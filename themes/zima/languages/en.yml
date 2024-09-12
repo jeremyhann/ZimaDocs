@@ -22,9 +22,9 @@ sidebar:
   zimacube:
     placeholder: Placeholder
     portal: Portal
-    start_zimacube: Getting Started with ZimaCube
-    explore_zimaos: Exploring ZimaOS
-    explore_zimacube: Exploring ZimaCube
+    start_zimacube: Overview
+    explore_zimacube: Explore
+    community_makes: Community Makes
     toturials: Tutorials
     faq: FAQ
     user-guide: User Guide
@@ -53,9 +53,13 @@ sidebar:
     hardware-details: Hardware Details
   zimaos:
     placeholder: Placeholder
-    portal: Portal
-    start_zimaos: Start ZimaOS
-    explore_zimaos: Exploring ZimaOS
+    portal: Home
+    start_zimaos: Overview
+    explore_zimaos: Explore
+    dev: Dev
+    community_makes: Community Makes
+    version: Version Logs
+    api: API
     release_note: Release Note
     user_guide: User Guide
     advanced_using: Advanced Using

@@ -12,7 +12,7 @@ zimacube:
     ram-interface-instructions: RAM-Interface-Instructions.html
     pcie-interface-instructions: PCIe-Interface-Instructions.html
     fan-interface-instructions: Fan-Interface-Instructions.html
-  toturials:
+  community_makes: 
     tutorials: Tutorials.html
     how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
     how-to-install-zimaos: How-to-Install-ZimaOS.html
@@ -25,16 +25,18 @@ zimacube:
     troubleshooting: Troubleshooting.html
     creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
 zimaos:
-  release_note:
+  start_zimaos:
     portal: index.html
-    release-note: Release-Note.html
-    v-1.2.2: v-1.2.2.html
-  user_guide:
-    how-to-install-zimaos: How-to-install-ZimaOS.html
   explore_zimaos:
     install_offline: Install-offline.html
-  advanced_using:
+  dev: 
+    how-to-install-zimaos: How-to-install-ZimaOS.html
+  community_makes: 
     how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
+  version:
+    release-note: Release-Note.html
+    v-1.2.2: v-1.2.2.html
+  api: {}
 zimaboard:
   start_zimaboard:
     power_on_zimaboard: index.html
