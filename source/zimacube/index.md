@@ -5,6 +5,10 @@ type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
 **Welcome to Zima Space!** This guide is designed for anyone using ZimaCube for the first time, guiding you through three simple steps to access the system. Whether you're tech-savvy or not, we'll patiently help you get started with ease and enjoy the convenience of our storage solution.
+ 
+ 
+---
+ 
 # Unbox-ing
 ## Shipping list
 ### What is in the Box
@@ -30,7 +34,10 @@ Each accessory is designed to serve a specific purpose, ensuring the smooth setu
   - M2X4mm Cross recessed flat head screw：Used to fasten the 7th SSD.
   - M3X6mm Cross recessed countersunk screw：Used to fasten 3.5-inch hard disk.
   - M3X4mm Cross recessed countersunk screw：Used to fasten 2.5-inch hard disk.
+ 
+ 
 ---
+ 
 # Setup HDD
 Before powering on, let's take another look at how to install your accessories. For instance, your disk, the most crucial component of a NAS.
 ### Unlock the device
@@ -70,7 +77,10 @@ Remove the 7th Bay and prepare.
 - （You’ll know it’s in correctly when it clicks into place. Don’t force it; if it doesn’t go in easily,  ensure to recheck and adjust the alignment accordingly.）
 3. **Secure the M.2 SSD:**
 - Use the appropriate screw to secure the SSD in place.  
+ 
+ 
 ---
+ 
 # Connect Power Adapter
 Next, start the device.
 ## Connect power and network cables
