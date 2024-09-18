@@ -31,6 +31,7 @@ zimaos:
     features: Features.html
   explore_zimaos:
     install_offline: Install-offline.html
+    sync-photos-with-immich: Sync-Photos-with-Immich.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
