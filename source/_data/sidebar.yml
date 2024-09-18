@@ -28,6 +28,7 @@ zimaos:
   start_zimaos:
     portal: index.html
     get-started: Get-Started.html
+    features: Features.html
   explore_zimaos:
     install_offline: Install-offline.html
   dev:
