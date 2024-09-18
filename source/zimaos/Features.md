@@ -11,8 +11,6 @@ Have you ever found yourself on vacation wishing you could peek at your home sur
 
 Community member Grandil recently accessed ZimaOS remotely from a train in Norway, connected to servers back in Ireland. Despite being in a mobile roaming environment, all tests and usage went smoothly, leading Grandil to give a glowing review. Watch his experience [here](https://www.youtube.com/watch?v=ZDmO2h0tE0c).
 
-<iframe height=498 width=510 src="https://www.youtube.com/watch?v=ZDmO2h0tE0c&embeds_referring_euri=https%3A%2F%2Fwww.zimaspace.com%2F&source_ve_path=MjM4NTE">
-  
 
 In today’s fast-paced world, our dependence on data grows daily. Whether you’re a home user or a small business, managing and accessing data efficiently has become a key part of our routines. The ability to access data remotely is crucial—it boosts productivity, ensures data security, and avoids the inconveniences of geographical limitations.
 
