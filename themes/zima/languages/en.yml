@@ -73,6 +73,7 @@ sidebar:
     install_offline: Update offline
     get-started: Get Started
     features: Features
+    sync-photos-with-immich: Sync Photos with Immich
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
