@@ -89,3 +89,59 @@ Before installing Jellyfin, it’s important to ensure that your ZimaBoard is re
 **Check Operating System Compatibility: **Verify that your ZimaBoard’s operating system is compatible with Jellyfin. Most popular operating systems like Windows, Linux, and macOS should be compatible.
 
 **Update Firmware and Software: **It’s recommended to update your ZimaBoard’s firmware and operating system to the latest versions to ensure optimal performance and compatibility.
+## 2. Step-by-step guide to installing Jellyfin on ZimaBoard
+Installing Jellyfin on ZimaBoard is a straightforward process. Follow these steps to set it up:
+
+Download Jellyfin: Visit the Jellyfin website and download the appropriate installation package for your ZimaBoard’s operating system-[CasaOS](https://casaos.zimaspace.com/).
+![](https://manage.icewhale.io/api/static/docs/1726657342139_image.png)
+
+**Install Jellyfin: **Once the download is complete, follow the on-screen instructions to install Jellyfin on your ZimaBoard. The installation process may vary depending on your operating system, but it typically involves running the installation package and following the prompts.
+
+**Launch Jellyfin: **After the installation is complete, launch the Jellyfin application on your ZimaBoard. It should open a web interface that allows you to access and configure Jellyfin.
+![](https://manage.icewhale.io/api/static/docs/1726657370196_image.png)
+## 3. Configuring Jellyfin for optimal performance on ZimaBoard
+To ensure the optimal performance of Jellyfin on your ZimaBoard, consider the following configuration steps:
+
+**Initial Setup Wizard: **The first time you access Jellyfin, you will be guided through an initial setup wizard. Follow the instructions to choose your preferred language, configure metadata agents, and set up your media libraries.
+
+**Transcoding Settings:** Adjust the transcoding settings based on your ZimaBoard’s capabilities and network bandwidth. Consider factors such as video quality, streaming resolution, and subtitle encoding.
+
+**User Management: **Set up user accounts and manage permissions to control access to your media libraries. This allows you to create individual profiles for different users and personalize their viewing experience.
+
+## 4. Connecting storage devices and organizing media libraries
+To start enjoying your videos on Jellyfin, you need to connect storage devices and organize your media libraries. Follow these steps:
+
+**Connect External Storage: **If your ZimaBoard has limited onboard storage, consider connecting external storage devices such as SSDs or hard drives to expand your storage capacity.
+
+**Add Media Libraries:** Within the Jellyfin web interface, navigate to the Libraries section and add your media folders from the connected storage devices. Jellyfin will scan and index your media files, making them accessible for streaming.
+![](https://manage.icewhale.io/api/static/docs/1726657424182_image.png)
+
+# How to Accessing and Streaming Media Anywhere with Jellyfin
+## 1. Jellyfin’s web interface and its features
+Jellyfin offers a user-friendly web interface that allows you to access and manage your media library. Some of the key features of Jellyfin’s web interface include:
+
+**User-friendly Interface:** The web interface is designed to be intuitive and easy to navigate, allowing you to browse and search for your favorite videos effortlessly.
+
+**Library Organization:** Jellyfin’s web interface provides tools to organize your media library, allowing you to create collections, playlists, and tags for efficient categorization and navigation.
+
+**Playback Controls: **The web interface includes playback controls that allow you to adjust video quality, enable subtitles, and control playback speed for a personalized viewing experience.
+
+**User Management: **The web interface also allows you to manage user accounts, set permissions, and customize individual profiles for a personalized viewing experience for each user.
+
+## 2. Exploring Jellyfin mobile apps for on-the-go streaming
+Jellyfin offers mobile apps for iOS and Android devices, providing a seamless streaming experience on the go. Here are some benefits of using Jellyfin mobile apps:
+
+**Mobile Streaming:** The mobile apps allow you to stream your videos directly to your mobile device, enabling you to enjoy your favorite content wherever you are.![](https://manage.icewhale.io/api/static/docs/1726657478382_image.png)
+**Sync and Offline Viewing: **With Jellyfin mobile apps, you can sync your media libraries for offline viewing. This means you can download videos to your device and watch them without an internet connection.
+
+**Mobile Sync: **The mobile apps provide a convenient way to synchronize your watch history, playback progress, and library updates across different devices, ensuring a seamless transition between devices.
+
+**Remote Control:** The mobile apps also function as a remote control, allowing you to navigate through your media library and control playback on compatible devices.
+3. Casting media to compatible devices using Jellyfin
+Jellyfin supports casting media to compatible devices, enabling you to enjoy your videos on a larger screen. Here’s how you can cast media using Jellyfin:
+
+Compatible Devices: Jellyfin supports popular casting protocols such as Chromecast, DLNA, and AirPlay. Ensure that your target device supports one of these protocols.
+
+Casting Process: From the Jellyfin web interface or mobile app, select the media you want to cast and choose the compatible device from the cast menu. The media will be streamed to the selected device for playback.
+
+Control and Playback: Once the media is cast, you can use the Jellyfin interface on your device to control playback, adjust settings, and navigate through your media library.
