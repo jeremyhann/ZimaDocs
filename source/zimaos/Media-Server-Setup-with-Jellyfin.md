@@ -137,11 +137,28 @@ Jellyfin offers mobile apps for iOS and Android devices, providing a seamless st
 **Mobile Sync: **The mobile apps provide a convenient way to synchronize your watch history, playback progress, and library updates across different devices, ensuring a seamless transition between devices.
 
 **Remote Control:** The mobile apps also function as a remote control, allowing you to navigate through your media library and control playback on compatible devices.
-3. Casting media to compatible devices using Jellyfin
+
+## 3. Casting media to compatible devices using Jellyfin
 Jellyfin supports casting media to compatible devices, enabling you to enjoy your videos on a larger screen. Here’s how you can cast media using Jellyfin:
 
-Compatible Devices: Jellyfin supports popular casting protocols such as Chromecast, DLNA, and AirPlay. Ensure that your target device supports one of these protocols.
+**Compatible Devices: **Jellyfin supports popular casting protocols such as Chromecast, DLNA, and AirPlay. Ensure that your target device supports one of these protocols.
 
-Casting Process: From the Jellyfin web interface or mobile app, select the media you want to cast and choose the compatible device from the cast menu. The media will be streamed to the selected device for playback.
+**Casting Process: **From the Jellyfin web interface or mobile app, select the media you want to cast and choose the compatible device from the cast menu. The media will be streamed to the selected device for playback.
 
-Control and Playback: Once the media is cast, you can use the Jellyfin interface on your device to control playback, adjust settings, and navigate through your media library.
+**Control and Playback:** Once the media is cast, you can use the Jellyfin interface on your device to control playback, adjust settings, and navigate through your media library.
+![](https://manage.icewhale.io/api/static/docs/1726658027882_image.png)
+
+# 4. Remote access and streaming outside the local network
+Jellyfin allows you to access and stream your media outside the local network, enabling you to watch videos anywhere. Here’s how you can set up remote access:
+
+**Port Forwarding: **Configure port forwarding on your router to allow incoming connections to your ZimaBoard running Jellyfin. This ensures that you can access Jellyfin remotely.
+
+**Dynamic DNS:** If your internet service provider assigns you a dynamic IP address, consider using a dynamic DNS service to associate a domain name with your ZimaBoard. This allows you to access Jellyfin using a domain name instead of an IP address.
+
+**Secure Connections: **To ensure secure remote access, enable SSL/TLS encryption for Jellyfin. This protects your data and prevents unauthorized access to your media server.
+
+**Authentication and Security: **Jellyfin provides options to set up authentication methods, such as username/password or OAuth, to add an extra layer of security to your remote access.
+
+## Final Verdict:
+
+With Jellyfin Media Server and ZimaBoard, watching videos anywhere becomes a reality. The combination of Jellyfin’s versatile features and ZimaBoard’s powerful hardware ensures a seamless and immersive home entertainment experience. So, unleash the power of your home entertainment system, dive into the world of Jellyfin and ZimaBoard, and enjoy your favorite videos anytime, anywhere.
