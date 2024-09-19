@@ -24,7 +24,6 @@ With this assumption, we embarked on Zima's journey of building and exploration.
   
 
 # Product Overview
-----------------
 
 ### ZimaCube - https://www.zimaspace.com/products/cube-personal-cloud
 
@@ -33,39 +32,19 @@ With this assumption, we embarked on Zima's journey of building and exploration.
 
 
 
-
-  
-
-  
-
-  
-
 The ZimaCube Pro features an i5-level processor, 10-core processing capabilities, and Thunderbolt interfaces that meet gigabyte-level per-second transfer demands. With storage options for four SSDs and six HDDs, it easily meets the multimedia management needs of mainstream creators and small studios. Its multi-lane PCIe expandability also offers excellent potential for SSD RAID setups, SAS components, or GPU-level computational power expansions.
 
   
 
 Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requiring minimal technical knowledge. Set up your multimedia management center, local AI, or Agent applications in one step.
-
   
-
 ### ZimaOS
 
-> (Based on CasaOS)
-
-![](https://manage.icewhale.io/api/static/docs/1726730282538_copyImage.png)
-
-  
-
-ZimaOS is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.
+|  (Based on CasaOS)
+| <center>![](https://manage.icewhale.io/api/static/docs/1726730282538_copyImage.png) </center>| **ZimaOS** is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.<br><br><br><br>Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.|
+|:---------------------------------------: | :---------------------------------------| 
 
   
-
-Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.
-
-  
-
-  
-
 ### ZimaBoard - https://www.zimaspace.com/products/single-board-server
 
 ![](https://manage.icewhale.io/api/static/docs/1726730283238_copyImage.jpeg)
@@ -77,9 +56,6 @@ The ZimaBoard is the first compact server in the Zima product line, designed spe
 This server is a micro x86 system priced within the hundred-dollar range, featuring a small form factor with PCIe expansion capabilities. Its x86 processor ensures excellent system compatibility and the ability to deploy various applications, effortlessly running multiple Docker applications.
 
   
-
-  
-
 ### ZimaBlade - https://www.zimaspace.com/products/blade-personal-nas
 
 ![](https://manage.icewhale.io/api/static/docs/1726730283931_copyImage.jpeg)
