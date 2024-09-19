@@ -4,16 +4,132 @@ description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-Welcome to Zima Space, brought to you by the Zima team.And here you can find everything you need to know about Zima products, whether you’re looking to get started quickly, learn more about our offerings, or dive deep into NAS-related knowledge.
+# What's Zima
+-----------
 
-Explore our innovative product lineup designed to meet your needs, whether you're a creative professional, a tech enthusiast, or someone looking for reliable and high-performance solutions. Below, you'll find quick overviews of our main products, along with key features and links to more detailed articles.
+I'm Lauren from the Zima team—thank you for your interest. Let me briefly introduce Zima.
+
+  
+
+Zima's early team comprised young, tech-savvy individuals passionate about NAS, router, and PC design and innovation, primarily engineers. In 2021, we came together to build the Zima brand.
+
+  
+
+It all started with an observation: in the next decade, could every household have a small private cloud device? This could serve as a data asset manager for individuals and small organizations, the hub of a smart home, or even a local AI-powered Jarvis. You might call it a NAS, a home server, or something else, but we believe what truly matters is granting everyone the right to their own cloud. This means relying on personal devices to manage personal data and smart services. It should be secure, reliable, locally-focused, and user-friendly—a privatized device.
+
+  
+
+With this assumption, we embarked on Zima's journey of building and exploration.
+
+  
+
+# Product Overview
+----------------
+
+### ZimaCube - https://www.zimaspace.com/products/cube-personal-cloud
+
+| <center>![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) </center>| ZimaCube is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers, and becoming one of the Top 30 hardware projects on Kickstarter for 2023.<br>The NAS industry, decades old, has established players with stable footings in storage technology and market share. As a young company, we aim to bring fresh perspectives and value to this sector.|
+|:---------------------------------------: | :---------------------------------------|
 
 
-## Product Overview
-| ZimaCube | ZimaBoard | ZimaBlade |
-| :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-|<center>![](https://manage.icewhale.io/api/static/docs/1725448603619_cube.png)</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725948056366_board.png)</center>|<center>![](https://manage.icewhale.io/api/static/docs/1725448814569_blade.png)</center>|
-|* Expansive storage capacity up to 164TB<br>* Lightning-fast data transfer up to 1GB/s<br>* Advanced networking with 10GbE and 2.5GbE ports |* Designed for intensive computational tasks<br>* Energy-efficient for continuous operation<br>* Flexible connectivity with multiple USB and network ports<br> | * Versatile applications for cloud servers and IoT<br> * Modular expansion with multiple PCIe slots<br>* Compact and efficient design|
-| content | content | content |
-| content | content | content |
-| content | content | content |
+
+
+  
+
+  
+
+  
+
+The ZimaCube Pro features an i5-level processor, 10-core processing capabilities, and Thunderbolt interfaces that meet gigabyte-level per-second transfer demands. With storage options for four SSDs and six HDDs, it easily meets the multimedia management needs of mainstream creators and small studios. Its multi-lane PCIe expandability also offers excellent potential for SSD RAID setups, SAS components, or GPU-level computational power expansions.
+
+  
+
+Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requiring minimal technical knowledge. Set up your multimedia management center, local AI, or Agent applications in one step.
+
+  
+
+### ZimaOS
+
+> (Based on CasaOS)
+
+![](https://manage.icewhale.io/api/static/docs/1726730282538_copyImage.png)
+
+  
+
+ZimaOS is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.
+
+  
+
+Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.
+
+  
+
+  
+
+### ZimaBoard - https://www.zimaspace.com/products/single-board-server
+
+![](https://manage.icewhale.io/api/static/docs/1726730283238_copyImage.jpeg)
+
+The ZimaBoard is the first compact server in the Zima product line, designed specifically for home server scenarios. Initially, its product definition stemmed from considerations in hosting, homelabs, clustering, and network security.
+
+  
+
+This server is a micro x86 system priced within the hundred-dollar range, featuring a small form factor with PCIe expansion capabilities. Its x86 processor ensures excellent system compatibility and the ability to deploy various applications, effortlessly running multiple Docker applications.
+
+  
+
+  
+
+### ZimaBlade - https://www.zimaspace.com/products/blade-personal-nas
+
+![](https://manage.icewhale.io/api/static/docs/1726730283931_copyImage.jpeg)
+
+Following widespread community support and interest in ZimaBoard, we began to explore building a more focused desktop setup—a compact 2 Bay DIY NAS solution. The ZimaBlade NAS Kit represents an interim response from the Zima team.
+
+  
+
+Compared to the ZimaBoard, the ZimaBlade is further reduced in size by one-third and has scaled-down networking capabilities. However, paired with a 2 Bay HDD Stand, it allows for a compact, brick-sized desktop DIY NAS setup.
+
+  
+
+Priced at only $160, with quad-core performance and PCIe expansion capabilities, it can handle most NAS applications and data processing needs. Pre-installed with CasaOS, it's ready to use right out of the box, making it an excellent choice for those new to NAS systems.
+
+  
+
+Why we build ZimaOS and Zima Devices
+------------------------------------
+
+As previously mentioned, the Zima product line is dedicated to providing personal cloud products for creators and professional users. These products are professional, user-friendly, and designed to meet the diverse needs of home and studio settings, offering a wealth of applications. They support daily workflows and data asset management, safeguard family privacy, and offer system-level software and hardware scalability, allowing professionals customizable options. To achieve these features, we need to define our own software and hardware.
+
+  
+
+We believe that in an era of AI, the data assets of every studio and individual will become increasingly vital. All internet companies are vying to monitor everyone's actions and the data they produce. However, as individuals and small organizations, we cannot stop technological progress, but we can use "magic to fight magic." We believe in building private AI for everyone, a private cloud to manage your scattered personal and organizational data. Syncing data from Notion, Google Drive, personal photo albums, and using this data to build a privatized Agent will be a main theme in the computing industry.
+
+  
+
+This will bring about a personalized Agent for everyone, fostering democratized AI.
+
+  
+
+Rooted in Community - https://discord.gg/f9nzbmpMtU
+---------------------------------------------------
+
+From day one, the Zima product line has received support from the Kickstarter community. In terms of software, the development of CasaOS on GitHub and the exploration of ZimaOS could not have progressed without the participation and suggestions of a succession of outstanding engineers and enthusiasts from the community. We always adhere to listening, thinking, and taking action. The community's suggestions permeate every aspect of Zima's hardware and software products and operations. From major product line planning to the selection of logistics service providers, we continuously focus on the community's ideas for Zima's iteration and drive our updates and direction based on community feedback.
+
+  
+
+We sincerely invite you to join our community of thousands - https://discord.gg/f9nzbmpMtU
+
+  
+
+How to Contribute - link
+========================
+
+A continuously evolving hardware and software setup needs your input. Through this link, you can directly submit your desired hardware and software requirements, or provide suggestions for revisions to our documentation scope. We look forward to your suggestions. - link
+
+  
+
+Explore!
+--------
+
+Let's begin our exploration of the Zima hardware and ZimaOS, covering initial usage, applications, secondary development, local LLM, and much more.
