@@ -63,13 +63,21 @@ Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requirin
   
 ### ZimaBoard - https://www.zimaspace.com/products/single-board-server
 
-![](https://manage.icewhale.io/api/static/docs/1726730283238_copyImage.jpeg)
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <img src="https://manage.icewhale.io/api/static/docs/1726730283238_copyImage.jpeg" alt="Description" style="max-width:100%; height:auto;">
+    </td>
+    <td style="width:50%; text-align:left; vertical-align:top;">
+      <p><strong>ZimaBoard</strong> is the first compact server in the Zima product line, designed specifically for home server scenarios. Initially, its product definition stemmed from considerations in hosting, homelabs, clustering, and network security.
+</p><p></p><p>
+This server is a micro x86 system priced within the hundred-dollar range, featuring a small form factor with PCIe expansion capabilities. Its x86 processor ensures excellent system compatibility and the ability to deploy various applications, effortlessly running multiple Docker applications.</p>
+    </td>
+  </tr>
+</table>
+![]()
 
-The ZimaBoard is the first compact server in the Zima product line, designed specifically for home server scenarios. Initially, its product definition stemmed from considerations in hosting, homelabs, clustering, and network security.
 
-  
-
-This server is a micro x86 system priced within the hundred-dollar range, featuring a small form factor with PCIe expansion capabilities. Its x86 processor ensures excellent system compatibility and the ability to deploy various applications, effortlessly running multiple Docker applications.
 
   
 ### ZimaBlade - https://www.zimaspace.com/products/blade-personal-nas
