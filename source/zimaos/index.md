@@ -30,7 +30,16 @@ With this assumption, we embarked on Zima's journey of building and exploration.
 |![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) | **ZimaCube** is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers, and becoming one of the Top 30 hardware projects on Kickstarter for 2023.<br><br><br><br>The NAS industry, decades old, has established players with stable footings in storage technology and market share. As a young company, we aim to bring fresh perspectives and value to this sector.|
 |:----|:----|
 
-
+<table style="width:100%; text-align:center">
+  <tr>
+    <td style="width:50%">
+      <img src="https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png" alt="Image" style="width:100%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <p> **ZimaCube ** is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers, and becoming one of the Top 30 hardware projects on Kickstarter for 2023.<br><br><br><br>The NAS industry, decades old, has established players with stable footings in storage technology and market share. As a young company, we aim to bring fresh perspectives and value to this sector.</p>
+    </td>
+  </tr>
+</table>
 
 The ZimaCube Pro features an i5-level processor, 10-core processing capabilities, and Thunderbolt interfaces that meet gigabyte-level per-second transfer demands. With storage options for four SSDs and six HDDs, it easily meets the multimedia management needs of mainstream creators and small studios. Its multi-lane PCIe expandability also offers excellent potential for SSD RAID setups, SAS components, or GPU-level computational power expansions.
 
