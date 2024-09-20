@@ -50,7 +50,7 @@ Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requirin
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <img src="https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png" alt="Description" style="max-width:100%; height:auto;">
+      <img src="https://manage.icewhale.io/api/static/docs/1726824162108_image.png" alt="Description" style="max-width:100%; height:auto;">
     </td>
     <td style="width:50%; text-align:left; vertical-align:top;">
       <p><strong>ZimaOS</strong> is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.</p>
@@ -75,29 +75,26 @@ This server is a micro x86 system priced within the hundred-dollar range, featur
     </td>
   </tr>
 </table>
-![]()
 
 
 
   
 ### ZimaBlade - https://www.zimaspace.com/products/blade-personal-nas
+<table style="width:100%; table-layout: fixed;">
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <img src="https://manage.icewhale.io/api/static/docs/1726730283931_copyImage.jpeg" alt="Description" style="max-width:100%; height:auto;">
+    </td>
+    <td style="width:50%; text-align:left; vertical-align:top;">
+      <p>Following widespread community support and interest in ZimaBoard, we began to explore building a more focused desktop setup—a compact 2 Bay DIY NAS solution. The <strong>ZimaBlade</strong> NAS Kit represents an interim response from the Zima team.</p>
+      <p>Compared to the ZimaBoard, the ZimaBlade is further reduced in size by one-third and has scaled-down networking capabilities. However, paired with a 2 Bay HDD Stand, it allows for a compact, brick-sized desktop DIY NAS setup.</p>
+  <p>Priced at only $160, with quad-core performance and PCIe expansion capabilities, it can handle most NAS applications and data processing needs. Pre-installed with CasaOS, it's ready to use right out of the box, making it an excellent choice for those new to NAS systems.</p>   
+    </td>
+  </tr>
+</table>
 
-![](https://manage.icewhale.io/api/static/docs/1726730283931_copyImage.jpeg)
 
-Following widespread community support and interest in ZimaBoard, we began to explore building a more focused desktop setup—a compact 2 Bay DIY NAS solution. The ZimaBlade NAS Kit represents an interim response from the Zima team.
-
-  
-
-Compared to the ZimaBoard, the ZimaBlade is further reduced in size by one-third and has scaled-down networking capabilities. However, paired with a 2 Bay HDD Stand, it allows for a compact, brick-sized desktop DIY NAS setup.
-
-  
-
-Priced at only $160, with quad-core performance and PCIe expansion capabilities, it can handle most NAS applications and data processing needs. Pre-installed with CasaOS, it's ready to use right out of the box, making it an excellent choice for those new to NAS systems.
-
-  
-
-Why we build ZimaOS and Zima Devices
-------------------------------------
+### Why we build ZimaOS and Zima Devices
 
 As previously mentioned, the Zima product line is dedicated to providing personal cloud products for creators and professional users. These products are professional, user-friendly, and designed to meet the diverse needs of home and studio settings, offering a wealth of applications. They support daily workflows and data asset management, safeguard family privacy, and offer system-level software and hardware scalability, allowing professionals customizable options. To achieve these features, we need to define our own software and hardware.
 
@@ -111,8 +108,7 @@ This will bring about a personalized Agent for everyone, fostering democratized 
 
   
 
-Rooted in Community - https://discord.gg/f9nzbmpMtU
----------------------------------------------------
+### Rooted in Community - https://discord.gg/f9nzbmpMtU
 
 From day one, the Zima product line has received support from the Kickstarter community. In terms of software, the development of CasaOS on GitHub and the exploration of ZimaOS could not have progressed without the participation and suggestions of a succession of outstanding engineers and enthusiasts from the community. We always adhere to listening, thinking, and taking action. The community's suggestions permeate every aspect of Zima's hardware and software products and operations. From major product line planning to the selection of logistics service providers, we continuously focus on the community's ideas for Zima's iteration and drive our updates and direction based on community feedback.
 
@@ -122,14 +118,13 @@ We sincerely invite you to join our community of thousands - https://discord.gg/
 
   
 
-How to Contribute - link
-========================
+### How to Contribute
 
-A continuously evolving hardware and software setup needs your input. Through this link, you can directly submit your desired hardware and software requirements, or provide suggestions for revisions to our documentation scope. We look forward to your suggestions. - link
+
+A continuously evolving hardware and software setup needs your input. Through this link, you can directly submit your desired hardware and software requirements, or provide suggestions for revisions to our documentation scope. We look forward to your suggestions.
 
   
 
-Explore!
---------
+### Explore!
 
 Let's begin our exploration of the Zima hardware and ZimaOS, covering initial usage, applications, secondary development, local LLM, and much more.
