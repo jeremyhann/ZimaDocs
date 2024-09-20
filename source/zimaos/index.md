@@ -39,10 +39,10 @@ The ZimaCube Pro features an i5-level processor, 10-core processing capabilities
 Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requiring minimal technical knowledge. Set up your multimedia management center, local AI, or Agent applications in one step.
   
 ### ZimaOS
+(Based on CasaOS)
 
-|  (Based on CasaOS)
-| <center>![](https://manage.icewhale.io/api/static/docs/1726730282538_copyImage.png) </center>| **ZimaOS** is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.<br><br><br><br>Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.|
-
+|<center>![](https://manage.icewhale.io/api/static/docs/1726730282538_copyImage.png) </center>| **ZimaOS** is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.<br><br><br><br>Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.|
+|:---------------------------------------: | :---------------------------------------|
 
 
   
