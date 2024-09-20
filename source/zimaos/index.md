@@ -27,7 +27,7 @@ With this assumption, we embarked on Zima's journey of building and exploration.
 
 ### ZimaCube - https://www.zimaspace.com/products/cube-personal-cloud
 
-| <center>![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) </center>| **ZimaCube** is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers, and becoming one of the Top 30 hardware projects on Kickstarter for 2023.<br><br><br><br>The NAS industry, decades old, has established players with stable footings in storage technology and market share. As a young company, we aim to bring fresh perspectives and value to this sector.|
+|![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) | **ZimaCube** is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers, and becoming one of the Top 30 hardware projects on Kickstarter for 2023.<br><br><br><br>The NAS industry, decades old, has established players with stable footings in storage technology and market share. As a young company, we aim to bring fresh perspectives and value to this sector.|
 |:----|:----|
 
 
@@ -41,8 +41,8 @@ Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requirin
 ### ZimaOS
 (Based on CasaOS)
 
-|<center>![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) </center>| **ZimaOS** is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.<br><br><br><br>Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.|
-|:----|:----|
+|![](https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png) | **ZimaOS** is a full personal cloud OS developed by the team based on CasaOS. It is a complete operating system with system-level support for remote access, RAID configuration, and essential features like OTA updates. It is designed specifically for ZimaCube, focusing on stability, unified data management, and local LLM capabilities.<br><br><br><br>Unlike traditional NAS devices that often feature complex setups, ZimaOS offers a sleek and elegant design philosophy, tailored for home and SOHO environments. It inherits from the CasaOS community, which over the past few years has grown to include over 20,000 Discord community users who participate in the governance and iteration of the app store. The store features hundreds of third-party applications, covering media servers, music servers, downloaders, web scrapers, web servers, git servers, smart home technologies, and more. Recently, it has increasingly supported applications like ChatGPT UI, Diffusion, and other text-to-image and local chat AI capabilities.|
+|:--------:|:----|
 
 
   
