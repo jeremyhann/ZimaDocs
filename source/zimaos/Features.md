@@ -39,6 +39,35 @@ ZimaCube’s Remote feature is not just about accessing data; it’s about simpl
 
 For further details on the ZimaCube Remote feature and our other offerings, please visit our website or reach out to our customer service team. We’re excited to help you take control of your data! 
 # Shared Storage
+
+In this section, we will explore the various storage categories, sharing options, and permission settings available in ZimaOS.
+### Storage Classification
+ZimaOS divides storage into three main types:
+### USB
+You can enable a single disk in ZimaOS for normal use, making it easy to access your data.
+### Single Disk
+Disks can be enabled individually in ZimaOS for normal use.
+### Raid
+Enabling RAID in ZimaOS allows for safer use of disks, providing redundancy and enhanced data protection.
+![](https://manage.icewhale.io/api/static/docs/1727085879635_image.png)
+## Sharing Storage
+ZimaOS shares single disk and RAID storage by default. Although it is not possible to unshare these storages, you can modify the sharing settings as needed. USB devices are not automatically shared. To share a USB drive, navigate to the root directory, select the appropriate USB device and share it.
+![](https://manage.icewhale.io/api/static/docs/1727085956483_image.png)
+## Permission Settings
+ZimaOS supports SMB multi-user configuration, allowing you to set the read and write permissions of users. You can easily manage permissions, add or delete users through the admin panel.
+![](https://manage.icewhale.io/api/static/docs/1727085985786_image.png)
+![](https://manage.icewhale.io/api/static/docs/1727085991929_image.png)
+## Connection Sharing
+After successfully sharing the storage, you will receive a prompt with the connection details.
+![](https://manage.icewhale.io/api/static/docs/1727086027486_image.png)
+### Steps to connect:
+1. **On Mac or Windows**: Connect using the address provided in the prompt.
+2. **Enter the address**: Enter the copied address in the file browser and press Enter.
+![](https://manage.icewhale.io/api/static/docs/1727086114235_image.png)
+Once connected, you will see the connected server in the network
+![](https://manage.icewhale.io/api/static/docs/1727086136328_image.png)
+This smooth storage management approach enables ZimaOS to ensure convenient, secure and flexible data access.
+
 # Virtual Machine
 # App Store
 
