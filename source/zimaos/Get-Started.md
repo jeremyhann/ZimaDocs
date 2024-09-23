@@ -70,3 +70,24 @@ There are many scenarios and uses to explore, waiting for you to unlock. We will
 ![](https://manage.icewhale.io/api/static/docs/1727081765695_image.png)
 
 # Onboarding
+## Find ZimaOS
+### Zima-Client
+https://find.zimaspace.com/ and install ZimaClient. It will automatically scan for available devices.
+### Quick Search
+If you prefer to use the web interface, you can visit the website. Please make sure your device is connected to the same network as ZimaCube. Scan on the web page, and after the scan is completed, you will see a list of available ZimaCube devices. Just click on the corresponding device to connect to ZimaOS.
+![](https://manage.icewhale.io/api/static/docs/1727082045246_image.png)
+## Initialize ZimaOS
+After successfully connecting to ZimaCube, enter the corresponding IP address to enter the ZimaOS initialization interface, where you can start configuring your ZimaCube.
+### Select language
+Currently ZimaOS supports 6 languages ​​including English, Chinese, Japanese, Italian, and Norwegian. Choose the language you are most familiar with to ensure the best user experience.
+![](https://manage.icewhale.io/api/static/docs/1727082127778_image.png)
+### Create User
+Next, you will need to create a user account. This account will be the primary way you manage ZimaOS. Please set a secure username and password to protect your data and settings.
+![](https://manage.icewhale.io/api/static/docs/1727082165610_image.png)
+### Initialization successful
+After initialization, ZimaOS will provide you with a brief introduction to the functions and usage guide. This will help you understand the main features and usage of ZimaOS. You can learn about: 
+- File management system
+- App store and installable applications
+- Device management and network settings
+- Multiple Raid types to choose from
+![](https://manage.icewhale.io/api/static/docs/1727082245929_image.png)
