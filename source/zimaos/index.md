@@ -25,7 +25,8 @@ With this assumption, we embarked on Zima's journey of building and exploration.
 
 # Product Overview
 
-### ZimaCube - https://www.zimaspace.com/products/cube-personal-cloud
+### ZimaCube 
+<u>https://www.zimaspace.com/products/cube-personal-cloud</u>
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
@@ -61,7 +62,8 @@ Pre-installed with ZimaOS, the ZimaCube is ready to use out of the box, requirin
 
 
   
-### ZimaBoard - https://www.zimaspace.com/products/single-board-server
+### ZimaBoard 
+<u>https://www.zimaspace.com/products/single-board-server</u>
 
 <table style="width:100%; table-layout: fixed;">
   <tr>
@@ -79,7 +81,8 @@ This server is a micro x86 system priced within the hundred-dollar range, featur
 
 
   
-### ZimaBlade - https://www.zimaspace.com/products/blade-personal-nas
+### ZimaBlade
+<u>https://www.zimaspace.com/products/blade-personal-nas</u>
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
@@ -108,7 +111,8 @@ This will bring about a personalized Agent for everyone, fostering democratized 
 
   
 
-### Rooted in Community - https://discord.gg/f9nzbmpMtU
+### Rooted in Community
+<u>https://discord.gg/f9nzbmpMtU</u>
 
 From day one, the Zima product line has received support from the Kickstarter community. In terms of software, the development of CasaOS on GitHub and the exploration of ZimaOS could not have progressed without the participation and suggestions of a succession of outstanding engineers and enthusiasts from the community. We always adhere to listening, thinking, and taking action. The community's suggestions permeate every aspect of Zima's hardware and software products and operations. From major product line planning to the selection of logistics service providers, we continuously focus on the community's ideas for Zima's iteration and drive our updates and direction based on community feedback.
 
