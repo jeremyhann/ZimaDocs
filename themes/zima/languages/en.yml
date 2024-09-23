@@ -76,6 +76,7 @@ sidebar:
     sync-photos-with-immich: Sync Photos with Immich
     media-server-setup-with-jellyfin: Media Server Setup with Jellyfin
     nvr-camera-server: NVR Camera Server
+    thunderbolt-pc-direct: Thunderbolt PC Direct
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
