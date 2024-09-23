@@ -34,6 +34,7 @@ zimaos:
     sync-photos-with-immich: Sync-Photos-with-Immich.html
     media-server-setup-with-jellyfin: Media-Server-Setup-with-Jellyfin.html
     nvr-camera-server: NVR-Camera-Server.html
+    thunderbolt-pc-direct: Thunderbolt-PC-Direct.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
