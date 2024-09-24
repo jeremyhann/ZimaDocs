@@ -38,6 +38,7 @@ zimaos:
     link-synology-and-smb-shares: Link-Synology-and-SMB-Shares.html
     sync-photos-via-configurable-cli: Sync-Photos-via-Configurable-CLI.html
     connect-with-cloud-drives: Connect-with-Cloud-Drives.html
+    build-multiple-clones-using-rsync: Build-Multiple-Clones-using-rsync.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
