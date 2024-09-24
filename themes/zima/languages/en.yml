@@ -67,6 +67,7 @@ sidebar:
     tutorials: Tutorials
     openapi: OpenAPI
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
+    how-to-install-zimaos: How to install ZimaOS
     release-note: v 1.2.3
     v-1.2.2: v 1.2.2
     install_offline: Update offline
@@ -80,7 +81,7 @@ sidebar:
     connect-with-cloud-drives: Connect with Cloud Drives
     data-migration: Data Migration
     more-raid-options: More RAID Options
-    how-to-install-zimaos: SSH
+    networking: Networking
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
