@@ -1,18 +1,18 @@
 <!DOCTYPE html>
-<html lang="cn">
+<html lang="en">
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>Universal Third-party System Installation | ZimaSpace Docs</title>
+  <title>Link Synology and SMB Shares | ZimaSpace Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Canonical links -->
-  <link rel="canonical" href="https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial.html">
+  <link rel="canonical" href="https://docs-test.zimaspace.com/zimaos/Link-Synology-and-SMB-Shares.html">
   <!-- Alternative links -->
   
     
-  <link rel="alternative" hreflang="en" href="https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial">
+  <link rel="alternative" hreflang="en" href="https://docs-test.zimaspace.com/zimaos/Link-Synology-and-SMB-Shares">
     
-  <link rel="alternative" hreflang="cn" href="https://docs-test.zimaspace.com/cn/cn/docs/Universal-third-party-system-installation-tutorial">
+  <link rel="alternative" hreflang="cn" href="https://docs-test.zimaspace.com/cn/zimaos/Link-Synology-and-SMB-Shares">
     
   
   <!-- FAVICONS ICON -->
@@ -38,26 +38,30 @@
   
   <!-- Open Graph -->
   
-  <meta name="description" content="ReasonMany users do not know how to install the system after we have downloaded it. Do not know the clear installation steps, etc. This article will help users to solve the problem of inst">
+  <meta name="description" content="How to Share and Get files from a NAS?SAMBA may be the most important wayWhen we talk about Network Attached Storage, we want our files be stored, managed in one place and be accessed from">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Universal Third-party System Installation">
-<meta property="og:url" content="https://docs-test.zimaspace.com/cn/docs/Universal-third-party-system-installation-tutorial">
+<meta property="og:title" content="Link Synology and SMB Shares">
+<meta property="og:url" content="https://docs-test.zimaspace.com/zimaos/Link-Synology-and-SMB-Shares">
 <meta property="og:site_name" content="ZimaSpace Docs">
-<meta property="og:description" content="ReasonMany users do not know how to install the system after we have downloaded it. Do not know the clear installation steps, etc. This article will help users to solve the problem of inst">
-<meta property="og:locale">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-open-balenaetcher.jpg">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/intall-ubuntu-system-choose-image-in-balenaetcher.png">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-choose-image-in-balenaetcher1.png">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-choose-usb-disk.png">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-enter-password.png">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-makeing-image.png">
-<meta property="og:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-image-complete.png">
-<meta property="og:image" content="https://discordapp.com/api/guilds/884667213326463016/widget.png?style=banner2">
-<meta property="article:published_time" content="2024-09-24T03:59:54.681Z">
-<meta property="article:modified_time" content="2024-09-24T03:59:54.681Z">
+<meta property="og:description" content="How to Share and Get files from a NAS?SAMBA may be the most important wayWhen we talk about Network Attached Storage, we want our files be stored, managed in one place and be accessed from">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149654477_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149678738_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149714447_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149728058_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149849839_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149936501_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149952959_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727149972815_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727150063996_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727150080211_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727150117572_image.png">
+<meta property="og:image" content="https://manage.icewhale.io/api/static/docs/1727150133237_image.png">
+<meta property="article:published_time" content="2024-09-24T03:59:55.306Z">
+<meta property="article:modified_time" content="2024-09-24T03:59:55.306Z">
 <meta property="article:author" content="ZimaBoard">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://docs-test.zimaspace.com/images/Installing-Ubuntu-System/install-ubuntu-system-open-balenaetcher.jpg">
+<meta name="twitter:image" content="https://manage.icewhale.io/api/static/docs/1727149654477_image.png">
 <meta name="twitter:site" content="zimaboard">
 <meta property="fb:admins" content="298662541343433">
   
@@ -93,7 +97,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <nav id="main-nav" class="maxmenu white-style brackets-style nav-animation fade-down-animation" >
           <ul id="menu-main-menu" class="maxmenu-list">
 
-            <li class="menu-item "><a href="/cn/zimaos/" class="main-nav-link ">ZimaOS</a></li><li class="menu-item "><a href="/cn/zimacube/" class="main-nav-link ">ZimaCube</a></li><li class="menu-item "><a href="/cn/zimaboard/" class="main-nav-link ">ZimaBoard</a></li><li class="menu-item "><a href="cnhttps://community.zimaspace.com/" rel="external nofollow noreferrer" class="main-nav-link ">Forum</a></li>
+            <li class="menu-item current_page_item"><a href="/zimaos/" class="main-nav-link ">ZimaOS</a></li><li class="menu-item "><a href="/zimacube/" class="main-nav-link ">ZimaCube</a></li><li class="menu-item "><a href="/zimaboard/" class="main-nav-link ">ZimaBoard</a></li><li class="menu-item "><a target="_blank" rel="noopener external nofollow noreferrer" href="https://community.zimaspace.com/" class="main-nav-link ">Forum</a></li>
             <li class="menu-item menu-item-has-children" style="display:none">
               <span class="maxmenu-click">
                 <i class="maxmenu-arrow"></i>
@@ -104,11 +108,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <ul class="sub-menu">
                 
                   <li class="menu-item">
-                    <a href="/docs/Universal-third-party-system-installation-tutorial.html">English</a>
+                    <a href="/zimaos/Link-Synology-and-SMB-Shares.html">English</a>
                   </li>
                 
                   <li class="menu-item">
-                    <a href="/cn/docs/Universal-third-party-system-installation-tutorial.html">中文</a>
+                    <a href="/cn/zimaos/Link-Synology-and-SMB-Shares.html">中文</a>
                   </li>
                 
               </ul>
@@ -158,10 +162,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="article">
             <div class="inner">
               <header class="article-header">
-                <h1 class="article-title" itemprop="name">Universal Third-party System Installation</h1>
+                <h1 class="article-title" itemprop="name">Link Synology and SMB Shares</h1>
                 
 
-                <a id="feedback-link" class="article-edit-link" target="_blank" href="" title="改进本文" class="sidebar-feed-link">
+                <a id="feedback-link" class="article-edit-link" target="_blank" href="" title="Improve this doc" class="sidebar-feed-link">
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16">
                     <path d="M12.698 4.9349C12.95 4.6829 13.0886 4.34823 13.0886 3.99223C13.0886 3.63623 12.95 3.30156 12.698 3.04956L11.6406 1.99223C11.3886 1.74023 11.054 1.60156 10.698 1.60156C10.342 1.60156 10.0073 1.74023 9.75597 1.99156L2.66797 9.05756V12.0009H5.60997L12.698 4.9349ZM10.698 2.9349L11.756 3.99156L10.696 5.04756L9.63864 3.9909L10.698 2.9349ZM4.0013 10.6676V9.6109L8.69464 4.93223L9.75197 5.98956L5.0593 10.6676H4.0013ZM2.66797 13.3342H13.3346V14.6676H2.66797V13.3342Z"/>
                   </svg>
@@ -169,54 +173,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 
               </header>
               <div class="article-content" itemprop="articleBody">
-                <h2 id="Reason" class="article-heading"><a href="#Reason" class="headerlink" title="Reason"></a>Reason<a class="article-anchor" href="#Reason" aria-hidden="true"></a></h2><p><strong>Many users do not know how to install the system after we have downloaded it. Do not know the clear installation steps, etc. This article will help users to solve the problem of installing the system</strong></p>
-<h2 id="Universal-Production-Mirror" class="article-heading"><a href="#Universal-Production-Mirror" class="headerlink" title="Universal Production Mirror"></a>Universal Production Mirror<a class="article-anchor" href="#Universal-Production-Mirror" aria-hidden="true"></a></h2><p><strong>What you need to do on your computer to prepare.</strong></p>
-<ul>
-<li>Download and install <a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.balena.io/etcher/">balenaEtcher</a> on your computer</li>
-<li>Download the system image you wish to install, in the text <a target="_blank" rel="noopener external nofollow noreferrer" href="https://ubuntu.com/download/server">Ubuntu Server</a></li>
-</ul>
-<p><strong>ZimaBoard related preparation.</strong></p>
-<ul>
-<li>ZimaBoard and power adapter</li>
-<li>A USB drive (The capacity needs to be larger than the system image you want to install)</li>
-<li>A miniDP to DP&#x2F;HDMI Adapter (Used to connect to a monitor)</li>
-<li>A monitor</li>
-<li>A keyboard</li>
-<li>A USB hub (Optional, if the USB port is not enough)</li>
-<li>A mouse (Optional)<ul>
-<li>It will be convenient if the system installer you want to install comes with a GUI interactive interface. Most desktop OS will have one, server OS generally do not.)</li>
-</ul>
-</li>
-<li>A network cable (Recommended)<ul>
-<li>Convenient for you to complete the network setup and install the latest security and feature updates at the same time as installing the system.)</li>
-</ul>
-</li>
-</ul>
-<h1 id="Create-an-installation-USB-stick" class="article-heading"><a href="#Create-an-installation-USB-stick" class="headerlink" title="Create an installation USB stick"></a>Create an installation USB stick<a class="article-anchor" href="#Create-an-installation-USB-stick" aria-hidden="true"></a></h1><h2 id="1-Open-balenaEtcher" class="article-heading"><a href="#1-Open-balenaEtcher" class="headerlink" title="1.Open balenaEtcher"></a>1.Open balenaEtcher<a class="article-anchor" href="#1-Open-balenaEtcher" aria-hidden="true"></a></h2><p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-open-balenaetcher.jpg" alt="Open Balenaetcher"></p>
-<h2 id="2-Click-“Flash-from-file”-and-select-the-system-image-you-downloaded-earlier" class="article-heading"><a href="#2-Click-“Flash-from-file”-and-select-the-system-image-you-downloaded-earlier" class="headerlink" title="2. Click “Flash from file” and select the system image you downloaded earlier."></a>2. Click “Flash from file” and select the system image you downloaded earlier.<a class="article-anchor" href="#2-Click-“Flash-from-file”-and-select-the-system-image-you-downloaded-earlier" aria-hidden="true"></a></h2><p><img src="/images/Installing-Ubuntu-System/intall-ubuntu-system-choose-image-in-balenaetcher.png" alt="Using Balenaetcher Write Image In Usb"></p>
-<p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-choose-image-in-balenaetcher1.png" alt="Using Balenaetcher Write Image In Usb"></p>
-<h2 id="3-Click-“Select-target”-and-select-your-inserted-USB-drive-in-the-dialog-box" class="article-heading"><a href="#3-Click-“Select-target”-and-select-your-inserted-USB-drive-in-the-dialog-box" class="headerlink" title="3.Click “Select target” and select your inserted USB drive in the dialog box."></a>3.Click “Select target” and select your inserted USB drive in the dialog box.<a class="article-anchor" href="#3-Click-“Select-target”-and-select-your-inserted-USB-drive-in-the-dialog-box" aria-hidden="true"></a></h2><p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-choose-usb-disk.png" alt="Using Balenaetcher Write Image In Usb"></p>
-<h2 id="4-Click-“Flash-”-and-wait-for-it-to-complete" class="article-heading"><a href="#4-Click-“Flash-”-and-wait-for-it-to-complete" class="headerlink" title="4.Click “Flash!” and wait for it to complete."></a>4.Click “Flash!” and wait for it to complete.<a class="article-anchor" href="#4-Click-“Flash-”-and-wait-for-it-to-complete" aria-hidden="true"></a></h2><p>You may be asked to enter your system password during the process, just enter it and click OK.</p>
-<p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-enter-password.png" alt="Enter you Computer Account And Password"></p>
-<p>The whole process will take a few minutes, depending on the size of your system image and the read&#x2F;write speed of your USB drive.</p>
-<p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-makeing-image.png" alt="Waitting Balenaetcher Flash"></p>
-<h2 id="5-Completion-Remove-the-USB-drive-and-you’re-ready-to-go" class="article-heading"><a href="#5-Completion-Remove-the-USB-drive-and-you’re-ready-to-go" class="headerlink" title="5.Completion! Remove the USB drive, and you’re ready to go!"></a>5.Completion! Remove the USB drive, and you’re ready to go!<a class="article-anchor" href="#5-Completion-Remove-the-USB-drive-and-you’re-ready-to-go" aria-hidden="true"></a></h2><p><img src="/images/Installing-Ubuntu-System/install-ubuntu-system-image-complete.png" alt="Complete Create Usb Boot"></p>
-<h2 id="Universal-Start-up-System" class="article-heading"><a href="#Universal-Start-up-System" class="headerlink" title="Universal Start-up System"></a>Universal Start-up System<a class="article-anchor" href="#Universal-Start-up-System" aria-hidden="true"></a></h2><p>After the ZimaBoard is plugged in, press the <strong><code>F11 key</code></strong> &#x2F; <strong><code>Delete key</code></strong> uninterrupted . When we insert the U disk boot disk, it will automatically display the USB key, select the USB key and press the Enter key</p>
-<p><a target="_blank" rel="noopener external nofollow noreferrer" href="https://discord.gg/knqAbbBbeX"><img src="https://discordapp.com/api/guilds/884667213326463016/widget.png?style=banner2" alt="Discord Card"></a></p>
+                <h1 id="How-to-Share-and-Get-files-from-a-NAS-SAMBA-may-be-the-most-important-way" class="article-heading"><a href="#How-to-Share-and-Get-files-from-a-NAS-SAMBA-may-be-the-most-important-way" class="headerlink" title="How to Share and Get files from a NAS?SAMBA may be the most important way"></a>How to Share and Get files from a NAS?SAMBA may be the most important way<a class="article-anchor" href="#How-to-Share-and-Get-files-from-a-NAS-SAMBA-may-be-the-most-important-way" aria-hidden="true"></a></h1><p>When we talk about Network Attached Storage, we want our files be stored, managed in one place and be accessed from every place. But how is that going?<br><img src="https://manage.icewhale.io/api/static/docs/1727149654477_image.png"><br>You can always access your data by visiting ZimaOS’ WebUI, which has a beautifully organized interface and a fluent experience. However, when your work involves files referring, or you need a more complex operation on file system hierarchy, mounting your NAS drives to your client system through technologys like SMB&#x2F;SAMBA will be a better way.<br><img src="https://manage.icewhale.io/api/static/docs/1727149678738_image.png"><br>SMB (Server Message Block) is a protocol built into the Windows system for sharing files and other services over the network. SAMBA implements the SMB protocol, which enriches the file sharing methods of *nix-like systems. ZimaOS is equipped with SAMBA, making file sharing and transfer very convenient. In the following content, we will describe both SMB and SAMBA as SMB for convenience purposes.</p>
+<h2 id="Create-a-shared-folder-on-ZimaOS" class="article-heading"><a href="#Create-a-shared-folder-on-ZimaOS" class="headerlink" title="Create a shared folder on ZimaOS"></a>Create a shared folder on ZimaOS<a class="article-anchor" href="#Create-a-shared-folder-on-ZimaOS" aria-hidden="true"></a></h2><p>Launch the Files app on ZimaOS’ dashboard and find the destination folder that carries the files you want to share. Right click on the folder and select Share.<br><img src="https://manage.icewhale.io/api/static/docs/1727149714447_image.png"><br>A dialogue window will prompt you with the URLs you need to mount shared folder on corresponding systems.<br><img src="https://manage.icewhale.io/api/static/docs/1727149728058_image.png"><br>These two URLs are for pro users to manually mount drives. Additionally, with <a target="_blank" rel="noopener external nofollow noreferrer" href="https://findzima.com/">Zima client</a> on corresponding systems, we can make the mounting process easier.<br><img src="https://manage.icewhale.io/api/static/docs/1727149849839_image.png"></p>
+<h2 id="Mount-your-SMB-shared-folder-on-Windows" class="article-heading"><a href="#Mount-your-SMB-shared-folder-on-Windows" class="headerlink" title="Mount your SMB shared folder on Windows"></a>Mount your SMB shared folder on Windows<a class="article-anchor" href="#Mount-your-SMB-shared-folder-on-Windows" aria-hidden="true"></a></h2><p>Download Zima-latest setup.exe from <a target="_blank" rel="noopener external nofollow noreferrer" href="https://findzima.com/">findzima</a> and open it. It will boot the installation process and Zima client will be launched automatically after installation. You will find the Zima icon to the right of your taskbar, which is shown as a question mark due to the state of being unconnected.<br>Right click the icon and select Scan and Connect to Zima.<br><img src="https://manage.icewhale.io/api/static/docs/1727149936501_image.png"><br>Locate your Zima device and click Connect.<br><img src="https://manage.icewhale.io/api/static/docs/1727149952959_image.png"><br>Zima.exe will prompt you to enter your WebUI’s username and password to log in. After that, your zima.exe icon will turn from a question mark into a ZIMA mark, which means your zima.exe has entered a logged in status.<br><img src="https://manage.icewhale.io/api/static/docs/1727149972815_image.png"><br>Right click on the zima icon and select Open in File Explorer, which will mount your shared folder to your Windows system and open it up automatically!</p>
+<blockquote>
+<p>Note: to work properly, your Windows and ZimaOS need be in the same local area network(LAN).</p>
+</blockquote>
+<h2 id="Mount-your-SMB-shared-folder-on-macOS" class="article-heading"><a href="#Mount-your-SMB-shared-folder-on-macOS" class="headerlink" title="Mount your SMB shared folder on macOS"></a>Mount your SMB shared folder on macOS<a class="article-anchor" href="#Mount-your-SMB-shared-folder-on-macOS" aria-hidden="true"></a></h2><p>Like above, we have also prepared a zima app for Mac users on <a target="_blank" rel="noopener external nofollow noreferrer" href="https://findzima.com/">findzima</a> . The usage of the Mac zima app is pretty the same as the Windows one. Just refer to the content above.</p>
+<p>Do you recall what Files app prompts you when you finish creating a shared folder? On macOS, we will use the URLs you just get for manually mounting!<br><img src="https://manage.icewhale.io/api/static/docs/1727150063996_image.png"><br>Open Finder on your mac and press CMD+K, then copy paste the corresponding URL to the input box.<br><img src="https://manage.icewhale.io/api/static/docs/1727150080211_image.png"><br>Click Connect. For now, on the prompt dialogue, choose Guest and click Connect.</p>
+<blockquote>
+<p>For ZimaOS v1.2.3 users, choose Registered User and input the correct username and password.<br><img src="https://manage.icewhale.io/api/static/docs/1727150117572_image.png"><br>Now, you will get your shared folder opened up and it will be listed on the left column of the Finder app.<br><img src="https://manage.icewhale.io/api/static/docs/1727150133237_image.png"><br>How about the URL for Windows Explorer? What is the differences between zima automating mounting and mannually mounting the drive via URL?</p>
+</blockquote>
+<p>Currently our SMB sharing uses the Guest account. In future versions, we will introduce multiple users to the sharing function and strengthen permission management. We hope these can meet more diverse needs of everyone.</p>
+<h2 id="Not-just-LAN" class="article-heading"><a href="#Not-just-LAN" class="headerlink" title="Not just LAN"></a>Not just LAN<a class="article-anchor" href="#Not-just-LAN" aria-hidden="true"></a></h2><p>In fact, not only on LAN, but also on direct network and WAN, you can easily connect your Zima device and map the shared directory as a network drive. We will release relevant tutorials. Thank you for your continued attention.</p>
+<p>If you encounter any issues during use, feel free to let us know at any time. You can also join our <a target="_blank" rel="noopener external nofollow noreferrer" href="https://community.zimaspace.com/">community</a> and <a target="_blank" rel="noopener external nofollow noreferrer" href="https://discord.com/invite/uuNfKzG5">Discord</a> to discuss more about NAS and ZimaOS. We look forward to your feedback!</p>
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2024-09-24T03:59:54.681Z" itemprop="dateModified">上次更新：2024-09-24</time>
-                <a href="index.html" class="article-footer-next" title="启动服务器"><span>下一页</span><i class="fa fa-chevron-right"></i></a>
+                <time class="article-footer-updated" datetime="2024-09-24T03:59:55.306Z" itemprop="dateModified">Last updated: 2024-09-24</time>
+                <a href="Thunderbolt-PC-Direct.html" class="article-footer-prev" title="Thunderbolt PC Direct"><i class="fa fa-chevron-left"></i><span>Prev</span></a><a href="How-to-install-ZimaOS.html" class="article-footer-next" title="How to install ZimaOS"><span>Next</span><i class="fa fa-chevron-right"></i></a>
               </footer>
 
             </div>
           </div>
           <aside id="article-toc" role="navigation">
             <div id="article-toc-inner">
-              <strong class="sidebar-title">目录</strong>
-              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Reason"><span class="toc-text">Reason</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Universal-Production-Mirror"><span class="toc-text">Universal Production Mirror</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#Create-an-installation-USB-stick"><span class="toc-text">Create an installation USB stick</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#1-Open-balenaEtcher"><span class="toc-text">1.Open balenaEtcher</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-Click-%E2%80%9CFlash-from-file%E2%80%9D-and-select-the-system-image-you-downloaded-earlier"><span class="toc-text">2. Click “Flash from file” and select the system image you downloaded earlier.</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-Click-%E2%80%9CSelect-target%E2%80%9D-and-select-your-inserted-USB-drive-in-the-dialog-box"><span class="toc-text">3.Click “Select target” and select your inserted USB drive in the dialog box.</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#4-Click-%E2%80%9CFlash-%E2%80%9D-and-wait-for-it-to-complete"><span class="toc-text">4.Click “Flash!” and wait for it to complete.</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#5-Completion-Remove-the-USB-drive-and-you%E2%80%99re-ready-to-go"><span class="toc-text">5.Completion! Remove the USB drive, and you’re ready to go!</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Universal-Start-up-System"><span class="toc-text">Universal Start-up System</span></a></li></ol>
-              <a href="#" id="article-toc-top">回到顶部</a>
+              <strong class="sidebar-title">Contents</strong>
+              <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#How-to-Share-and-Get-files-from-a-NAS-SAMBA-may-be-the-most-important-way"><span class="toc-text">How to Share and Get files from a NAS?SAMBA may be the most important way</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#Create-a-shared-folder-on-ZimaOS"><span class="toc-text">Create a shared folder on ZimaOS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Mount-your-SMB-shared-folder-on-Windows"><span class="toc-text">Mount your SMB shared folder on Windows</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Mount-your-SMB-shared-folder-on-macOS"><span class="toc-text">Mount your SMB shared folder on macOS</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Not-just-LAN"><span class="toc-text">Not just LAN</span></a></li></ol></li></ol>
+              <a href="#" id="article-toc-top">Back to Top</a>
             </div>
             <div class="article-feedback">
               
@@ -226,46 +210,59 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </article>
       <aside id="sidebar" role="navigation">
   <div class="inner">
+    
+    <h4 class="category-list-link sidebar-title " style="border:none"> 
+      <a href="/zimaos">What's Zima</a>
+    </h4>
     <ul class="category-list">
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Getting Started</span>
+        <span>Overview</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      <li class="sidebar-link "><a href="index.html">启动服务器</a></li>
+      <li class="sidebar-link "><a href="Get-Started.html">Get Started</a></li><li class="sidebar-link "><a href="Features.html">Features</a></li>
+      </ul>
+    </li>
+    <li class="show-children">
+      <h4 class="category-list-link sidebar-title"> 
+        <span>Explore</span>
+        <i class="fa fa-chevron-right"></i>
+      </h4>
+      <ul class="category-list-children">
+      <li class="sidebar-link "><a href="Install-offline.html">Update offline</a></li><li class="sidebar-link "><a href="Sync-Photos-with-Immich.html">Sync Photos with Immich</a></li><li class="sidebar-link "><a href="Media-Server-Setup-with-Jellyfin.html">Media Server Setup with Jellyfin</a></li><li class="sidebar-link "><a href="NVR-Camera-Server.html">NVR Camera Server</a></li><li class="sidebar-link "><a href="Thunderbolt-PC-Direct.html">Thunderbolt PC Direct</a></li><li class="sidebar-link  current"><a href="Link-Synology-and-SMB-Shares.html">Link Synology and SMB Shares</a></li>
       </ul>
     </li>
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Operating Systems</span>
+        <span>Dev</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      
+      <li class="sidebar-link "><a href="How-to-install-ZimaOS.html">How to install ZimaOS</a></li>
       </ul>
     </li>
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Entertainment Hub</span>
+        <span>Community Makes</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      
+      <li class="sidebar-link "><a href="How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html">How to enable Plex hardware transcoding on ZimaCube</a></li>
       </ul>
     </li>
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Hardware Expansion</span>
+        <span>Version Logs</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      <li class="sidebar-link "><a href="Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.html">Unraid First Experience At $129 Five drive Disks Nas</a></li>
+      <li class="sidebar-link "><a href="Release-Note.html">v 1.2.3</a></li><li class="sidebar-link "><a href="v-1.2.2.html">v 1.2.2</a></li>
       </ul>
     </li>
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Server Playground</span>
+        <span>API</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
@@ -504,49 +501,62 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="mobile-nav-inner">
     <ul id="mobile-nav-list">
       
-      <li class="menu-item "><a href="/cn/zimaos/" class="mobile-nav-link ">ZimaOS</a></li><li class="menu-item "><a href="/cn/zimacube/" class="mobile-nav-link ">ZimaCube</a></li><li class="menu-item "><a href="/cn/zimaboard/" class="mobile-nav-link ">ZimaBoard</a></li><li class="menu-item "><a href="cnhttps://community.zimaspace.com/" rel="external nofollow noreferrer" class="mobile-nav-link ">Forum</a></li>
+      <li class="menu-item current_page_item"><a href="/zimaos/" class="mobile-nav-link ">ZimaOS</a></li><li class="menu-item "><a href="/zimacube/" class="mobile-nav-link ">ZimaCube</a></li><li class="menu-item "><a href="/zimaboard/" class="mobile-nav-link ">ZimaBoard</a></li><li class="menu-item "><a target="_blank" rel="noopener external nofollow noreferrer" href="https://community.zimaspace.com/" class="mobile-nav-link ">Forum</a></li>
     </ul>
     
-      <ul class="category-list">
-    <li class="">
-      <h4 class="category-list-link sidebar-title"> 
-        <span>Getting Started</span>
-        <i class="fa fa-chevron-right"></i>
-      </h4>
-      <ul class="category-list-children">
-      <li class="sidebar-link "><a href="index.html">启动服务器</a></li>
-      </ul>
-    </li>
-    <li class="">
-      <h4 class="category-list-link sidebar-title"> 
-        <span>Operating Systems</span>
-        <i class="fa fa-chevron-right"></i>
-      </h4>
-      <ul class="category-list-children">
       
-      </ul>
-    </li>
+    <h4 class="category-list-link sidebar-title " style="border:none"> 
+      <a href="/zimaos">What's Zima</a>
+    </h4>
+    <ul class="category-list">
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Entertainment Hub</span>
+        <span>Overview</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      
+      <li class="sidebar-link "><a href="Get-Started.html">Get Started</a></li><li class="sidebar-link "><a href="Features.html">Features</a></li>
       </ul>
     </li>
-    <li class="">
+    <li class="show-children">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Hardware Expansion</span>
+        <span>Explore</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
-      <li class="sidebar-link "><a href="Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.html">Unraid First Experience At $129 Five drive Disks Nas</a></li>
+      <li class="sidebar-link "><a href="Install-offline.html">Update offline</a></li><li class="sidebar-link "><a href="Sync-Photos-with-Immich.html">Sync Photos with Immich</a></li><li class="sidebar-link "><a href="Media-Server-Setup-with-Jellyfin.html">Media Server Setup with Jellyfin</a></li><li class="sidebar-link "><a href="NVR-Camera-Server.html">NVR Camera Server</a></li><li class="sidebar-link "><a href="Thunderbolt-PC-Direct.html">Thunderbolt PC Direct</a></li><li class="sidebar-link  current"><a href="Link-Synology-and-SMB-Shares.html">Link Synology and SMB Shares</a></li>
       </ul>
     </li>
     <li class="">
       <h4 class="category-list-link sidebar-title"> 
-        <span>Server Playground</span>
+        <span>Dev</span>
+        <i class="fa fa-chevron-right"></i>
+      </h4>
+      <ul class="category-list-children">
+      <li class="sidebar-link "><a href="How-to-install-ZimaOS.html">How to install ZimaOS</a></li>
+      </ul>
+    </li>
+    <li class="">
+      <h4 class="category-list-link sidebar-title"> 
+        <span>Community Makes</span>
+        <i class="fa fa-chevron-right"></i>
+      </h4>
+      <ul class="category-list-children">
+      <li class="sidebar-link "><a href="How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html">How to enable Plex hardware transcoding on ZimaCube</a></li>
+      </ul>
+    </li>
+    <li class="">
+      <h4 class="category-list-link sidebar-title"> 
+        <span>Version Logs</span>
+        <i class="fa fa-chevron-right"></i>
+      </h4>
+      <ul class="category-list-children">
+      <li class="sidebar-link "><a href="Release-Note.html">v 1.2.3</a></li><li class="sidebar-link "><a href="v-1.2.2.html">v 1.2.2</a></li>
+      </ul>
+    </li>
+    <li class="">
+      <h4 class="category-list-link sidebar-title"> 
+        <span>API</span>
         <i class="fa fa-chevron-right"></i>
       </h4>
       <ul class="category-list-children">
@@ -558,12 +568,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="mobile-lang-select-wrap">
     <span id="mobile-lang-select-label" style="display:none">
       <i class="fa fa-globe"></i>
-      <span>中文</span></span>
-    <select id="mobile-lang-select" data-canonical="docs/Universal-third-party-system-installation-tutorial.html">
+      <span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="zimaos/Link-Synology-and-SMB-Shares.html">
       
-        <option value="en">English</option>
+        <option value="en" selected>English</option>
       
-        <option value="cn" selected>中文</option>
+        <option value="cn">中文</option>
       
     </select>
   </div>
