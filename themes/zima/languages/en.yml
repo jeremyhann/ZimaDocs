@@ -85,8 +85,8 @@ sidebar:
     build-apps: Build Apps
     7th-bay-led: 7th Bay LED
     setup-python: Setup Python
+    sync-photos-via-configurable-cli: Sync Photos via Configurable CLI
     zfs-setup: ZFS Setup
-    build-multiple-clones-using-rsync: Build Multiple Clones using rsync
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
