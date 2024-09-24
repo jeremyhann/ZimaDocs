@@ -1,10 +1,10 @@
 ---
-title: 文章标题
+title: ZFS on ZimaCube
 description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-## Establish storage pool
+# Establish storage pool
 Connect an external drive to ZimaCube. Use the lsblk tool to list all the drives. You can find the drive you just connected by controlling the variables.
 ![](https://manage.icewhale.io/api/static/docs/1727160959998_image.png)
 Here, my USB drive is shown as sda .
