@@ -36,6 +36,7 @@ zimaos:
     nvr-camera-server: NVR-Camera-Server.html
     thunderbolt-pc-direct: Thunderbolt-PC-Direct.html
     link-synology-and-smb-shares: Link-Synology-and-SMB-Shares.html
+    sync-photos-via-configurable-cli: Sync-Photos-via-Configurable-CLI.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
