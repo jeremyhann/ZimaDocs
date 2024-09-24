@@ -12,10 +12,10 @@ zimacube:
     ram-interface-instructions: RAM-Interface-Instructions.html
     pcie-interface-instructions: PCIe-Interface-Instructions.html
     fan-interface-instructions: Fan-Interface-Instructions.html
+    how-to-install-zimaos: How-to-Install-ZimaOS.html
   community_makes:
     tutorials: Tutorials.html
     how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
-    how-to-install-zimaos: How-to-Install-ZimaOS.html
     from-synology-to-zimacube，migrate-all-files!: From-Synology-to-ZimaCube，migrate-all-files!.html
     how-to-open-ssh-in-zimaos: How-to-Open-SSH-in-ZimaOS.html
     how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
