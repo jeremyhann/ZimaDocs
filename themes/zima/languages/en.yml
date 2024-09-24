@@ -77,6 +77,7 @@ sidebar:
     media-server-setup-with-jellyfin: Media Server Setup with Jellyfin
     nvr-camera-server: NVR Camera Server
     thunderbolt-pc-direct: Thunderbolt PC Direct
+    link-synology-and-smb-shares: Link Synology and SMB Shares
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
