@@ -78,7 +78,7 @@ sidebar:
     nvr-camera-server: NVR Camera Server
     thunderbolt-pc-direct: Thunderbolt PC Direct
     link-synology-and-smb-shares: Link Synology and SMB Shares
-    sync-photos-via-configurable-cli: Sync Photos via Configurable CLI
+    connect-with-cloud-drives: Connect with Cloud Drives
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
