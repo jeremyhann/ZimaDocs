@@ -83,6 +83,7 @@ sidebar:
     more-raid-options: More RAID Options
     networking: Networking
     build-apps: Build Apps
+    7th-bay-led: 7th Bay LED
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
