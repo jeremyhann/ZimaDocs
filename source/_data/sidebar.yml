@@ -35,6 +35,7 @@ zimaos:
     media-server-setup-with-jellyfin: Media-Server-Setup-with-Jellyfin.html
     nvr-camera-server: NVR-Camera-Server.html
     thunderbolt-pc-direct: Thunderbolt-PC-Direct.html
+    link-synology-and-smb-shares: Link-Synology-and-SMB-Shares.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
