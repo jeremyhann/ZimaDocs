@@ -38,7 +38,6 @@ sidebar:
     pcie-interface-instructions: PCIe Interface Instructions
     tutorials: Power-On Auto Start Solution For ZimaCube
     how-to-install-and-remove-the-7th-bay: How to Install and Remove the 7th Bay
-    how-to-install-zimaos: How to Install ZimaOS
     from-synology-to-zimacube，migrate-all-files!: From Synology to ZimaCube，migrate all files!
     creating-raid-troubleshooting-guide: Creating RAID Troubleshooting Guide
     troubleshooting: ZimaCube Resets CMOS
@@ -51,6 +50,7 @@ sidebar:
     quick-start: Power On
     power-on: Hardware Brief
     hardware-details: Hardware Details
+    how-to-install-zimaos: How to Install ZimaOS
   zimaos:
     placeholder: Placeholder
     portal: Home
