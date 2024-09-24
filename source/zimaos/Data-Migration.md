@@ -18,14 +18,20 @@ You can migrate three types of folders:
   * Media
   * Backup
 # How to Use
-### 1. Open Settings and navigate to the **Data Migration** page![](https://manage.icewhale.io/api/static/docs/1727178430378_image.png)
+### 1. Go to Settings > Data Migration.
+Open Settings and navigate to the **Data Migration** page![](https://manage.icewhale.io/api/static/docs/1727178430378_image.png)
 
-### 2. Select the item you wish to migrate and click the **Modify Location** button on the right![](https://manage.icewhale.io/api/static/docs/1727178444256_image.png)
+### 2. Select and click Modify Location.
+Select the item you wish to migrate and click the **Modify Location** button on the right![](https://manage.icewhale.io/api/static/docs/1727178444256_image.png)
 
-### 3. Choose the new storage space and click the **Next** button![](https://manage.icewhale.io/api/static/docs/1727178450237_image.png)
+### 3. Choose new space and click Next
+Choose the new storage space and click the **Next** button![](https://manage.icewhale.io/api/static/docs/1727178450237_image.png)
 
-### 4. Check the box for "I acknowledge and confirm this action," then click the **Start Migration** button![](https://manage.icewhale.io/api/static/docs/1727178455511_image.png)
+### 4. Click Start Migration
+Check the box for "I acknowledge and confirm this action," then click the **Start Migration** button![](https://manage.icewhale.io/api/static/docs/1727178455511_image.png)
 
-### 5. During migration, the progress will be displayed in full screen, and no other operations can be performed![](https://manage.icewhale.io/api/static/docs/1727178460307_image.png)
+### 5. Migrating
+During migration, the progress will be displayed in full screen, and no other operations can be performed![](https://manage.icewhale.io/api/static/docs/1727178460307_image.png)
 
-### 6. Upon completion, a popup will show the migration details![](https://manage.icewhale.io/api/static/docs/1727178465734_image.png)
+### 6. Done
+Upon completion, a popup will show the migration details![](https://manage.icewhale.io/api/static/docs/1727178465734_image.png)
