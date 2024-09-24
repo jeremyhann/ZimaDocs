@@ -41,6 +41,7 @@ zimaos:
     build-multiple-clones-using-rsync: Build-Multiple-Clones-using-rsync.html
     data-migration: Data-Migration.html
     zfs-setup: ZFS-Setup.html
+    more-raid-options: More-RAID-Options.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
   community_makes:
