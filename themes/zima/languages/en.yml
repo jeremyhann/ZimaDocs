@@ -85,6 +85,7 @@ sidebar:
     build-apps: Build Apps
     7th-bay-led: 7th Bay LED
     setup-python: Setup Python
+    zfs-setup: ZFS Setup
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
