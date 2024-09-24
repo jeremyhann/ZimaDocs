@@ -87,6 +87,7 @@ sidebar:
     zfs-setup: ZFS Setup
     build-multiple-clones-using-rsync: Build Multiple Clones using rsync
     how-to-install-zimaos: SSH
+    sync-photos-via-configurable-cli: Sync Photos via Configurable CLI
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
