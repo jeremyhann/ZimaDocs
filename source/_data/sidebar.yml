@@ -54,6 +54,7 @@ zimaos:
   version:
     release-note: Release-Note.html
     v-1.2.2: v-1.2.2.html
+    v-1.2.4: v-1.2.4.html
   api: {}
 zimaboard:
   start_zimaboard:
