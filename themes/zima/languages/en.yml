@@ -67,7 +67,6 @@ sidebar:
     tutorials: Tutorials
     openapi: OpenAPI
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
-    how-to-install-zimaos: How to install ZimaOS
     release-note: v 1.2.3
     v-1.2.2: v 1.2.2
     install_offline: Update offline
@@ -85,8 +84,9 @@ sidebar:
     build-apps: Build Apps
     7th-bay-led: 7th Bay LED
     setup-python: Setup Python
-    sync-photos-via-configurable-cli: Sync Photos via Configurable CLI
     zfs-setup: ZFS Setup
+    build-multiple-clones-using-rsync: Build Multiple Clones using rsync
+    how-to-install-zimaos: SSH
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
