@@ -44,6 +44,7 @@ zimaos:
     more-raid-options: More-RAID-Options.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
+    networking: Networking.html
   community_makes:
     how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
   version:
