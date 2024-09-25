@@ -51,8 +51,8 @@ sidebar:
     fan-interface-instructions: BIOS Configuration
     pcie-interface-instructions: RAID SSD Expansion
     tutorials: Auto Power-on
-    thunderbolt-port-instructions: GPU Expansion
     usb-port-instructions: GPU Expansion
+    thunderbolt-port-instructions: Auto Power-On
   zimaos:
     placeholder: Placeholder
     portal: Home
