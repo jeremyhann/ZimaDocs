@@ -51,6 +51,7 @@ sidebar:
     hardware-details: Hardware Details
     how-to-install-zimaos: Install ZimaOS
     fan-interface-instructions: Install TrueNAS
+    install-unraid: Install UnRAID
     install-truenas: Install TrueNAS
   zimaos:
     placeholder: Placeholder
