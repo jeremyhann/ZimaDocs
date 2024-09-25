@@ -30,7 +30,6 @@ sidebar:
     user-guide: User Guide
     advanced-using: Advanced Using
     zimaos-application-content: ZimaOS application content
-    instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
     ram-interface-instructions: RAM Interface Instructions
     how-to-install-and-remove-the-7th-bay: How to Install and Remove the 7th Bay
     from-synology-to-zimacube，migrate-all-files!: From Synology to ZimaCube，migrate all files!
@@ -53,6 +52,7 @@ sidebar:
     tutorials: Auto Power-on
     usb-port-instructions: GPU Expansion
     thunderbolt-port-instructions: Auto Power-On
+    instructions-for-use-of-the-7th-bay: '7th Bay Usage '
   zimaos:
     placeholder: Placeholder
     portal: Home
