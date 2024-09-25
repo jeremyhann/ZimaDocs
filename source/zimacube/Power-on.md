@@ -17,7 +17,7 @@ In addition to the HDD bays, ZimaCube includes 4 M.2 NVMe SSD bays. These bays p
 
 >**M.2 NVMe SSD: **A newer SSD format known for its compact design and incredible data transfer speeds, typically exceeding traditional SATA SSDs.
 # Thunderbolt
-imaCube Pro models are equipped with Thunderbolt 4 ports, allowing for extremely high-speed data transfer rates of up to 40Gbps. Thunderbolt 4 is particularly beneficial for users transferring large files, such as 4K video content, or connecting external displays and other high-performance peripherals.
+ZimaCube **Pro** models are equipped with Thunderbolt 4 ports, allowing for extremely high-speed data transfer rates of up to 40Gbps. Thunderbolt 4 is particularly beneficial for users transferring large files, such as 4K video content, or connecting external displays and other high-performance peripherals.
 
 >**Thunderbolt 4:** The latest version of the Thunderbolt standard, offering improved data transfer and display connectivity with a single port.
 # PCIe
