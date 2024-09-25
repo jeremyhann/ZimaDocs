@@ -6,7 +6,7 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ---
 ![](https://manage.icewhale.io/api/static/docs/1727252131055_image.png)
 ## Hardware environment：
-1X ZimaCube N100 prototype V2.0
+1X ZimaCube N100
 1X Monitor
 1X DP
 1X Keyboard
@@ -16,7 +16,7 @@ tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将
 ## Brief description of quick operation process:
 - Download the TrueNAS.iso image file and use Rufus to write this file to a USB flash drive as an installation disk.
 - Insert the installation disk into the ZimaCube N100 prototype V2.0 and pull it out after the installation is complete.
-- Restart ZimaCube N100 prototype V2.0
+- Restart ZimaCube N100
 - Log in and use TrueNAS
 ## Detailed installation process
 ### Step1: Download the image file
@@ -34,11 +34,11 @@ Use Rufus, select the USB disk device and add the iso file;
 ![](https://manage.icewhale.io/api/static/docs/1727253397674_image.png)
 **3.3 Installation succeeded**
 ![](https://manage.icewhale.io/api/static/docs/1727253463627_image.png)
-**3.4 Reboot ZimaCube N100 prototype V2.0**
+**3.4 Reboot ZimaCube N100**
 ![](https://manage.icewhale.io/api/static/docs/1727253479547_image.png)
 ### Step4: Read the IP and access TrueNas 
 ![](https://manage.icewhale.io/api/static/docs/1727253585033_image.png)
 Account: admin  Password: casaos
 ![](https://manage.icewhale.io/api/static/docs/1727253628359_image.png)
-## Now you can use TrueNAS in ZimaCube N100 prototype V2.0！
+## Now you can use TrueNAS in ZimaCube N100！
 ![](https://manage.icewhale.io/api/static/docs/1727253785261_image.png)
