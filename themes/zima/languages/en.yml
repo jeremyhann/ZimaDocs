@@ -91,6 +91,7 @@ sidebar:
     v-1.2.4: v 1.2.4
     how-to-enable-plex-hardware-transcoding-on-zimacube: How to Contribute
     openapi-live-preview: OpenAPI Live Preview
+    how-to-use-openapi: 'How to use '
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
