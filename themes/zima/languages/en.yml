@@ -33,7 +33,6 @@ sidebar:
     instructions-for-use-of-the-7th-bay: The 7th Bay Usage Instructions
     thunderbolt-port-instructions: Thunderbolt Port Instructions
     ram-interface-instructions: RAM Interface Instructions
-    fan-interface-instructions: Fan Interface Instructions
     usb-port-instructions: USB Port Instructions
     pcie-interface-instructions: PCIe Interface Instructions
     tutorials: Power-On Auto Start Solution For ZimaCube
@@ -51,6 +50,7 @@ sidebar:
     power-on: Hardware Brief
     hardware-details: Hardware Details
     how-to-install-zimaos: Install ZimaOS
+    fan-interface-instructions: Install TrueNAS
   zimaos:
     placeholder: Placeholder
     portal: Home
