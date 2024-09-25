@@ -109,7 +109,7 @@ sidebar:
     how_to_check_ip_address: How to check IP address
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version
     power_on_zimaboard: Power On
-    how-to-set-up-a-nas-with-zimablade: Power On
+    power_on_zimablade: Hardware Brief
     hardware_interface_introduction: Hardware Brief
     minecraft-friendship-service: MineCraft Server App
     small_body_big_applications_omv_install: Install OMV
@@ -122,7 +122,7 @@ sidebar:
     universal_third-party_system_installation_tutorial: Install Universal OS
     small_body_big_applications_omv_first_experience: OMV Configuration
     self_deploying_applications: Setup 2-Bay NAS
-    power_on_zimablade: Power On
+    how-to-set-up-a-nas-with-zimablade: Hardware Brief
   knowledge:
     placeholder: Placeholder
     3rd_party_os: 3rd Party OS
