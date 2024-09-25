@@ -34,10 +34,11 @@ ZimaCube uses Intel N100/1235U processors, both of which incorporate Intel's lat
   - After saving, select a movie to play and select Convert Automatically in Playback settings.
   - Normally when using the built-in GPU for transcoding, it will add 4-8W of power consumption. And very little CPU power. This is very exciting.
 ![](https://manage.icewhale.io/api/static/docs/1727266979170_image.png)
-Before
-![](https://manage.icewhale.io/api/static/docs/1727266997124_image.png)
-After
-![](https://manage.icewhale.io/api/static/docs/1727267013579_image.png)
+
+| **Before**        | **After**         |
+|-------------------|-------------------|
+| ![Before Image](https://manage.icewhale.io/api/static/docs/1727266997124_image.png) | ![After Image](https://manage.icewhale.io/api/static/docs/1727267013579_image.png) |
+
 ### 2. Using the Nvidia GPU
 If you have a ZimaCube pro with a built-in Nviadia GPU, or you installed an Nvidia GPU yourself, you can follow the steps below to set it up:
   - A fresh installation is recommended.
@@ -60,3 +61,6 @@ If you have a ZimaCube pro with a built-in Nviadia GPU, or you installed an Nvid
 | **Before**        | **After**         |
 |-------------------|-------------------|
 | ![Before Image](https://manage.icewhale.io/api/static/docs/1727267241180_image.png)| ![After Image](https://manage.icewhale.io/api/static/docs/1727267268401_image.png)|
+
+## Concusion
+Both solutions can effectively support Plex's Hardware-Accelerated Streaming. The choice between NVIDIA and Intel GPUs depends on your specific needs and budget. If you need to handle high-resolution videos or multiple streams, an NVIDIA GPU might be the better choice. If you are more concerned with cost and power consumption, an Intel GPU might be more suitable.
