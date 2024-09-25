@@ -4,7 +4,7 @@ description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-# introduction
+# Introduction
 The **Live Preview** feature in ZimaOS OpenAPI allows users to visually explore the structure of API endpoints and available requests. It helps developers understand the API's functionalities and how to interact with different components. This feature is particularly useful for those looking to get a clear overview of ZimaOS's capabilities before implementation.
 # API List
 - [ZimaOS API V2](https://editor.swagger.io/?url=https://raw.githubusercontent.com/IceWhaleTech/IceWhale-OpenAPI/main/zimaos/zimaos/openapi.yaml): Miscellaneous APIs, GPU, Remote Access, etc.
