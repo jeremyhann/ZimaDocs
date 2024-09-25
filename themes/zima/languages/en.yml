@@ -66,7 +66,6 @@ sidebar:
     zimaos-application-content: ZimaOS application content
     tutorials: Tutorials
     openapi: OpenAPI
-    how-to-enable-plex-hardware-transcoding-on-zimacube: How to enable Plex hardware transcoding on ZimaCube
     release-note: v 1.2.3
     v-1.2.2: v 1.2.2
     install_offline: Update offline
@@ -90,7 +89,8 @@ sidebar:
     sync-photos-via-configurable-cli: Sync Photos via Configurable CLI
     a-list-of-contributions: A list of Contributions
     v-1.2.4: v 1.2.4
-    how-to-use-openapi: How to use OpenAPI
+    how-to-enable-plex-hardware-transcoding-on-zimacube: How to Contribute
+    openapi-live-preview: OpenAPI Live Preview
   zimaboard:
     placeholder: Placeholder
     start_zimaboard: ZimaBoard
