@@ -4,12 +4,12 @@ description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-# ZimaOS is a NAS operating system. Here are the detailed steps to help you successfully install ZimaOS V1.2.2.
+ZimaOS is a NAS operating system. Here are the detailed steps to help you successfully install ZimaOS V1.2.2.
 
 ## Step 1: Download ZimaOS V1.2.2 Image
 First, you need to download the ZimaOS V1.2.2 image file. You can download it from the following link:
 
-https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.2/zimaos_zimacube-1.2.2_installer.img 46
+https://casaos.oss-cn-shanghai.aliyuncs.com/IceWhaleTech/zimaos-rauc/releases/download/1.2.2/zimaos_zimacube-1.2.2_installer.img
 
 ## Step 2: Flash the Image to a USB Drive
 Once the download is complete, you need to flash the image file to a USB drive. It is recommended to use the Balena Etcher tool for this process. Here are the steps:
