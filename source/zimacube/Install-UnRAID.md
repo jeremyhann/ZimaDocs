@@ -1,9 +1,10 @@
 ---
-title: Install UnRAID
+title: How to install UnRAID on ZimaCube
 description:
 type: “Docs”
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
+# ZimaCube Install TrueNAS Guide
 ![](https://manage.icewhale.io/api/static/docs/1727249736896_image.png)
 ## Hardware environment：
 1X ZimaCube
