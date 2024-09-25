@@ -55,7 +55,8 @@ zimaos:
     release-note: Release-Note.html
     v-1.2.2: v-1.2.2.html
     v-1.2.4: v-1.2.4.html
-  api: {}
+  api:
+    how-to-use-openapi: How-to-use-OpenAPI.html
 zimaboard:
   start_zimaboard:
     power_on_zimaboard: index.html
