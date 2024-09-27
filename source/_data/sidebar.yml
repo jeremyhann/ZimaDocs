@@ -18,7 +18,6 @@ zimacube:
   community_makes:
     tutorials: Tutorials.html
     how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
-    how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
     detailed-plex-operation-guide: Detailed-Plex-Operation-Guide.html
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
   faq:
@@ -44,6 +43,7 @@ zimaos:
     more-raid-options: More-RAID-Options.html
     from-synology-to-zimacube，migrate-all-files!: From-Synology-to-ZimaCube，migrate-all-files!.html
     how-to-open-ssh-in-zimaos: How-to-Open-SSH-in-ZimaOS.html
+    how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
   dev:
     how-to-install-zimaos: How-to-install-ZimaOS.html
     networking: Networking.html
