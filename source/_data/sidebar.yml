@@ -16,9 +16,9 @@ zimacube:
     install-unraid: Install-UnRAID.html
     install-truenas: Install-TrueNAS.html
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
-  community_makes:
-    tutorials: Tutorials.html
-    how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
+  community_makes: {}
+    # tutorials: Tutorials.html
+    # how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
   faq:
     troubleshooting: Troubleshooting.html
     creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
