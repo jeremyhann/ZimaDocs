@@ -28,7 +28,6 @@ zimaos:
     get-started: Get-Started.html
     features: Features.html
   explore_zimaos:
-    install_offline: Install-offline.html
     sync-photos-with-immich: Sync-Photos-with-Immich.html
     media-server-setup-with-jellyfin: Media-Server-Setup-with-Jellyfin.html
     nvr-camera-server: NVR-Camera-Server.html
@@ -50,6 +49,7 @@ zimaos:
     setup-python: Setup-Python.html
     build-apps: Build-Apps.html
     7th-bay-led: 7th-Bay-LED.html
+    install_offline: Install-offline.html
   community_makes:
     how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
     a-list-of-contributions: A-list-of-Contributions.html
