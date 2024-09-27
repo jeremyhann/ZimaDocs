@@ -94,6 +94,7 @@ sidebar:
     how-to-use-openapi: 'How to use '
     from-synology-to-zimacube，migrate-all-files!: Migrate all Files!
     how-to-understand-docker-app's-paths-on-zimaos: Docker App's paths On ZimaOS
+    how-to-open-ssh-in-zimaos: Open SSH in ZimaOS
     detailed-plex-operation-guide: Detailed Plex Operation Guide
   zimaboard:
     placeholder: Placeholder
