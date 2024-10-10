@@ -8,6 +8,7 @@ timezone: UTC
 skip_render: jump/*.html
 url: https://docs-test.zimaspace.com
 root: /docs
+public_dir: public/docs
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 default_layout: page
