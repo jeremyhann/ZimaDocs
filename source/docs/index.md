@@ -1,6 +1,5 @@
 ---
 title: Get Started with ZimaBoard
-description: Whether you are an expert or a novice, this Quick Start tutorial will take you through the basic hardware specifications of the ZimaBoard, the basic applications of the pre-built home server, and some basic account permission systems for debugging and development
 type: “Docs”
 ---
 # First Look at the Home Server

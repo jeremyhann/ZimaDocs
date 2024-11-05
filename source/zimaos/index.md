@@ -1,10 +1,11 @@
 ---
 title: Welcome to Zima Space
-description:
+description: "Welcome to Zima Space! Learn about ZimaCube, ZimaOS, ZimaBoard, and ZimaBlade. Explore our flagship private cloud device, our full personal cloud OS, our compact server, and our DIY NAS solution. Discover how Zima products provide professional, user-friendly solutions for data asset management, privacy, and AI capabilities. Join our community and contribute to the evolution of our hardware and software. Start your exploration of Zima hardware and ZimaOS today!"
 type: “Docs”
+author: Lauren Pan
 tip: 顶部栏固定格式请勿删除,description为文章描述，不填时将截取内容最前一段文字
 ---
-# What's Zima
+## What's Zima
 -----------
 
 I'm Lauren from the Zima team—thank you for your interest. Let me briefly introduce Zima.
@@ -23,14 +24,14 @@ With this assumption, we embarked on Zima's journey of building and exploration.
 
   
 
-# Product Overview
+## Product Overview
 
 ## ZimaCube 
 <u>https://www.zimaspace.com/products/cube-personal-cloud</u>
 <table style="width:100%; table-layout: fixed;">
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <img src="https://manage.icewhale.io/api/static/docs/1726730281869_copyImage.png" alt="Description" style="max-width:100%; height:auto;">
+      <img src="https://manage.icewhale.io/api/static/docs/1730367361796_zimacube.png" alt="Description" style="max-width:100%; height:auto;">
     </td>
     <td style="width:50%; text-align:left; vertical-align:top;">
       <p><strong>ZimaCube</strong> is our flagship private cloud device launched in 2023 for professional users. Through Kickstarter, we garnered support from 1,252 backers and became one of the Top 30 hardware projects on Kickstarter for 2023.</p>

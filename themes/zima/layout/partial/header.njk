@@ -2,27 +2,27 @@
   <header id="header" >
     <div id="header-inner" class="inner">
       <div class="logo-container">
-        <h1 id="logo-wrap">
+        <h2 id="logo-wrap">
           {# <a href="{{ url_for_lang('/zimacube') }}" id="logo">Zima-Docs</a> #}
           <a href="https://www.zimaspace.com" id="logo">Zima-Docs</a>
-        </h1>
+        </h2>
       </div>
       <div class="nav-container">
         <nav id="main-nav" class="maxmenu white-style brackets-style nav-animation fade-down-animation" >
           <ul id="menu-main-menu" class="maxmenu-list">
 
             {{ header_menu('main-nav') }}
-            <li class="menu-item menu-item-has-children" >
+            <li class="menu-item menu-item-has-children">
               <span class="maxmenu-click">
                 <i class="maxmenu-arrow"></i>
               </span>
               <a href="#">
-                <img src="/img/lang.svg" />
+                <img src="{{url_for('/img/lang.svg')}}" />
               </a>
               <ul class="sub-menu">
                 {% for lang, value in site.data.languages %}
                   <li class="menu-item">
-                    <a href="{{ lang_url(lang,canonical_path_for_nav()) }}">{{ lang_name(lang) }}</a>
+                    <a href="{{ url_for(lang_url(lang,canonical_path_for_nav())) }}">{{ lang_name(lang) }}</a>
                   </li>
                 {% endfor %}
               </ul>
@@ -36,7 +36,7 @@
         <div id="search-container-icon">
           <i class="fa fa-search" id="showSearch"></i>
         </div>
-        <a class="shop" href="https://shop.zimaboard.com/" target="_blank">Store</a>
+        <a class="shop" href="https://shop.zimaboard.com/" target="_blank">{{ __('menu.store') }}</a>
       </div>
 
       <a id="mobile-nav-toggle">
@@ -58,7 +58,7 @@
       <div id="search-input-icon">
         {# <i class="fa fa-search"></i> #}
       </div>
-      <input type="search" id="search-input" placeholder="Search...">
+      <input type="search" id="search-input" placeholder="{{__('page.search')}}...">
     </div>
     <div id="resultContent"></div>
   </div>

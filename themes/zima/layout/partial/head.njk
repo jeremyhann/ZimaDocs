@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Canonical links -->
-  <link rel="canonical" href="{{ url }}">
+  <link rel="canonical" href="{{ url.replace('.html','') }}">
   <!-- Alternative links -->
   {% if page.layout == 'page' or page.layout == 'index' %}
     {% for lang, value in site.data.languages %}
@@ -56,5 +56,28 @@
     description: description
   }) }}
   {{ partial('google_analytics') }}
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.description }}",
+      "image": "{{ page.feature_image }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ page.author or 'ZimaSpace' }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Zima",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www.zimaspace.com/docs/logo.svg"
+        }
+      },
+      "datePublished": "{{ page.date }}"
+    }
+    </script>
 
 </head>

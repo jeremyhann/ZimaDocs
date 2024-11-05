@@ -1,6 +1,5 @@
 ---
 title: Self-Deploying-Applications
-description:
 typora-root-url: ..
 ---
 # Reason

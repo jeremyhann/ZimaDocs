@@ -1,37 +1,39 @@
 zimacube:
   start_zimacube:
     quick-start: index.html
-    create-nas: Create-NAS.html
-    power-on: Power-on.html
+    create-nas: PC-Direct.html
+    power-on: Hardware-Brief.html
     hardware-details: Hardware-Details.html
   explore_zimacube:
     hdd-interface-usage-guide: HDD-Interface-Usage-Guide.html
     instructions-for-use-of-the-7th-bay: Instructions-for-use-of-the-7th-Bay.html
-    thunderbolt-port-instructions: Thunderbolt-Port-Instructions.html
-    usb-port-instructions: USB-Port-Instructions.html
-    ram-interface-instructions: RAM-Interface-Instructions.html
-    pcie-interface-instructions: PCIe-Interface-Instructions.html
-    fan-interface-instructions: Fan-Interface-Instructions.html
+    thunderbolt-port-instructions: Auto-Power-On.html
+    usb-port-instructions: GPU-Expansion.html
+    ram-interface-instructions: Plex-and-GPU-Transcoding.html
+    pcie-interface-instructions: RAID-SSD-Expansion.html
+    fan-interface-instructions: BIOS-Configuration.html
     how-to-install-zimaos: How-to-Install-ZimaOS.html
     install-unraid: Install-UnRAID.html
     install-truenas: Install-TrueNAS.html
     zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
+    transfer-speeds-over-thunderbolt: Transfer-Speeds-Over-Thunderbolt.html
   community_makes: {}
-    # tutorials: Tutorials.html
-    # how-to-install-and-remove-the-7th-bay: How-to-Install-and-Remove-the-7th-Bay.html
   faq:
-    troubleshooting: Troubleshooting.html
+    troubleshooting: Resets-CMOS.html
     creating-raid-troubleshooting-guide: Creating-RAID-Troubleshooting-Guide.html
+    zimacube-bios-update-method-: ZimaCube-Bios-Update-Method-.html
+    memory-test-tutorial: Memory-Test-Tutorial.html
 zimaos:
   start_zimaos:
     portal: index.html
     get-started: Get-Started.html
     features: Features.html
+    romote-access: Romote-Access.html
+    thunderbolt-pc-direct: Thunderbolt-PC-Direct.html
   explore_zimaos:
     sync-photos-with-immich: Sync-Photos-with-Immich.html
     media-server-setup-with-jellyfin: Media-Server-Setup-with-Jellyfin.html
     nvr-camera-server: NVR-Camera-Server.html
-    thunderbolt-pc-direct: Thunderbolt-PC-Direct.html
     link-synology-and-smb-shares: Link-Synology-and-SMB-Shares.html
     sync-photos-via-configurable-cli: Sync-Photos-via-Configurable-CLI.html
     connect-with-cloud-drives: Connect-with-Cloud-Drives.html
@@ -39,24 +41,35 @@ zimaos:
     data-migration: Data-Migration.html
     zfs-setup: ZFS-Setup.html
     more-raid-options: More-RAID-Options.html
-    from-synology-to-zimacube，migrate-all-files!: From-Synology-to-ZimaCube，migrate-all-files!.html
+    from-synology-to-zimacube，migrate-all-files!: migrate-files-from-Synology-to-ZimaCube.html
     how-to-open-ssh-in-zimaos: How-to-Open-SSH-in-ZimaOS.html
     how-to-understand-docker-app's-paths-on-zimaos: How-to-understand-Docker-App's-paths-On-ZimaOS.html
     detailed-plex-operation-guide: Detailed-Plex-Operation-Guide.html
+    webtorrent-feature: webtorrent-feature.html
+    how-to-manually-download-the-large-language-model: How-to-Manually-Download-the-Large-Language-Model.html
+    recover-your-password: Recover-Your-Password.html
+    get-network-id: Get-Network-ID.html
+    achieve-fastest-transfer-speed: Achieve-Fastest-Transfer-Speed.html
+    using-samba-as-a-member: Using-Samba-as-a-Member.html
+    how-to-download-and-install-zimaclient: How-to-download-and-install-ZimaClient.html
+    create-raid6-on-zimaos: Create-Raid6-on-ZimaOS.html
+    immich-tutorial: Immich-Tutorial.html
+    iscsi-usage-tutorial: iSCSI-usage-tutorial.html
   dev:
-    how-to-install-zimaos: How-to-install-ZimaOS.html
+    how-to-install-zimaos: set-your-SSH.html
     networking: Networking.html
     setup-python: Setup-Python.html
     build-apps: Build-Apps.html
     7th-bay-led: 7th-Bay-LED.html
     install_offline: Install-offline.html
   community_makes:
-    how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-enable-Plex-hardware-transcoding-on-ZimaCube.html
+    how-to-enable-plex-hardware-transcoding-on-zimacube: How-to-Contribute.html
     a-list-of-contributions: A-list-of-Contributions.html
   version:
-    release-note: Release-Note.html
-    v-1.2.2: v-1.2.2.html
+    zimaos-v1.2.5-available!: ZimaOS-v1.2.5-Available!.html
     v-1.2.4: v-1.2.4.html
+    release-note: v-1.2.3.html
+    v-1.2.2: v-1.2.2.html
   api:
     how-to-use-openapi: How-to-use-OpenAPI.html
     openapi-live-preview: OpenAPI-Live-Preview.html
@@ -66,7 +79,7 @@ zimaboard:
     hardware_interface_introduction: Hardware-Interface-Introduction.html
   start_zimablade:
     power_on_zimablade: Power-on-Zimablade.html
-    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
+    hardware-brief: Hardware-Brief.html
   hosting_apps:
     minecraft-friendship-service: MineCraft-Friendship-Service.html
   explore:
@@ -81,21 +94,40 @@ zimaboard:
     build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
     vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
     syncthing: Syncthing.html
+    enable-wol-on-zimaboard: Enable-WOL-on-Zimaboard.html
   faq:
     restore_factory_settings: Restore-factory-settings.html
     upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version.html
     how_to_check_ip_address: How-to-check-IP-address.html
+    bios-update-method: Bios-Update-Method.html
 knowledge:
   3rd_party_os:
     install_unraid_on_zima_device: index.html
 docs:
   getting_started:
     start_zimaboard: index.html
-  operating_systems: {}
-  entertainment_hub: {}
+    self_deploying_applications: Self-Deploying-Applications.html
+    hardware_interface_introduction: Hardware-Interface-Introduction.html
+    how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
+  operating_systems:
+    small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
+    small_body_big_applications_omv_first_experience: Small-body-Big-applications-OMV-First-Experience.html
+    unraid_first_experience_at_$129_installation: Unraid-First-Experience-at-$129-Installation.html
+    all-in-one_routing_system-openwrt: All-in-one-routing-system-OpenWRT.html
+    openwrt_emmc_boot: Openwrt-eMMc-boot.html
+    universal_third-party_system_installation_tutorial: Universal-third-party-system-installation-tutorial.html
+  entertainment_hub:
+    basic_functions_of_dedicated_systems: Basic-functions-of-dedicated-systems.html
+    build_a_75_inch_4k_arcade_with_zimaboard_and_batocera: Build-a-75-inch-4K-Arcade-with-ZimaBoard-and-Batocera.html
+    vr_audio_and_video_experience-oculus: VR-Audio-And-Video-Experience-Oculus.html
   hardware_expansion:
     unraid_first_experience_at_$129_five_drive_disks_nas: Unraid-First-Experience-At-$129-Five-drive-Disks-Nas.html
-  server_playground: {}
+    zimacube-motherboard-diy-fan-guide-and-specifications: ZimaCube-Motherboard-DIY-Fan-Guide-and-Specifications.html
+  server_playground:
+    minecraft-friendship-service: MineCraft-Friendship-Service.html
 faq:
   technical_support:
     faq: index.html
+    upgrade_motherboard_bios_version: Upgrade-Motherboard-BIOS-Version.html
+    restore_factory_settings: Restore-factory-settings.html
+    how_to_check_ip_address: How-to-check-IP-address.html

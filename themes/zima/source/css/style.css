@@ -21,7 +21,9 @@ body {
 	overflow-x: hidden;
 	font-size:16px;
 }
-
+u {
+  text-decoration: none;
+}
 a {
 	color: #111111;
 	outline: 0 none;
@@ -7643,7 +7645,6 @@ margin: 0px 5px;}
 .site-footer {
 	background-position: center;
 	background-size: cover;
-  width: 100%;
 }
 
 .site-footer p {
@@ -7876,7 +7877,7 @@ margin: 0px 5px;}
 /*-------------------------------------
 	2. Footer dark version css
 -------------------------------------*/
-.site-footer {overflow:hidden;}
+.site-footer {overflow:hidden;width: 100%;}
 
 .footer-dark.site-footer {	border-top: 0px solid #212121;	overflow:hidden;}
 

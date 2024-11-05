@@ -62,7 +62,7 @@ Write PVE to the USB drive to create the PVE installation media:
 
   
 
-Install memory, connect the Ethernet, and video cables to ZimaBlade. For a detailed step-by-step guide on installing memory and other components on ZimaBlade, refer to this comprehensive tutorial: [Set up a NAS with ZimaBlade](https://docs.zimaboard.com/docs/How-to-set-up-a-NAS-with-ZimaBlade.html).
+Install memory, connect the Ethernet, and video cables to ZimaBlade. For a detailed step-by-step guide on installing memory and other components on ZimaBlade, refer to this comprehensive tutorial: [Set up a NAS with ZimaBlade](https://www.zimaspace.com/docs/docs/How-to-set-up-a-NAS-with-ZimaBlade.html).
 
   
 
@@ -176,4 +176,4 @@ Service migration is just the beginning. With Ceph, you can automatically migrat
 
   
 
-If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://community.zimaspace.com/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about PVE and ZimaBlade. We look forward to your feedback!
+If you encounter any issues during use, feel free to let us know at any time. You can also join our [community](https://icewhale.community/) and [Discord](https://discord.gg/uuNfKzG5) to discuss more about PVE and ZimaBlade. We look forward to your feedback!
