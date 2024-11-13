@@ -18,7 +18,7 @@ page:
   improve: 改进此文档
   prev: 上一页
   next: 下一页
-  last_updated: '最后更新：%s'
+  last_updated: 最后更新：%s
   search: 搜索
 footer:
   subscribe-title: 保持联系
@@ -90,6 +90,7 @@ sidebar:
     zimacube-bios-update-method-: ZimaCube BIOS 更新方法
     memory-test-tutorial: 内存测试教程
     transfer-speeds-over-thunderbolt: Thunderbolt 传输速度
+    test-artical: 测试文章
   zimaos:
     whats_zima: 什么是Zima
     placeholder: 占位符
