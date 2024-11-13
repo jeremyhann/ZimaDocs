@@ -22,7 +22,9 @@ page:
   search: Search
 footer:
   subscribe-title: Keep in touch
-  subscribe-text: Join our subscribers list to get the latest news, updates and special offers.
+  subscribe-text: >-
+    Join our subscribers list to get the latest news, updates and special
+    offers.
   subscribe: Subscribe
   enter-email: Enter your email address
   Zima: Zima
@@ -91,6 +93,7 @@ sidebar:
     zimacube-bios-update-method-: 'ZimaCube Bios Update Method '
     memory-test-tutorial: Memory Test Tutorial
     transfer-speeds-over-thunderbolt: Transfer Speeds Over Thunderbolt
+    test-artical: test artical
   zimaos:
     whats_zima: What's Zima
     placeholder: Placeholder
