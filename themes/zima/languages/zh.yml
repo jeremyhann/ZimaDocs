@@ -71,7 +71,6 @@ sidebar:
     how-to-open-ssh-in-zimaos: 如何在 ZimaOS 中打开 SSH
     detailed-plex-operation-guide: Plex 详细操作指南
     hdd-interface-usage-guide: 安装硬盘指南
-    create-nas: PC 直连
     quick-start: 开机指南
     power-on: 硬件简述
     hardware-details: 硬件详情
@@ -91,6 +90,7 @@ sidebar:
     memory-test-tutorial: 内存测试教程
     transfer-speeds-over-thunderbolt: Thunderbolt 传输速度
     test-artical: 测试文章
+    create-nas: PC 直销
   zimaos:
     whats_zima: 什么是Zima
     placeholder: 占位符
