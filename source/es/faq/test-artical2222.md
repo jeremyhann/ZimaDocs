@@ -1,5 +1,5 @@
 ---
-título: artículo de prueba
+title: artículo de prueba
 descripción: 
 tipo: Docs
 autor: admin
