@@ -111,6 +111,7 @@ docs:
     self_deploying_applications: Self-Deploying-Applications.html
     hardware_interface_introduction: Hardware-Interface-Introduction.html
     how-to-set-up-a-nas-with-zimablade: How-to-set-up-a-NAS-with-ZimaBlade.html
+    test-title: test-title.html
   operating_systems:
     small_body_big_applications_omv_install: Small-body-Big-applications-OMV-install.html
     small_body_big_applications_omv_first_experience: Small-body-Big-applications-OMV-First-Experience.html
